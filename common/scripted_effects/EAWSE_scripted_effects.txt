@@ -1,807 +1,808 @@
 EAWSE_show_super_event = {
+	set_variable = { EAWSE_super_event = EAWSE_temp_super_event }
 	if = {
-		limit = { check_variable = { global.EAWSE_super_event = 1 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 1 } }
 		sound_effect = "super_event_nightmare_moon_civil_war_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 2 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 2 } }
 		sound_effect = "super_event_daybreaker_ascends_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 3 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 3 } }
 		sound_effect = "super_event_two_sisters_war_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 4 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 4 } }
 		sound_effect = "super_event_sombra_returns_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 5 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 5 } }
 		sound_effect = "super_event_great_war_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 6 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 6 } }
 		sound_effect = "super_event_great_war_equestrian_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 7 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 7 } }
 		sound_effect = "super_event_great_war_changelings_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 8 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 8 } }
 		sound_effect = "super_event_elf_uprising_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 9 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 9 } }
 		sound_effect = "super_event_elf_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 10 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 10 } }
 		sound_effect = "super_event_elf_defeated_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 11 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 11 } }
 		sound_effect = "super_event_grover_v_death_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 12 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 12 } }
 		sound_effect = "super_event_lord_protector_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 13 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 13 } }
 		sound_effect = "super_event_great_war_solar_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 14 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 14 } }
 		sound_effect = "super_event_great_war_lunar_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 15 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 15 } }
 		sound_effect = "super_event_sombra_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 16 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 16 } }
 		sound_effect = "super_event_aquileian_revolution_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 17 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 17 } }
 		sound_effect = "super_event_triumph_republican_dream_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 18 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 18 } }
 		sound_effect = "super_event_death_republican_dreamn_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 19 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 19 } }
 		sound_effect = "super_event_grover_vi_coronation_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 20 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 20 } }
 		sound_effect = "super_event_grover_ii_resurrection_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 21 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 21 } }
 		sound_effect = "super_event_maresoc_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 22 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 22 } }
 		sound_effect = "super_event_equestria_in_exile_strikes_back_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 23 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 23 } }
 		sound_effect = "super_event_twilight_sparkle_princess_of_harmony_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 24 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 24 } }
 		sound_effect = "super_event_triumph_republican_dream_communist_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 25 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 25 } }
 		sound_effect = "super_event_triumph_republican_dream_authoritarian_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 26 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 26 } }
 		sound_effect = "super_event_river_empire_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 27 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 27 } }
 		sound_effect = "super_event_lord_protector_unites_herzland_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 28 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 28 } }
 		sound_effect = "super_event_thorax_uprising_successful_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 29 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 29 } }
 		sound_effect = "super_event_chrysalis_coronation_empress_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 30 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 30 } }
 		sound_effect = "super_event_stalliongrad_unites_equestria_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 31 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 31 } }
 		sound_effect = "super_event_stalliongrad_defeats_changelings_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 32 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 32 } }
 		sound_effect = "super_event_stalliongrad_defeated_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 33 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 33 } }
 		sound_effect = "super_event_stalliongrad_marches_on_equestria_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 34 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 34 } }
 		sound_effect = "super_event_triumph_republican_dream_supremacist_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 35 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 35 } }
 		sound_effect = "super_event_dread_league_apocalypse_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 36 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 36 } }
 		sound_effect = "super_event_ost_griffonian_empire_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 37 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 37 } }
 		sound_effect = "super_event_pan_griffonian_commonwealth_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 38 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 38 } }
 		sound_effect = "super_event_world_socialist_republic_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 39 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 39 } }
 		sound_effect = "super_event_holy_pony_empire_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 40 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 40 } }
 		sound_effect = "super_event_griffonian_empire_river_coalition_war_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 41 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 41 } }
 		sound_effect = "super_event_longsword_golden_morning_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 42 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 42 } }
 		sound_effect = "super_event_longsword_powner_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 43 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 43 } }
 		sound_effect = "super_event_karthinian_empire_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 44 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 44 } }
 		sound_effect = "super_event_dark_wing_unites_equestria_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 45 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 45 } }
 		sound_effect = "super_event_war_of_two_continents_eqs_gri_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 46 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 46 } }
 		sound_effect = "super_event_war_of_two_continents_chn_gri_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 47 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 47 } }
 		sound_effect = "super_event_war_of_two_continents_stg_gri_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 48 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 48 } }
 		sound_effect = "super_event_workers_empire_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 49 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 49 } }
 		sound_effect = "super_event_war_of_two_continents_sol_gri_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 50 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 50 } }
 		sound_effect = "super_event_war_of_two_continents_nlr_gri_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 51 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 51 } }
 		sound_effect = "super_event_great_war_changelings_defeated_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 52 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 52 } }
 		sound_effect = "super_event_stalliongrad_intervention_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 53 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 53 } }
 		sound_effect = "super_event_equestria_in_exile_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 54 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 54 } }
 		sound_effect = "super_event_dread_league_black_crusade_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 55 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 55 } }
 		sound_effect = "super_event_arcturian_order_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 56 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 56 } }
 		sound_effect = "super_event_bal_lavender_berry_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 57 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 57 } }
 		sound_effect = "super_event_river_federation_river_swirl_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 58 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 58 } }
 		sound_effect = "super_event_river_federation_arclight_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 59 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 59 } }
 		sound_effect = "super_event_river_federation_nova_whirl_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 60 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 60 } }
 		sound_effect = "super_event_river_federation_caramel_haze_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 61 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 61 } }
 		sound_effect = "super_event_river_federation_metakeros_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 62 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 62 } }
 		sound_effect = "super_event_river_federation_grimhoof_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 63 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 63 } }
 		sound_effect = "super_event_river_federation_crimson_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 64 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 64 } }
 		sound_effect = "super_event_river_federation_princess_molly_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 65 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 65 } }
 		sound_effect = "super_event_river_federation_rover_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 66 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 66 } }
 		sound_effect = "super_event_river_federation_dierdre_skye_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 67 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 67 } }
 		sound_effect = "super_event_river_federation_leeward_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 68 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 68 } }
 		sound_effect = "super_event_river_federation_wavebreaker_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 69 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 69 } }
 		sound_effect = "super_event_river_federation_water_lily_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 70 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 70 } }
 		sound_effect = "super_event_river_federation_tea_dip_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 71 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 71 } }
 		sound_effect = "super_event_river_federation_bray_foam_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 72 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 72 } }
 		sound_effect = "super_event_river_federation_firm_scow_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 73 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 73 } }
 		sound_effect = "super_event_river_federation_river_swirl_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 74 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 74 } }
 		sound_effect = "super_event_river_federation_voliare_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 75 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 75 } }
 		sound_effect = "super_event_river_federation_river_swirl_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 76 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 76 } }
 		sound_effect = "super_event_river_federation_wit_neutral_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 77 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 77 } }
 		sound_effect = "super_event_herzland_ang_leer_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 78 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 78 } }
 		sound_effect = "super_event_herzland_ang_othmar_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 79 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 79 } }
 		sound_effect = "super_event_herzland_ang_commune_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 80 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 80 } }
 		sound_effect = "super_event_herzland_ang_bluhm_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 81 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 81 } }
 		sound_effect = "super_event_herzland_ang_ordenstaat_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 82 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 82 } }
 		sound_effect = "super_event_herzland_ang_weschler_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 83 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 83 } }
 		sound_effect = "super_event_herzland_pyt_frienship_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 84 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 84 } }
 		sound_effect = "super_event_herzland_pyt_holy_republic_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 85 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 85 } }
 		sound_effect = "super_event_herzland_pyt_com_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 86 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 86 } }
 		sound_effect = "super_event_herzland_pyt_dietrich_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 87 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 87 } }
 		sound_effect = "super_event_herzland_pyt_truthahn_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 88 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 88 } }
 		sound_effect = "super_event_herzland_pyt_erebus_emperor_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 89 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 89 } }
 		sound_effect = "super_event_herzland_pyt_erebus_republic_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 90 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 90 } }
 		sound_effect = "super_event_herzland_pyt_truthahn_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 91 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 91 } }
 		sound_effect = "super_event_herzland_yal_grover_ii_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 92 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 92 } }
 		sound_effect = "super_event_herzland_yal_boreas_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 93 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 93 } }
 		sound_effect = "super_event_herzland_yal_the_new_spark_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 94 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 94 } }
 		sound_effect = "super_event_herzland_yal_technocracy_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 95 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 95 } }
 		sound_effect = "super_event_herzland_yal_com_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 96 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 96 } }
 		sound_effect = "super_event_herzland_kat_duskfeather_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 97 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 97 } }
 		sound_effect = "super_event_herzland_kat_katerintreue_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 98 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 98 } }
 		sound_effect = "super_event_herzland_kat_hector_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 99 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 99 } }
 		sound_effect = "super_event_herzland_kat_grimclaw_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 100 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 100 } }
 		sound_effect = "super_event_herzland_rou_com_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 101 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 101 } }
 		sound_effect = "super_event_herzland_rou_harmony_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 102 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 102 } }
 		sound_effect = "super_event_herzland_rou_neutral_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 103 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 103 } }
 		sound_effect = "super_event_herzland_pyt_truthahn_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 104 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 104 } }
 		sound_effect = "super_event_herzland_fea_com_stappenbeld_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 105 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 105 } }
 		sound_effect = "super_event_herzland_fea_com_kogchel_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 106 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 106 } }
 		sound_effect = "super_event_herzland_fea_com_rozenkamp_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 107 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 107 } }
 		sound_effect = "super_event_herzland_fea_fnv_heeren_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 108 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 108 } }
 		sound_effect = "super_event_herzland_fea_fnv_moldernik_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 109 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 109 } }
 		sound_effect = "super_event_herzland_fea_fnv_vorst_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 110 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 110 } }
 		sound_effect = "super_event_herzland_fea_duke_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 111 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 111 } }
 		sound_effect = "super_event_herzland_fea_unwilling_dictator_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 112 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 112 } }
 		sound_effect = "super_event_herzland_fea_coalition_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 113 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 113 } }
 		sound_effect = "super_event_herzland_stw_harmony_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 114 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 114 } }
 		sound_effect = "super_event_herzland_stw_communism_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 115 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 115 } }
 		sound_effect = "super_event_herzland_brz_church_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 116 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 116 } }
 		sound_effect = "super_event_herzland_stw_neutral_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 117 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 117 } }
 		sound_effect = "super_event_herzland_brz_harmony_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 118 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 118 } }
 		sound_effect = "super_event_herzland_brz_neutral_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 119 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 119 } }
 		sound_effect = "super_event_herzland_brz_communism_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 120 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 120 } }
 		sound_effect = "super_event_herzland_brz_juche_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 121 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 121 } }
 		sound_effect = "super_event_herzland_brz_supremacy_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 122 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 122 } }
 		sound_effect = "super_event_herzland_brz_church_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 123 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 123 } }
 		sound_effect = "super_event_bronzehill_revenge_juche_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 124 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 124 } }
 		sound_effect = "super_event_bronzehill_revenge_supremacy_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 125 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 125 } }
 		sound_effect = "super_event_arcturian_order_holy_crusade_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 126 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 126 } }
 		sound_effect = "super_event_new_mareland_equalists_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 127 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 127 } }
 		sound_effect = "super_event_imperium_of_maar_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 128 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 128 } }
 		sound_effect = "super_event_free_territory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 129 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 129 } }
 		sound_effect = "super_event_grf_highhill_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 130 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 130 } }
 		sound_effect = "super_event_grf_ironclaw_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 131 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 131 } }
 		sound_effect = "super_event_grf_goldfeather_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 132 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 132 } }
 		sound_effect = "super_event_bal_ahuizotl_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 133 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 133 } }
 		sound_effect = "super_event_karthinian_republic_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 134 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 134 } }
 		sound_effect = "super_event_karthinian_kingdom_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 135 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 135 } }
 		sound_effect = "super_event_bal_golden_delicious_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 136 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 136 } }
 		sound_effect = "super_event_bal_cricket_chafer_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 137 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 137 } }
 		sound_effect = "super_event_bal_anarchists_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 138 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 138 } }
 		sound_effect = "super_event_lsp_mayor_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 139 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 139 } }
 		sound_effect = "super_event_lsp_pine_chest_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 140 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 140 } }
 		sound_effect = "super_event_lsp_rockfeller_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 141 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 141 } }
 		sound_effect = "super_event_lsp_mr_horse_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 142 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 142 } }
 		sound_effect = "super_event_lsp_syndicalist_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 143 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 143 } }
 		sound_effect = "super_event_lsp_socdem_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 144 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 144 } }
 		sound_effect = "super_event_vanhoover_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 145 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 145 } }
 		sound_effect = "super_event_aquileian_empire_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 146 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 146 } }
 		sound_effect = "super_event_pan_griffonian_dream_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 147 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 147 } }
 		sound_effect = "super_event_evi_brodfeld_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 148 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 148 } }
 		sound_effect = "super_event_evi_gla_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 149 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 149 } }
 		sound_effect = "super_event_evi_gryphian_host_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 150 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 150 } }
 		sound_effect = "super_event_evi_lushi_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 151 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 151 } }
 		sound_effect = "super_event_evi_gryphus_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 152 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 152 } }
 		sound_effect = "super_event_falcor_revenge_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 153 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 153 } }
 		sound_effect = "super_event_great_zaphia_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 154 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 154 } }
 		sound_effect = "super_event_megali_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 155 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 155 } }
 		sound_effect = "super_event_scs_confederate_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 156 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 156 } }
 		sound_effect = "super_event_river_federation_clifford_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 157 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 157 } }
 		sound_effect = "super_event_barrad_asinti_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 158 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 158 } }
 		sound_effect = "super_event_barrad_leopold_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 159 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 159 } }
 		sound_effect = "super_event_barrad_silver_star_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 160 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 160 } }
 		sound_effect = "super_event_barrad_viira_herald_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 161 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 161 } }
 		sound_effect = "super_event_barrad_viira_goddess_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 162 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 162 } }
 		sound_effect = "super_event_barrad_viira_the_end_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 163 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 163 } }
 		sound_effect = "super_event_barrad_ambrosius_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 164 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 164 } }
 		sound_effect = "super_event_barrad_fall_of_pentarchy_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 165 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 165 } }
 		sound_effect = "super_event_stl_our_equestria_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 166 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 166 } }
 		sound_effect = "super_event_grf_virgil_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 167 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 167 } }
 		sound_effect = "super_event_great_war_stg_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 168 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 168 } }
 		sound_effect = "super_event_new_mareland_kingfisher_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 169 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 169 } }
 		sound_effect = "super_event_new_mareland_lunar_dominion_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 170 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 170 } }
 		sound_effect = "super_event_new_mareland_last_stand_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 171 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 171 } }
 		sound_effect = "super_event_river_coalition_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 172 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 172 } }
 		sound_effect = "super_event_griffonian_empire_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 173 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 173 } }
 		sound_effect = "super_event_aquileian_republic_victory_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 174 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 174 } }
 		sound_effect = "super_event_lunar_equus_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 175 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 175 } }
 		sound_effect = "super_event_solar_equus_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 176 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 176 } }
 		sound_effect = "super_event_trimmel_on_griffonian_throne_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 177 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 177 } }
 		sound_effect = "super_event_war_of_two_continents_maresoc_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 178 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 178 } }
 		sound_effect = "super_event_war_of_two_continents_viira_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 179 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 179 } }
 		sound_effect = "super_event_war_of_two_continents_juche_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 180 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 180 } }
 		sound_effect = "super_event_war_of_two_continents_hlq_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 181 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 181 } }
 		sound_effect = "super_event_crystal_regency_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 182 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 182 } }
 		sound_effect = "super_event_war_of_two_continents_riv_chn_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 183 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 183 } }
 		sound_effect = "super_event_nuke_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 184 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 184 } }
 		sound_effect = "super_event_north_zebrica_war_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 185 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 185 } }
 		sound_effect = "super_event_white_severyana_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 186 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 186 } }
 		sound_effect = "super_event_tsardom_of_severyana_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 187 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 187 } }
 		sound_effect = "super_event_col_first_cv_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 188 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 188 } }
 		sound_effect = "super_event_col_second_cv_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 189 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 189 } }
 		sound_effect = "super_event_col_third_cv_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 190 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 190 } }
 		sound_effect = "super_event_hip_victory_posada_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 191 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 191 } }
 		sound_effect = "super_event_hip_posada_final_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 192 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 192 } }
 		sound_effect = "super_event_hip_victory_harmony_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 193 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 193 } }
 		sound_effect = "super_event_hip_victory_siren_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 194 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 194 } }
 		sound_effect = "super_event_hip_siren_final_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 195 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 195 } }
 		sound_effect = "super_event_hip_victory_af_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 196 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 196 } }
 		sound_effect = "super_event_hip_victory_falanga_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 197 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 197 } }
 		sound_effect = "super_event_neo_hazrumenian_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 198 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 198 } }
 		sound_effect = "super_event_cloudbury_kingdom_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 199 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 199 } }
 		sound_effect = "super_event_griff_empire_final_se"
 	}
 	
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 800 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 800 } }
 		sound_effect = "super_event_tno_twilight_se"
 	}
 	else_if = {
-		limit = { check_variable = { global.EAWSE_super_event = 801 } }
+		limit = { check_variable = { EAWSE_temp_super_event = 801 } }
 		sound_effect = "super_event_tno_sablin_se"
 	}
 }
