@@ -1,0 +1,1173 @@
+sound = {
+	name = "super_event_great_war_sound"
+	file = "customsound/eaw_se_custom_great_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_great_war_equestrian_victory_sound"
+	file = "customsound/eaw_se_custom_great_war_equestrian_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_great_war_solar_victory_sound"
+	file = "customsound/eaw_se_custom_great_war_solar_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_great_war_lunar_victory_sound"
+	file = "customsound/eaw_se_custom_great_war_lunar_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_great_war_changelings_victory_sound"
+	file = "customsound/eaw_se_custom_great_war_changelings_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_elf_uprising_sound"
+	file = "customsound/eaw_se_custom_elf_uprising.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_elf_victory_sound"
+	file = "customsound/eaw_se_custom_elf_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_elf_defeated_sound"
+	file = "customsound/eaw_se_custom_elf_defeated.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_sombra_returns_sound"
+	file = "customsound/eaw_se_custom_sombra_returns.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_sombra_victory_sound"
+	file = "customsound/eaw_se_custom_sombra_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_nightmare_moon_civil_war_sound"
+	file = "customsound/eaw_se_custom_nightmare_moon_civil_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_daybreaker_ascends_sound"
+	file = "customsound/eaw_se_custom_daybreaker_ascends.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_two_sisters_war_sound"
+	file = "customsound/eaw_se_custom_two_sisters_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grover_v_death_sound"
+	file = "customsound/eaw_se_custom_grover_v_death.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lord_protector_sound"
+	file = "customsound/eaw_se_custom_lord_protector.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_aquileian_revolution_sound"
+	file = "customsound/eaw_se_custom_aquileian_revolution.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_triumph_republican_dream_sound"
+	file = "customsound/eaw_se_custom_triumph_republican_dream.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_death_republican_dreamn_sound"
+	file = "customsound/eaw_se_custom_death_republican_dream.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grover_vi_coronation_sound"
+	file = "customsound/eaw_se_custom_grover_vi_coronation.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grover_ii_resurrection_sound"
+	file = "customsound/eaw_se_custom_grover_ii_resurrection.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_maresoc_sound"
+	file = "customsound/eaw_se_custom_maresoc.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_equestria_in_exile_strikes_back_sound"
+	file = "customsound/eaw_se_custom_equestria_in_exile_strikes_back.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_twilight_sparkle_princess_of_harmony_sound"
+	file = "customsound/eaw_se_custom_twilight_sparkle_princess_of_harmony.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_empire_sound"
+	file = "customsound/eaw_se_custom_river_empire.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lord_protector_unites_herzland_sound"
+	file = "customsound/eaw_se_custom_lord_protector_unites_herzland.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_thorax_uprising_successful_sound"
+	file = "customsound/eaw_se_custom_thorax_uprising_successful.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_chrysalis_coronation_empress_sound"
+	file = "customsound/eaw_se_custom_chrysalis_coronation_empress.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_stalliongrad_unites_equestria_sound"
+	file = "customsound/eaw_se_custom_stalliongrad_unites_equestria.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_stalliongrad_defeats_changelings_sound"
+	file = "customsound/eaw_se_custom_stalliongrad_defeats_changelings.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_stalliongrad_defeated_sound"
+	file = "customsound/eaw_se_custom_stalliongrad_defeated.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_dread_league_apocalypse_sound"
+	file = "customsound/eaw_se_custom_dread_league_apocalypse.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_ost_griffonian_empire_sound"
+	file = "customsound/eaw_se_custom_ost_griffonian_empire.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_pan_griffonian_commonwealth_sound"
+	file = "customsound/eaw_se_custom_pan_griffonian_commonwealth.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_world_socialist_republic_sound"
+	file = "customsound/eaw_se_custom_world_socialist_republic.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_holy_pony_empire_sound"
+	file = "customsound/eaw_se_custom_holy_pony_empire.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_griffonian_empire_river_coalition_war_sound"
+	file = "customsound/eaw_se_custom_griffonian_empire_river_coalition_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_longsword_golden_morning_sound"
+	file = "customsound/eaw_se_custom_longsword_golden_morning.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_longsword_powner_sound"
+	file = "customsound/eaw_se_custom_longsword_powner.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_karthinian_empire_sound"
+	file = "customsound/eaw_se_custom_karthinian_empire.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_workers_empire_sound"
+	file = "customsound/eaw_se_custom_karthinian_workers_empire.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_triumph_republican_dream_communist_sound"
+	file = "customsound/eaw_se_custom_triumph_republican_dream_communist.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_triumph_republican_dream_authoritarian_sound"
+	file = "customsound/eaw_se_custom_triumph_republican_dream_authoritarian.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_triumph_republican_dream_supremacist_sound"
+	file = "customsound/eaw_se_custom_triumph_republican_dream_supremacist.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_stalliongrad_marches_on_equestria_sound"
+	file = "customsound/eaw_se_custom_stalliongrad_marches_on_equestria.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_eqs_gri_sound"
+	file = "customsound/eaw_se_custom_war_of_two_continents_eqs_gri.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_chn_gri_sound"
+	file = "customsound/eaw_se_custom_war_of_two_continents_chn_gri.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_stg_gri_sound"
+	file = "customsound/eaw_se_custom_war_of_two_continents_stg_gri.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_sol_gri_sound"
+	file = "customsound/eaw_se_custom_war_of_two_continents_sol_gri.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_nlr_gri_sound"
+	file = "customsound/eaw_se_custom_war_of_two_continents_nlr_gri.wav"
+	always_load = no
+}
+
+##### 1.2.0 #####
+
+sound = {
+	name = "super_event_great_war_changelings_defeated_sound"
+	file = "customsound/eaw_se_custom_great_war_changelings_defeated.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_stalliongrad_intervention_sound"
+	file = "customsound/eaw_se_custom_stalliongrad_intervention.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_equestria_in_exile_victory_sound"
+	file = "customsound/eaw_se_custom_equestria_in_exile_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_dread_league_black_crusade_sound"
+	file = "customsound/eaw_se_custom_dread_league_black_crusade.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_arcturian_order_victory_sound"
+	file = "customsound/eaw_se_custom_arcturian_order_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_river_swirl_sound"
+	file = "customsound/eaw_se_custom_river_federation_river_swirl.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_arclight_sound"
+	file = "customsound/eaw_se_custom_river_federation_arclight.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_nova_whirl_sound"
+	file = "customsound/eaw_se_custom_river_federation_nova_whirl.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_caramel_haze_sound"
+	file = "customsound/eaw_se_custom_river_federation_caramel_haze.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_metakeros_sound"
+	file = "customsound/eaw_se_custom_river_federation_metakeros.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_grimhoof_sound"
+	file = "customsound/eaw_se_custom_river_federation_grimhoof.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_crimson_sound"
+	file = "customsound/eaw_se_custom_river_federation_crimson.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_princess_molly_sound"
+	file = "customsound/eaw_se_custom_river_federation_princess_molly.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_rover_sound"
+	file = "customsound/eaw_se_custom_river_federation_rover.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_dierdre_skye_sound"
+	file = "customsound/eaw_se_custom_river_federation_dierdre_skye.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_leeward_sound"
+	file = "customsound/eaw_se_custom_river_federation_leeward.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_wavebreaker_sound"
+	file = "customsound/eaw_se_custom_river_federation_wavebreaker.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_water_lily_sound"
+	file = "customsound/eaw_se_custom_river_federation_water_lily.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_tea_dip_sound"
+	file = "customsound/eaw_se_custom_river_federation_tea_dip.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_bray_foam_sound"
+	file = "customsound/eaw_se_custom_river_federation_bray_foam.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_firm_scow_sound"
+	file = "customsound/eaw_se_custom_river_federation_firm_scow.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_voliare_sound"
+	file = "customsound/eaw_se_custom_river_federation_voliare.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_wit_neutral_sound"
+	file = "customsound/eaw_se_custom_river_federation_wit_neutral.wav"
+	always_load = no
+}
+
+
+##### 1.3.0 #####
+
+sound = {
+	name = "super_event_herzland_ang_leer_sound"
+	file = "customsound/eaw_se_custom_herzland_ang_leer.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_ang_othmar_sound"
+	file = "customsound/eaw_se_custom_herzland_ang_othmar.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_ang_commune_sound"
+	file = "customsound/eaw_se_custom_herzland_ang_commune.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_ang_bluhm_sound"
+	file = "customsound/eaw_se_custom_herzland_ang_bluhm.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_ang_ordenstaat_sound"
+	file = "customsound/eaw_se_custom_herzland_ang_ordenstaat.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_ang_weschler_sound"
+	file = "customsound/eaw_se_custom_herzland_ang_weschler.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_frienship_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_friendship.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_holy_republic_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_holy_republic.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_com_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_rohmer.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_dietrich_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_dietrich.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_truthahn_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_truthahn.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_erebus_emperor_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_erebus_emperor.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_pyt_erebus_republic_sound"
+	file = "customsound/eaw_se_custom_herzland_pyt_erebus_republic.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_yal_grover_ii_sound"
+	file = "customsound/eaw_se_custom_herzland_yal_grover_ii.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_yal_boreas_sound"
+	file = "customsound/eaw_se_custom_herzland_yal_boreas.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_yal_the_new_spark_sound"
+	file = "customsound/eaw_se_custom_herzland_yal_the_new_spark.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_yal_technocracy_sound"
+	file = "customsound/eaw_se_custom_herzland_yal_technocracy.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_yal_com_sound"
+	file = "customsound/eaw_se_custom_herzland_yal_com.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_kat_duskfeather_sound"
+	file = "customsound/eaw_se_custom_herzland_kat_duskfeather.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_kat_katerintreue_sound"
+	file = "customsound/eaw_se_custom_herzland_kat_katerintreue.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_kat_hector_sound"
+	file = "customsound/eaw_se_custom_herzland_kat_hector.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_kat_grimclaw_sound"
+	file = "customsound/eaw_se_custom_herzland_kat_grimclaw.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_rou_com_sound"
+	file = "customsound/eaw_se_custom_herzland_rou_com.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_rou_harmony_sound"
+	file = "customsound/eaw_se_custom_herzland_rou_harmony.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_rou_neutral_sound"
+	file = "customsound/eaw_se_custom_herzland_rou_neutral.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_com_stappenbeld_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_com_stappenbeld.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_com_kogchel_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_com_kogchel.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_com_rozenkamp_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_com_rozenkamp.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_fnv_heeren_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_fnv_heeren.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_fnv_moldernik_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_fnv_moldernik.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_fnv_vorst_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_fnv_vorst.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_duke_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_duke.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_unwilling_dictator_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_unwilling_dictator.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_fea_coalition_sound"
+	file = "customsound/eaw_se_custom_herzland_fea_coalition.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_stw_harmony_sound"
+	file = "customsound/eaw_se_custom_herzland_stw_harmony.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_stw_communism_sound"
+	file = "customsound/eaw_se_custom_herzland_stw_communism.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_stw_neutral_sound"
+	file = "customsound/eaw_se_custom_herzland_stw_neutral.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_brz_harmony_sound"
+	file = "customsound/eaw_se_custom_herzland_brz_harmony.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_brz_neutral_sound"
+	file = "customsound/eaw_se_custom_herzland_brz_neutral.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_brz_communism_sound"
+	file = "customsound/eaw_se_custom_herzland_brz_communism.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_brz_juche_sound"
+	file = "customsound/eaw_se_custom_herzland_brz_juche.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_brz_supremacy_sound"
+	file = "customsound/eaw_se_custom_herzland_brz_supremacy.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_herzland_brz_church_sound"
+	file = "customsound/eaw_se_custom_herzland_brz_church.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bronzehill_revenge_juche_sound"
+	file = "customsound/eaw_se_custom_bronzehill_revenge_juche.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bronzehill_revenge_supremacy_sound"
+	file = "customsound/eaw_se_custom_bronzehill_revenge_supremacy.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_dark_wing_unites_equestria_sound"
+	file = "customsound/eaw_se_custom_dark_wing_unites_equestria.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_arcturian_order_holy_crusade_sound"
+	file = "customsound/eaw_se_custom_arcturian_order_holy_crusade.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_new_mareland_equalists_sound"
+	file = "customsound/eaw_se_custom_new_mareland_equalists.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_imperium_of_maar_sound"
+	file = "customsound/eaw_se_custom_imperium_of_maar.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_free_territory_sound"
+	file = "customsound/eaw_se_custom_free_territory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grf_highhill_sound"
+	file = "customsound/eaw_se_custom_grf_highhill.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grf_ironclaw_sound"
+	file = "customsound/eaw_se_custom_grf_ironclaw.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grf_goldfeather_sound"
+	file = "customsound/eaw_se_custom_grf_goldfeather.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_karthinian_republic_sound"
+	file = "customsound/eaw_se_custom_karthinian_republic.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_karthinian_kingdom_sound"
+	file = "customsound/eaw_se_custom_karthinian_kingdom.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bal_golden_delicious_sound"
+	file = "customsound/eaw_se_custom_bal_golden_delicious.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bal_cricket_chafer_sound"
+	file = "customsound/eaw_se_custom_bal_cricket_chafer.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bal_anarchists_sound"
+	file = "customsound/eaw_se_custom_bal_anarchists.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bal_lavender_berry_sound"
+	file = "customsound/eaw_se_custom_bal_lavender_berry.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_bal_ahuizotl_sound"
+	file = "customsound/eaw_se_custom_bal_ahuizotl.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lsp_mayor_sound"
+	file = "customsound/eaw_se_custom_lsp_mayor.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lsp_pine_chest_sound"
+	file = "customsound/eaw_se_custom_lsp_pine_chest.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lsp_rockfeller_sound"
+	file = "customsound/eaw_se_custom_lsp_rockfeller.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lsp_mr_horse_sound"
+	file = "customsound/eaw_se_custom_lsp_mr_horse.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lsp_syndicalist_sound"
+	file = "customsound/eaw_se_custom_lsp_syndicalist.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lsp_socdem_sound"
+	file = "customsound/eaw_se_custom_lsp_socdem.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_vanhoover_sound"
+	file = "customsound/eaw_se_custom_vanhoover.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_aquileian_empire_sound"
+	file = "customsound/eaw_se_custom_aquileian_empire.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_pan_griffonian_dream_sound"
+	file = "customsound/eaw_se_custom_pan_griffonian_dream.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_evi_brodfeld_sound"
+	file = "customsound/eaw_se_custom_evi_brodfeld.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_evi_gla_sound"
+	file = "customsound/eaw_se_custom_evi_gla.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_evi_gryphian_host_sound"
+	file = "customsound/eaw_se_custom_evi_gryphian_host.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_evi_lushi_sound"
+	file = "customsound/eaw_se_custom_evi_lushi.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_evi_gryphus_sound"
+	file = "customsound/eaw_se_custom_evi_gryphus.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_falcor_revenge_sound"
+	file = "customsound/eaw_se_custom_falcor_revenge.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_great_zaphia_sound"
+	file = "customsound/eaw_se_custom_great_zaphia.wav"
+	always_load = no
+}
+sound = {
+	name = "super_event_megali_sound"
+	file = "customsound/eaw_se_custom_megali.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_scs_confederate_sound"
+	file = "customsound/eaw_se_custom_scs_confederate.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_federation_clifford_sound"
+	file = "customsound/eaw_se_custom_river_federation_clifford.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_asinti_sound"
+	file = "customsound/eaw_se_custom_barrad_asinti.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_leopold_sound"
+	file = "customsound/eaw_se_custom_barrad_leopold.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_silver_star_sound"
+	file = "customsound/eaw_se_custom_barrad_silver_star.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_viira_herald_sound"
+	file = "customsound/eaw_se_custom_barrad_viira_herald.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_viira_goddess_sound"
+	file = "customsound/eaw_se_custom_barrad_viira_goddess.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_viira_the_end_sound"
+	file = "customsound/eaw_se_custom_barrad_viira_the_end.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_ambrosius_sound"
+	file = "customsound/eaw_se_custom_barrad_ambrosius.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_barrad_fall_of_pentarchy_sound"
+	file = "customsound/eaw_se_custom_barrad_fall_of_pentarchy.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_stl_our_equestria_sound"
+	file = "customsound/eaw_se_custom_our_equestria.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_grf_virgil_sound"
+	file = "customsound/eaw_se_custom_grf_virgil.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_great_war_stg_sound"
+	file = "customsound/eaw_se_custom_great_war_stg.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_new_mareland_kingfisher_sound"
+	file = "customsound/eaw_se_custom_new_mareland_kingfisher.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_new_mareland_lunar_dominion_sound"
+	file = "customsound/eaw_se_custom_new_mareland_lunar_dominion.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_new_mareland_last_stand_sound"
+	file = "customsound/eaw_se_custom_new_mareland_last_stand.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_river_coalition_victory_sound"
+	file = "customsound/eaw_se_custom_river_coalition_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_griffonian_empire_victory_sound"
+	file = "customsound/eaw_se_custom_griffonian_empire_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_aquileian_republic_victory_sound"
+	file = "customsound/eaw_se_custom_aquileian_republic_victory.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_lunar_equus_sound"
+	file = "customsound/eaw_se_custom_lunar_equus.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_solar_equus_sound"
+	file = "customsound/eaw_se_custom_solar_equus.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_trimmel_on_griffonian_throne_sound"
+	file = "customsound/eaw_se_custom_trimmel_on_griffonian_throne.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_maresoc_sound"
+	file = "customsound/eaw_se_custom_war_of_two_cont_maresoc.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_viira_sound"
+	file = "customsound/eaw_se_custom_war_of_two_cont_viira.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_juche_sound"
+	file = "customsound/eaw_se_custom_war_of_two_cont_juche.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_hlq_sound"
+	file = "customsound/eaw_se_custom_war_of_two_cont_hlq.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_crystal_regency_sound"
+	file = "customsound/eaw_se_custom_crystal_regency.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_tno_twilight_sound"
+	file = "customsound/eaw_se_custom_tno_twilight.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_tno_sablin_sound"
+	file = "customsound/eaw_se_custom_tno_sablin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_war_of_two_continents_riv_chn_sound"
+	file = "customsound/eaw_se_custom_war_of_two_cont_riv_chn.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_nuke_sound"
+	file = "customsound/eaw_se_custom_nuke.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_north_zebrica_war_sound"
+	file = "customsound/eaw_se_custom_north_zebrica_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_white_severyana_sound"
+	file = "customsound/eaw_se_custom_tobuck_white_severyana.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_tsardom_of_severyana_sound"
+	file = "customsound/eaw_se_custom_tobuck_tsardom_of_severyana.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_col_first_cv_sound"
+	file = "customsound/eaw_se_custom_col_first_civil_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_col_second_cv_sound"
+	file = "customsound/eaw_se_custom_col_second_civil_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_col_third_cv_sound"
+	file = "customsound/eaw_se_custom_col_third_civil_war.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_victory_posada_sound"
+	file = "customsound/eaw_se_custom_hip_victory_posada.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_posada_final_sound"
+	file = "customsound/eaw_se_custom_hip_posada_final.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_victory_harmony_sound"
+	file = "customsound/eaw_se_custom_hip_victory_harmony.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_victory_siren_sound"
+	file = "customsound/eaw_se_custom_hip_victory_siren.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_siren_final_sound"
+	file = "customsound/eaw_se_custom_hip_siren_final.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_victory_af_sound"
+	file = "customsound/eaw_se_custom_hip_victory_af.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_hip_victory_falanga_sound"
+	file = "customsound/eaw_se_custom_hip_victory_falanga.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_neo_hazrumenian_sound"
+	file = "customsound/eaw_se_custom_neo_hazrumenian.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_cloudbury_kingdom_sound"
+	file = "customsound/eaw_se_custom_cloudbury_kingdom.wav"
+	always_load = no
+}
+
+sound = {
+	name = "super_event_griff_empire_final_sound"
+	file = "customsound/eaw_se_custom_griff_empire_final.wav"
+	always_load = no
+}
