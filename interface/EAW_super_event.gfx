@@ -178,7 +178,7 @@ spriteTypes = {
 	#River Empire
 	spriteType = {
 		name = "GFX_super_event_custom_river_empire"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_empire.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_empire.tga"
 	}
 	
 	#Lord Protector unites Herzland
@@ -346,385 +346,385 @@ spriteTypes = {
 	#River Federation - River Republic - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_rct_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_rct_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_rct_harmony.tga"
 	}
 	
 	#River Federation - River Republic - Communists - DSR
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_rct_dsr"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_rct_dsr.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_rct_dsr.tga"
 	}
 	
 	#River Federation - River Republic - Communists - USSR
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_rct_ussr"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_rct_ussr.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_rct_ussr.tga"
 	}
 	
 	#River Federation - River Republic - Arclight
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_rct_arclight"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_rct_arclight.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_rct_arclight.tga"
 	}
 	
 	#River Federation - Nimbusia - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_nim_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_nim_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_nim_harmony.tga"
 	}
 	
 	#River Federation - Deponya - Neutrals
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_dep_neutral"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_dep_neutral.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_dep_neutral.tga"
 	}
 	
 	#River Federation - Pònaidhean - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_fre_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_fre_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_fre_harmony.tga"
 	}
 	
 	#River Federation - Diamond Mountain - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_dmt_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_dmt_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_dmt_harmony.tga"
 	}
 	
 	#River Federation - Diamond Mountain - Supremacists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_dmt_supremacy"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_dmt_supremacy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_dmt_supremacy.tga"
 	}
 	
 	#River Federation - Lake City - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_lct_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_lct_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_lct_harmony.tga"
 	}
 	
 	#River Federation - Lake City - Neutrals
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_lct_neutral"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_lct_neutral.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_lct_neutral.tga"
 	}
 	
 	#River Federation - Lake City - Supremacists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_lct_supremacy"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_lct_supremacy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_lct_supremacy.tga"
 	}
 	
 	#River Federation - Bakara - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_bak_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_bak_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_bak_harmony.tga"
 	}
 	
 	#River Federation - Bakara - Neutrals
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_bak_neutral"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_bak_neutral.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_bak_neutral.tga"
 	}
 	
 	#River Federation - Bakara - Supremacists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_bak_supremacy"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_bak_supremacy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_bak_supremacy.tga"
 	}
 	
 	#River Federation - Wittenland - Harmonists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_wit_harmony"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_wit_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_wit_harmony.tga"
 	}
 	
 	#River Federation - Wittenland - Communists
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_wit_communist"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_wit_communist.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_wit_communist.tga"
 	}
 	
 	#River Federation - Wittenland - Neutrals
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_wit_neutral"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_wit_neutral.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_wit_neutral.tga"
 	}
 	
 	#Herzland Unification - Angriver - Leer
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_ang_leer"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_ang_leer.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_ang_leer.tga"
 	}
 	
 	#Herzland Unification - Angriver - Othmar
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_ang_othmar"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_ang_othmar.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_ang_othmar.tga"
 	}
 
 	#Herzland Unification - Angriver - Herzland Commune
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_ang_commune"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_ang_commune.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_ang_commune.tga"
 	}
 	
 	#Herzland Unification - Angriver - Griffonian Republic (Gerhard Bluhm)
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_ang_bluhm"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_ang_bluhm.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_ang_bluhm.tga"
 	}
 
 	#Herzland Unification - Angriver - Ordenstaat Herzland
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_ang_ordenstaat"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_ang_ordenstaat.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_ang_ordenstaat.tga"
 	}
 	
 	#Herzland Unification - Angriver - Herzland Republic (Otto Weschler)
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_ang_weschler"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_ang_weschler.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_ang_weschler.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Dawnfeather - Friendship
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_friendship"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_pyt_friendship.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_pyt_friendship.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Dawnfeather - Holy Republic
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_holy_republic"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_pyt_holy_republic.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_pyt_holy_republic.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Rohmer
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_com"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_pyt_com.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_pyt_com.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Dietrich
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_dietrich"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_pyt_dietrich.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_pyt_dietrich.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Truthahn
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_truthahn"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_holy_empire.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_holy_empire.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Erebus I
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_erebus_empire"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_pyt_erebus_empire.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_pyt_erebus_empire.tga"
 	}
 	
 	#Herzland Unification - Greifenmarschen - Erebus Republic
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_pyt_erebus_republic"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_pyt_erebus_republic.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_pyt_erebus_republic.tga"
 	}
 	
 	#Herzland Unification - Yale - An Arcturian Regency
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_yal_archon"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_yal_archon.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_yal_archon.tga"
 	}
 	
 	#Herzland Unification - Yale - Grover II
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_yal_grover_ii"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_yal_grover_ii.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_yal_grover_ii.tga"
 	}
 	
 	#Herzland Unification - Yale - Herald of Boreas
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_yal_boreas"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_yal_boreas.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_yal_boreas.tga"
 	}
 
 	#Herzland Unification - Yale - The New Spark
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_yal_new_spark"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_yal_new_spark.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_yal_new_spark.tga"
 	}
 	
 	#Herzland Unification - Yale - Technocracy
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_yal_technocracy"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_yal_technocracy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_yal_technocracy.tga"
 	}
 	
 	#Herzland Unification - Yale - Communists
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_yal_com"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_yal_com.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_yal_com.tga"
 	}
 	
 	#Herzland Unification - Katerin - Duskfeather
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_kat_duskfeather"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_kat_duskfeather.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_kat_duskfeather.tga"
 	}
 
 	#Herzland Unification - Katerin - Katerintreue
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_kat_katerintreue"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_kat_katerintreue.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_kat_katerintreue.tga"
 	}
 
 	#Herzland Unification - Romau - Communists
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_rou_com"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_rou_com.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_rou_com.tga"
 	}
 	
 	#Herzland Unification - Romau - Harmony
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_rou_harmony"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_rou_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_rou_harmony.tga"
 	}
 	
 	#Herzland Unification - Romau - Erion
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_rou_erion"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_rou_erion.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_rou_erion.tga"
 	}
 	
 	#Herzland Unification - Romau - Neutral
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_rou_neutral"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_rou_neutral.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_rou_neutral.tga"
 	}
 	
 	#Herzland Unification - Katerin - Hector
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_kat_hector"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_kat_hector.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_kat_hector.tga"
 	}
 	
 	#Herzland Unification - Katerin - Grimclaw
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_kat_grimclaw"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_kat_grimclaw.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_kat_grimclaw.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Communist
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_com"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_com.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_com.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Communist
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_coghel"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_coghel.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_coghel.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Rozenkamp
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_rozenkamp"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_rozenkamp.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_rozenkamp.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Supremacy
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_supremacy"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_supremacy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_supremacy.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Supremacy
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_moldernik"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_moldernik.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_moldernik.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Heeren
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_heeren"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_heeren.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_heeren.tga"
 	}
 	
 	#Herzland Unification - Feathisia - Unwilling Dictator
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_unwilling_dictator"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_unwilling_dictator.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_unwilling_dictator.tga"
 	}
 
 	#Herzland Unification - Feathisia - Coalition
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_fea_coalition"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_fea_coalition.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_fea_coalition.tga"
 	}
 	
 	#Herzland Unification - Feathisia - The Duke
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_new_empire"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_new_empire.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_new_empire.tga"
 	}
 	
 	#Herzland Unification - Strawberry - Harmony
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_stw_harmony"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_stw_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_stw_harmony.tga"
 	}
 	
 	#Herzland Unification - Strawberry - Communism
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_stw_communism"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_stw_communism.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_stw_communism.tga"
 	}
 	
 	#Herzland Unification - Strawberry - Neutral
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_stw_neutral"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_stw_neutral.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_stw_neutral.tga"
 	}
 	
 	#Herzland Unification - Strawberry - Supremacy
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_stw_supremacy"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_stw_supremacy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_stw_supremacy.tga"
 	}
 	
 	#Herzland Unification - Bronzehill - Harmony
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_brz_harmony"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_brz_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_brz_harmony.tga"
 	}
 
 	#Herzland Unification - Bronzehill - Neutral
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_brz_standart"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_brz_standart.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_brz_standart.tga"
 	}
 	
 	#Herzland Unification - Bronzehill - Communism
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_brz_communism"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_brz_communism.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_brz_communism.tga"
 	}
 	
 	#Herzland Unification - Bronzehill - Juche
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_brz_juche"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_brz_juche.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_brz_juche.tga"
 	}
 
 	#Herzland Unification - Bronzehill - Supremacy
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_brz_supremacy"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_brz_supremacy.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_brz_supremacy.tga"
 	}
 	
 	#Herzland Unification - Bronzehill - Prelate
 	spriteType = {
 		name = "GFX_super_event_custom_herzland_brz_prelat"
-		textureFile = "gfx//superevent_pictures//herzland//eaw_super_event_herzland_brz_prelate.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_herzland_brz_prelate.tga"
 	}
 
 	#Bronzehill - Revenge - Juche
@@ -950,7 +950,7 @@ spriteTypes = {
 	# River Federation - Diamond Mountain - Communist
 	spriteType = {
 		name = "GFX_super_event_custom_river_federation_dmt_communist"
-		textureFile = "gfx//superevent_pictures//riverlands//eaw_super_event_river_federation_dmt_communist.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_river_federation_dmt_communist.tga"
 	}
 	
 	# Barrad - Asinti
@@ -1122,55 +1122,55 @@ spriteTypes = {
 	#North Zebrica War
 	spriteType = {
 		name = "GFX_super_event_custom_north_zebrica_war"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_north_zebrica_war.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_north_zebrica_war.tga"
 	}
 	
 	#Tobuck - White Severyana
 	spriteType = {
 		name = "GFX_super_event_custom_white_severyana"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_white_severyana.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_white_severyana.tga"
 	}
 	
 	#Tobuck - Tsardom of Severyana
 	spriteType = {
 		name = "GFX_super_event_custom_tsardom_of_severyana"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_tsardom_of_severyana.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_tsardom_of_severyana.tga"
 	}
 	
 	#Colthage - First Civil War
 	spriteType = {
 		name = "GFX_super_event_custom_col_first_cv"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_col_first_civil_war.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_col_first_civil_war.tga"
 	}
 	
 	#Colthage - Second Civil War
 	spriteType = {
 		name = "GFX_super_event_custom_col_second_cv"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_col_second_civil_war.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_col_second_civil_war.tga"
 	}
 	
 	#Colthage - Third Civil War
 	spriteType = {
 		name = "GFX_super_event_custom_col_third_cv"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_col_third_civil_war.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_col_third_civil_war.tga"
 	}
 	
 	#Hippogrifia - Posada Victory
 	spriteType = {
 		name = "GFX_super_event_custom_hip_victory_posada"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_victory_posada.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_victory_posada.tga"
 	}
 	
 	#Hippogrifia - Posada Final - Space
 	spriteType = {
 		name = "GFX_super_event_custom_hip_posada_final"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_posada_final.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_posada_final.tga"
 	}
 	
 	#Hippogrifia - Posada Final - War
 	frameAnimatedSpriteType = {
 		name = "GFX_super_event_custom_nuke"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_nuke.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_nuke.tga"
 		noOfFrames = 10
 		animation_rate_fps = 2
 		looping = yes
@@ -1180,37 +1180,37 @@ spriteTypes = {
 	#Hippogrifia - Harmonists Victory
 	spriteType = {
 		name = "GFX_super_event_custom_hip_victory_harmony"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_victory_harmony.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_victory_harmony.tga"
 	}
 	
 	#Hippogrifia - Siren Victory
 	spriteType = {
 		name = "GFX_super_event_custom_hip_victory_siren"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_victory_siren.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_victory_siren.tga"
 	}
 	
 	#Hippogrifia - Siren Final
 	spriteType = {
 		name = "GFX_super_event_custom_hip_siren_final"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_siren_final.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_siren_final.tga"
 	}
 	
 	#Hippogrifia - AF Victory
 	spriteType = {
 		name = "GFX_super_event_custom_hip_victory_af_raft"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_victory_af.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_victory_af.tga"
 	}
 	
 	#Hippogrifia - Falanga Victory
 	spriteType = {
 		name = "GFX_super_event_custom_hip_victory_af_lightning"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_hip_victory_falanga.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hip_victory_falanga.tga"
 	}
 	
 	#Tobuck - Neo-Hazrumenia
 	spriteType = {
 		name = "GFX_super_event_custom_neo_hazrumenia"
-		textureFile = "gfx//superevent_pictures//zebrica//eaw_super_event_neo_hazrumenia.tga"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_neo_hazrumenia.tga"
 	}
 	
 	#Cloudbury Kingdom

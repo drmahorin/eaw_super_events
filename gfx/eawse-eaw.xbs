@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="eawse-eaw">
+    <Resize mode="5" width="682" height="374" unit="0" ratio="false" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
+    <Crop method="0" value_1="0" value_2="100" value_3="682" value_4="374"/>
+    <Output folder="" filename="{Filename}_result" case="0" startIndex="1" format="">
+        <Options overwrite="1" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" checkFilesize="false" keepParentFolder="false" keepExtension="false" delOrg="false" multipage="false" allPages="false" openExplorer="false" beep="true" openBrowser="false" clearItems="false"/>
+        <JPEG quality="80" progressive="false" optimizeHuffman="false" rebuildThumb="true" orgQuality="false" DCTMethod="0" subSampling="0" smoothFactor="0"/>
+        <TGA compress="false" bottomUp="false"/>
+        <TIFF compress="0" quality="80" compressBW="0" oneStrip="false"/>
+        <BMP compress="false" hdrOS2="false"/>
+        <PNG level="6" interlaced="false" filter="0"/>
+        <GIF interlaced="false" hdr87a="false"/>
+        <PCX compress="false"/>
+        <WEBP method="0" quality="80" filesize="128" compress="4" strength="60" sharpness="0" preset="0" sharpyuv="false"/>
+        <JP2 mode="0" quality="80" ratio="4" fileSize="100"/>
+        <PDF compress="0" compressGrey="0" compressBW="0" quality="80"/>
+        <JXR quality="80" colorFormat="0" filter="0"/>
+        <AVIF quality="80" format="0" speed="5"/>
+        <JPEGXL quality="80" lossless="true" effort="7"/>
+        <HEIC quality="80"/>
+        <FORMATS_SETTINGS keepEXIF="true" keepICC="true" keepIPTC="true" keepXMP="true"/>
+    </Output>
+</XnView_script>
