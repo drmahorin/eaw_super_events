@@ -127,7 +127,7 @@
   ## 1.1.0 - 1.1.1 ##
   
   SE_OST_GRIFFONIA_T:0 "Ost-Griffonian Empire"
-  SE_OST_GRIFFONIA_A:0 "Hatred has robbed them of their sanity"
+  SE_OST_GRIFFONIA_A:0 "They lost to their hatred"
   SE_OST_GRIFFONIA_D:0 "Some people call us monsters. Everything we did, we did in the name of the griffons. And we have done no harm to our essence, our souls and our character.\n -Edler von Wingenberg"
   
   SE_PAN_GRIFFONIA_T:0 "Pan-Griffonian Socialist Commonwealth"
@@ -158,7 +158,7 @@
   SE_KARTHIN_A:0 "Triumph! Triumph!"
   SE_KARTHIN_D:0 "Over the centuries of its history, Wingbardy has experienced many memorable hours, but this is certainly one of the most solemn.\n -Giulio Beakolini"
   
-  SE_KARTHIN_COM_T:0 "United Socialist Republics of Southern Griffonia"
+  SE_KARTHIN_COM_T:0 "Socialist Republics of Southern Griffonia"
   SE_KARTHIN_COM_A:0 "The proletariat break the chains"
   SE_KARTHIN_COM_D:0 "Socialism is the assertion of new rights of the individual.\n -Antonino Proletarino"
   
@@ -188,7 +188,7 @@
   SE_WAR_TWO_CONT_CHN_VS_GRI_D:0 "Over and over again the same story was repeated with grandiose plans and insignificant achievements, because there was not enough wisdom and humility to put great plans into practice, because pride ruled, and because in the end war broke out, putting an end to all noble endeavors.\n -Generalfeldmarschall Erich Ebonwing"
   
   SE_WAR_TWO_CONT_STG_VS_GRI_T:0 "East vs West"
-  SE_WAR_TWO_CONT_STG_VS_GRI_A:0 "The last step to the world revolution"
+  SE_WAR_TWO_CONT_STG_VS_GRI_A:0 "Last step to the revolution"
   SE_WAR_TWO_CONT_STG_VS_GRI_D:0 "Worker, don't you hear it?\nCoal and steel producers are whispering!\nChemical warfare production whispers too!\nThe whisper comes from all continents!\n«Mobilization against Stalliongrad!»\n -Stalliongrad song"
   
   SE_WAR_TWO_CONT_SOL_VS_GRI_T:0 "East vs West"
@@ -252,7 +252,7 @@
   SE_RIV_FRE_CR_D:0 "I assure you that we will protect the uniqueness of all nations of the Riverlands. We are no longer a Coalition, but a Federation of Equals. Each of us is important and everyone will be heard.\n -Crimson nic Heart"
   
   SE_RIV_DMT_MOLLY_T:0 "$SE_RIV_UNITE_TITLE$"
-  SE_RIV_DMT_MOLLY_A:0 "Truly, the Princess of the Riverlands"
+  SE_RIV_DMT_MOLLY_A:0 "Truly Princess of the Riverlands"
   SE_RIV_DMT_MOLLY_D:0 "I promise you, to protect the harmony in our land, to fight against any threat to our peoples and traditions. I see our homeland open to everyone - ponies, griffons, dogs, zebras, and all the others in need. But do not take our kindness as a weakness, or you will quickly find out why no one was able to conquer the Riverlands.\n -Princess Molly"
   
   SE_RIV_DMT_ROVER_T:0 "$SE_RIV_UNITE_TITLE$"
@@ -297,7 +297,7 @@
   
   SE_RIV_WIT_HARMONY_T:0 "$SE_RIV_UNITE_TITLE$"
   SE_RIV_WIT_HARMONY_A:0 "In Union and Freedom"
-  SE_RIV_WIT_HARMONY_D:0 "Considering that the strengthening of the deep-rooted relations of friendship, good-neighborliness and mutually beneficial cooperation meets the fundamental interests of the peoples and serves the cause of peace and security; realizing our responsibility for the preservation of civil peace and interethnic harmony, we declare the formation of the River Federation.\n -From the treaty establishing the River Federation"
+  SE_RIV_WIT_HARMONY_D:0 "Considering that the strengthening of the deep-rooted relations of friendship, good-neighborliness and mutually beneficial cooperation meets the fundamental interests of the peoples and serves the cause of peace and security, we declare the formation of the River Federation.\n -From the treaty establishing the River Federation"
   
   SE_RIV_WIT_NEUTRAL_T:0 "$SE_RIV_UNITE_TITLE$"
   SE_RIV_WIT_NEUTRAL_A:0 "Unity, Fidelity, Justice"
@@ -324,7 +324,7 @@
   
   SE_HERZLAND_ANG_BLUHM_T:0 "$SE_HERZLAND_UNITE_TITLE$"
   SE_HERZLAND_ANG_BLUHM_A:0 "Goal - tricolor over the continent!"
-  SE_HERZLAND_ANG_BLUHM_D:0 "The long-awaited moment has finally come - the Empire has been destroyed, and the tricolor is flying on its ruins. But even though Herzland is free, many griffons suffer under the oppression of tyrants. We will enjoy the fruits of our victory only when the flag of the Republic will be flown from New Skynavia to Riaportu. Get to work, Griffon brothers!\n -Gerhard Bluhm"
+  SE_HERZLAND_ANG_BLUHM_D:0 "The long-awaited moment has finally come - the Empire has been destroyed, and the tricolor is flying on its ruins. But even though Herzland is free, many griffons suffer under the oppression of tyrants. We will enjoy the fruits of our victory only when the flag of the Republic will be flown from New Skynavia to Riaportu.\n -Gerhard Bluhm"
   
   SE_HERZLAND_ANG_ORDENSTAAT_T:0 "$SE_HERZLAND_UNITE_TITLE$"
   SE_HERZLAND_ANG_ORDENSTAAT_A:0 "Black Sun Rising"
@@ -545,7 +545,7 @@
   SE_GRF_WESTERN_EMPIRE_HIGHHILL_D:0 "The era of instability and chaos is finally over. As Emperor, I am determined to show the unity, strength and firmness of our people to the whole world. No one will dare threaten us again.\n -Erwin Highhill"
 
   SE_GRF_WESTERN_EMPIRE_IRONCLAW_T:0 "Western Griffonian Empire"
-  SE_GRF_WESTERN_EMPIRE_IRONCLAW_A:0 "Bigger they come, the harder they fall"
+  SE_GRF_WESTERN_EMPIRE_IRONCLAW_A:0 "Bigger they come, harder they fall"
   SE_GRF_WESTERN_EMPIRE_IRONCLAW_D:0 "We griffons are a race of masters and must rule hard and justly. It is necessary to understand that the most insignificant griffon is a thousand times superior to any pony, yak, changeling and others.\n -Reyhard Ironclaw"
 
   SE_GRF_GOLDFEATHER_T:0 "Nova Griffonia (TM)"
@@ -620,7 +620,7 @@
   
   SE_PAN_GRIFFONIA_DREAM_T:0 "Pan-Griffonian Dream"
   SE_PAN_GRIFFONIA_DREAM_A:0 "From Skynavia to Karthin..."
-  SE_PAN_GRIFFONIA_DREAM_D:0 "I have a dream that one day all griffons will rise up and live out the true meaning of its creed: "We hold these truths to be self-evident, that all creatures are created equal.\nI have a dream that one day on the beautiful fields of Strawberry, the sons of former peasants and the sons of former nobles will be able to sit down together at the table of brotherhood.\n -Alexander Kemerskai"
+  SE_PAN_GRIFFONIA_DREAM_D:0 "I have a dream that one day all griffons will rise up and live out the true meaning of its creed: \"We hold these truths to be self-evident, that all creatures are created equal.\"\n -Alexander Kemerskai"
   
   ########## 1.5.0 ##########
   
@@ -691,7 +691,7 @@
   SE_BAR_VIIRA_G_D:0 "I will destroy the old civilizations and build a new, better, organized, and MY own world on their ruins. Everyone will bow before their Goddess!\n -Viira"
   
   SE_BAR_AMBROSIUS_T:0 "$SE_BARRAD_FATE_TITLE$"
-  SE_BAR_AMBROSIUS_A:0 "The clouds over Barrad are dispersing"
+  SE_BAR_AMBROSIUS_A:0 "Clouds over Barrad are dispersing"
   SE_BAR_AMBROSIUS_D:0 "Hope is often born out of despair.\n -An ancient Wingbardian adage"
   
   SE_BAR_FALL_T:0 "$SE_BARRAD_FATE_TITLE$"
@@ -723,7 +723,7 @@
   SE_NEW_MARELAND_KINGFISHER_D:0 "Every pony a princess, every griffon an emperor, but no one wears the crown.\n -Kingfisher"
   
   SE_NEW_MARELAND_LUNAR_DOMINION_T:0 "The United Lunar Territories of Griffonia"
-  SE_NEW_MARELAND_LUNAR_DOMINION_A:0 "Luna nobis providet, Luna nos custodit"
+  SE_NEW_MARELAND_LUNAR_DOMINION_A:0 "Luna nos custodit"
   SE_NEW_MARELAND_LUNAR_DOMINION_D:0 "We are an outpost of the empire on another continent. We are it's shield, we are it's sword. And if the Empress wants to bring the light of the true faith to these pagan griffons, then we will be happy to be at the forefront.\n -Evening Dew"
   
   SE_NEW_MARELAND_LAST_STAND_T:0 "Invasion of New Mareland"
@@ -804,7 +804,7 @@
   SE_HIP_HARMONY_D:0 "The tragedy of North Zebrica shocks whole world. Twice in our lifetime we have seen how these beautiful lands rent asunder and torn to pieces which have left only charred ruins. Upon us fell responsibility of keeping the Flag of Freedom. But now the tornado has passed away. The thunder of the cannons has ceased. We are still alive and free.\n -[HIP.GetLeader]"
   
   SE_HIP_COM_T:0 "The Triumph of Aris"
-  SE_HIP_COM_A:0 "Glory to our great victorious people!"
+  SE_HIP_COM_A:0 "Glory to our great people!"
   SE_HIP_COM_D:0 "COMRADES! The Patriotic War has ended in our complete victory! The period of peaceful development has begun. I congratulate you upon victory, my dear friends!\n -[HIP.GetLeader]"
   
   SE_HIP_AF_T:0 "The Triumph of Aris"
