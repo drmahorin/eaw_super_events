@@ -1,11 +1,13 @@
 guiTypes = {
 	containerWindowType = {
-		name = "EAWSE_custom_super_event" # Proudly stolen from EaW <3 Caspy
+		# Proudly stolen from EaW <3 Caspy
+		name = "EAWSE_custom_super_event"
+		size = { width = 690 height = 398 }
 
 		# From TNO
-		position = { x= 0 y= -6000 }
-		show_position = { x = 0 y = 20 }
-		hide_position = { x= 0 y= -6000 }
+		position = { x = 0 y = -6000 }
+		show_position = { x = 0 y = 0 }
+		hide_position = { x = 0 y = -6000 }
 		animation_time = 1
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
@@ -21,70 +23,99 @@ guiTypes = {
 
 		iconType = {
 			name = "EAWSE_image"
-			position = { x = -341 y = -207 }
-			size = { width = 682 height = 374 }
+			size = { width = 682 height = 374 } # Smaller than border by 8 x 24
+			position = { x = 4 y = 12 }
+			alwaystransparent = yes
 		}
 
 		iconType = {
 			name ="Underlay"
 			spriteType = "GFX_superevent_text_underlay"
-			position = { x= -218 y = 30 }
-			Orientation = lower_left
+			size = { width = 550 height = 137 }
+			position = { x = -562 y = -149 }
+			orientation = LOWER_RIGHT
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
 			name = "Description"
-			position = { x = -186 y = 35 }
+			maxWidth = 510
+			maxHeight = 50
+			position = { x = -532 y = -144 }
+			orientation = LOWER_RIGHT
 			font = "hoi_20b"
 			text = "[EAWSEGetEventDescription]"
 			format = right
-			maxWidth = 510
-			maxHeight = 50
-		}
-
-		iconType = {
-			name = "Button Bar"
-			spriteType = "GFX_peace_turn_bg"
-			position = { x = -255 y = 175 }
-		}
-
-		iconType = {
-			name = "Top Bar"
-			spriteType = "GFX_peace_turn_bg"
-			position = { x = -255 y = -280 }
-			rotation = 3.142 ##3.142Rad × 180/π = 180Deg
-		}
-
-		instantTextboxType = {
-			name = "Title"
-			position = { x = -189 y = -274 }
-			font = "hoi_30header"
-			text = "[EAWSEGetEventTitle]"
-			format = center
-			maxWidth = 380
-			maxHeight = 60
-			fixedsize = yes
-			vertical_alignment = center
+			alwaystransparent = yes
 		}
 
 		containerWindowType = {
+			name = "Button Bar"
+			size = { width = 515 height = 65}
+			position = { x = -257 y = -4 }
+			orientation = CENTER_DOWN
+
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_window_transparent"
+			}
+
+			iconType = {
+				name = "Bar"
+				spriteType = "GFX_peace_turn_bg" ##3.142Rad × 180/π = 180Deg
+			}
+
+			buttonType = {
+				name = "Option"
+				text = "[EAWSEGetEventAnswer]"
+				position = { x = -200 y = -21 }
+				orientation = CENTER
+				quadTextureSprite ="GFX_button_399x34"
+				buttonFont = "hoi_24header"
+				shortcut = "ESCAPE"
+			}
+		}
+
+		containerWindowType = {
+			name = "Top Bar"
+			size = { width = 515 height = 65}
+			position = { x = -257 y = -61 }
+			orientation = CENTER_UP
+
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_window_transparent"
+			}
+
+			iconType = {
+				name = "Bar"
+				spriteType = "GFX_peace_turn_bg"
+				rotation = 3.142 ##3.142Rad × 180/π = 180Deg
+			}
+
+			instantTextboxType = {
+				name = "Title"
+				fixedsize = yes
+				maxWidth = 380
+				maxHeight = 60
+				position = { x = -190 y = -26 }
+				orientation = CENTER
+				font = "hoi_30header"
+				text = "[EAWSEGetEventTitle]"
+				format = center
+				vertical_alignment = center
+			}
+		}
+
+
+		containerWindowType = {
 			name = "Frame"
-			position = { x = -345 y = -219 }
-			size = { width = 690 height = 398 }
+			size = { width = 690 height = 398 } # Border width is 8 pixels
 
 			background = {
 				name = "Background"
 				quadTextureSprite ="GFX_fullborder_tiled"
 			}
-		}
-
-		buttonType = {
-			name = "Option"
-			text = "[EAWSEGetEventAnswer]"
-			position = { x = -197 y = 186 }
-			quadTextureSprite ="GFX_button_399x34"
-			buttonFont = "hoi_24header"
-			shortcut = "ESCAPE"
 		}
 	}
 
