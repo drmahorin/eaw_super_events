@@ -240,6 +240,10 @@ eaw_se_custom_neo_hazrumenian - Patov - Traveler - Ancient Mesopotamian - Babylo
 eaw_se_custom_cloudbury_kingdom - Denmark National Anthem (Instrumental)
 eaw_se_custom_griff_empire_final - Die Wacht am Rhein [Patriotic anthem][Russian version]
 
+eaw_se_custom_hhh_af24_ufs - Stellaris - Battle for Supremacy
+eaw_se_custom_hhh_af24_ufs_victory - Stellaris - Creation and Beyond
+eaw_se_custom_hhh_af24_crusade - Stellaris - Evil Federation
+
 List of used images:
 
 https://www.deviantart.com/dimfann/art/Capitol-707694271
@@ -337,3 +341,4 @@ https://www.deviantart.com/scootiebloom/art/Silent-Hoofstep-540539086
 https://www.deviantart.com/emeraldgalaxy/art/Towards-Mount-Aris-850598298
 https://derpibooru.org/2014115?q=mount+aris
 https://www.deviantart.com/dimfann/art/Day-Job-515721781
+https://www.shue-digital.com/

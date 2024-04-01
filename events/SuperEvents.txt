@@ -3633,3 +3633,48 @@ country_event = {
 		trigger = { has_global_flag = eaw_super_event_flag_tno_sablin_off }
 	}
 }
+
+country_event = {
+	id = eaw_superevents.810
+	immediate = {log = "[GetDateText]: [Root.GetName]: eaw_superevents.810"}
+	hidden = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		every_country = {
+			limit = { is_ai = no }
+			set_temp_variable = { EAWSE_temp_super_event = 810 }
+			EAWSE_show_super_event = yes
+		}
+	}
+}
+
+country_event = {
+	id = eaw_superevents.811
+	immediate = {log = "[GetDateText]: [Root.GetName]: eaw_superevents.811"}
+	hidden = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		every_country = {
+			limit = { is_ai = no }
+			set_temp_variable = { EAWSE_temp_super_event = 811 }
+			EAWSE_show_super_event = yes
+		}
+	}
+}
+
+country_event = {
+	id = eaw_superevents.812
+	immediate = {log = "[GetDateText]: [Root.GetName]: eaw_superevents.812"}
+	hidden = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		every_country = {
+			limit = { is_ai = no }
+			set_temp_variable = { EAWSE_temp_super_event = 812 }
+			EAWSE_show_super_event = yes
+		}
+	}
+}

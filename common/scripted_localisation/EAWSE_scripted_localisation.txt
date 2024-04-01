@@ -805,6 +805,19 @@ defined_text = {
 		trigger = { check_variable = { EAWSE_super_event = 801 } }
 		localization_key = "GFX_super_event_custom_tno_sablin"
 	}
+
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 810 } }
+		localization_key = "GFX_super_event_custom_af24_ufs"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 811 } }
+		localization_key = "GFX_super_event_custom_af24_ufs_victory"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 812 } }
+		localization_key = "GFX_super_event_custom_af24_crusade"
+	}
 }
 
 defined_text = {
@@ -1614,6 +1627,19 @@ defined_text = {
 	text = {
 		trigger = { check_variable = { EAWSE_super_event = 801 } }
 		localization_key = "SE_TNO_SABLIN_T"
+	}
+
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 810 } }
+		localization_key = "SE_AF24_UFS_T"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 811 } }
+		localization_key = "SE_AF24_UFS_VICTORY_T"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 812 } }
+		localization_key = "SE_AF24_CRUSADE_T"
 	}
 }
 
@@ -2425,6 +2451,19 @@ defined_text = {
 		trigger = { check_variable = { EAWSE_super_event = 801 } }
 		localization_key = "SE_TNO_SABLIN_D"
 	}
+
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 810 } }
+		localization_key = "SE_AF24_UFS_D"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 811 } }
+		localization_key = "SE_AF24_UFS_VICTORY_D"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 812 } }
+		localization_key = "SE_AF24_CRUSADE_D"
+	}
 }
 
 defined_text = {
@@ -3234,5 +3273,18 @@ defined_text = {
 	text = {
 		trigger = { check_variable = { EAWSE_super_event = 801 } }
 		localization_key = "SE_TNO_SABLIN_A"
+	}
+
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 810 } }
+		localization_key = "SE_AF24_UFS_A"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 811 } }
+		localization_key = "SE_AF24_UFS_VICTORY_A"
+	}
+	text = {
+		trigger = { check_variable = { EAWSE_super_event = 812 } }
+		localization_key = "SE_AF24_CRUSADE_A"
 	}
 }

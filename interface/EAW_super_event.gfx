@@ -32,6 +32,12 @@ spriteTypes = {
 		noOfFrames = 1
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+
+	spriteType = {
+		name = "GFX_eawse_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//eawse_album_art.dds"
+		noOfFrames = 2
+	}
 	
 	#############################
 	#	Super Events Pictures	#
@@ -1223,5 +1229,19 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_super_event_custom_griff_empire_final"
 		textureFile = "gfx//superevent_pictures//eaw_super_event_griff_empire_final.tga"
+	}
+
+	# AF 2024 - Crusade
+	spriteType = {
+		name = "GFX_super_event_custom_af24_ufs"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hhh_af24_ufs.tga"
+	}
+	spriteType = {
+		name = "GFX_super_event_custom_af24_ufs_victory"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hhh_af24_ufs_victory.tga"
+	}
+	spriteType = {
+		name = "GFX_super_event_custom_af24_crusade"
+		textureFile = "gfx//superevent_pictures//eaw_super_event_hhh_af24_crusade.tga"
 	}
 }

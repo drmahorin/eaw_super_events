@@ -862,3 +862,17 @@
   SE_GRIFF_EMPIRE_FINAL_T:0 "Guards of the Empire"
   SE_GRIFF_EMPIRE_FINAL_A:0 "Lieb Vaterland, magst ruhig sein"
   SE_GRIFF_EMPIRE_FINAL_D:0 "As long as a drop of blood still glows,\nA fist still draws the sword,\nAnd one claw still holds the rifle,\nNo enemy will here step on our shore!\n\n -Imperial patriotic anthem"
+
+  ########## AF 2024 - Thanks Elowiny ##########
+  SE_AF24_UFS_T:0 "The United Free States"
+  SE_AF24_UFS_A:0 "The Final Trial Begins"
+  SE_AF24_UFS_D:0 ""Most think that either death or victory awaits us now, but alas, they fail to see that they are not mutually exclusive."\n -River Swirl"
+
+  SE_AF24_UFS_VICTORY_T:0 "Kattail Defeated"
+  SE_AF24_UFS_VICTORY_A:0 "So ends the megalomania"
+  SE_AF24_UFS_VICTORY_D:0 ""Was it worth it to systematically dismantle the order which I had created, under the pretence that it was intrinsically bad? Just because I dared oppose your government? Did you stop to consider the true benefits that I can bring? Prosperity and equality under benevolent leadership?"\n -Kaiser Kattail"
+
+  SE_AF24_CRUSADE_T:0 "Kattail Unites the World"
+  SE_AF24_CRUSADE_A:0 "It is only the beginning"
+  SE_AF24_CRUSADE_D:0 ""Unity is the only way forwards, whether the planet want it, or not. To safeguard all sapient life from the twin threats of uncaring extraterrestrial invaders, and the petty cyclical collapse that brought down so many great civilisations in the past."\n -Kaiser Kattail"
+  

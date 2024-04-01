@@ -1036,6 +1036,20 @@ on_actions = {
 				}
 				hidden_effect = { country_event = { id = eaw_superevents.199 days = 1 } }
 			}
+			if = {
+				limit = {
+					FROM = { original_tag = ABY }
+					ROOT = { tag = UFS }
+				}
+				country_event = { id = eaw_superevents.811 days = 1 }
+			}
+			if = {
+				limit = {
+					FROM = { tag = UFS }
+					ROOT = { original_tag = ABY }
+				}
+				country_event = { id = eaw_superevents.812 days = 1 }
+			}
 		}
 	}
 	
@@ -1698,6 +1712,13 @@ on_actions = {
 				hidden_effect = { country_event = { id = eaw_superevents.182 days = 1 } }
 			}
 			
+			if = {
+				limit = {
+					tag = UFS
+					FROM = { tag = ABY }
+				}
+				hidden_effect = { country_event = { id = eaw_superevents.810 days = 1 } }
+			}
 		}
 	}
 	

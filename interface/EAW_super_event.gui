@@ -23,7 +23,7 @@ guiTypes = {
 
 		iconType = {
 			name = "EAWSE_image"
-			size = { width = 682 height = 374 } # Smaller than border by 8 x 24
+			# size = { width = 682 height = 374 } # Smaller than border by 8 x 24
 			position = { x = 4 y = 12 }
 			alwaystransparent = yes
 		}
@@ -31,7 +31,7 @@ guiTypes = {
 		iconType = {
 			name ="Underlay"
 			spriteType = "GFX_superevent_text_underlay"
-			size = { width = 550 height = 137 }
+			# size = { width = 550 height = 137 }
 			position = { x = -562 y = -149 }
 			orientation = lower_right
 			alwaystransparent = yes

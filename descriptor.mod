@@ -1,4 +1,4 @@
-version="1.8.1.1"
+version="1.8.1.3"
 dependencies={
 	"Equestria at War"
 }
