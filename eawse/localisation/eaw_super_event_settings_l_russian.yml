@@ -9,7 +9,7 @@
   eaw_superevents_settings.start.exit:0 "Выход"
   
   eaw_se_settings_d_category:0 "Equestria at War Super Events"
-  eaw_se_settings_d_category_desc:0 "Версия мода: 1.8.1#1"
+  eaw_se_settings_d_category_desc:0 "Версия мода: 1.8.3.0"
   eaw_se_settings_d:0 "Открыть панель настройки"
   
   eaw_superevents_settings.desc:0 "Статус супер-события отображен на вариантах ответов.\nЕсли статус события §GВключено§! - событие может появиться в игре.\nЕсли статус события §RОтключено§! - событие в игре не появится.\nДля смены статуса нажмите на нужное событие."
