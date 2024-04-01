@@ -9,7 +9,7 @@
   eaw_superevents_settings.start.exit:0 "Exit"
   
   eaw_se_settings_d_category:0 "Equestria at War Super Events"
-  eaw_se_settings_d_category_desc:0 "Mod Version: 1.8.3.0"
+  eaw_se_settings_d_category_desc:0 "Mod Version: 1.8.3.1"
   eaw_se_settings_d:0 "Open the configuration panel"
   
   eaw_superevents_settings.desc:0 "The status of the super-event is displayed on the response options.\nIf the status of the event §GEnabled§! - the event can appear in the game.\nIf the status of the event §RDisabled§! - the event will not appear in the game.\nTo change the status, click on the desired event."
