@@ -806,10 +806,10 @@ EAWSE_show_super_event = {
 		play_song = "super_event_tno_sablin"
 	}
 
-	else_if = {
-		limit = { check_variable = { EAWSE_temp_super_event = 810 } }
-		play_song = "super_event_af24_ufs"
-	}
+	# else_if = {
+	# 	limit = { check_variable = { EAWSE_temp_super_event = 810 } }
+	# 	play_song = "super_event_af24_ufs"
+	# } # Actually no need to play this snippet, but I will leave it in the files
 	else_if = {
 		limit = { check_variable = { EAWSE_temp_super_event = 811 } }
 		play_song = "super_event_af24_ufs_victory"
