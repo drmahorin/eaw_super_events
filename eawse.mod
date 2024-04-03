@@ -1,6 +1,7 @@
 version="1.8.3.2"
 dependencies={
 	"Equestria at War"
+	"Equestria at War - Dev"
 }
 tags={
 	"Events"
