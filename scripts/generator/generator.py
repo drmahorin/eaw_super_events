@@ -54,7 +54,7 @@ for file in files:
     )
     for step in steps:
         step(out, cat, fi, count)
-    
+
     print(sub_ids)
     modules.gui(out, (cat_i, cat), sub_ids, count)
     print('')

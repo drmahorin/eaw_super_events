@@ -5,6 +5,7 @@ TITLE = 'Music'
 ta = read_template('./templates/music_asset.txt')
 tt = read_template('./templates/music_txt.txt')
 
+
 @print_time(TITLE)
 def music(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
     events = 0
@@ -34,8 +35,8 @@ def music(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
 
             for id in ids.values():
                 id = id.lower()
-                fa.write(ta(id = id))
-                ft.write(tt(id = id))
+                fa.write(ta(id=id))
+                ft.write(tt(id=id))
                 fe.write(f'  {id}: "{credits[id]}"\n')
                 fr.write(f'  {id}: "{credits[id]}"\n')
 

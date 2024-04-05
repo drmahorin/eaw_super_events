@@ -2,6 +2,7 @@ from .utils import delim, print_events, print_time
 
 TITLE = 'Scripted localisation'
 
+
 @print_time(TITLE)
 def scripted_localisation(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
     events = 0
@@ -40,4 +41,3 @@ def scripted_localisation(out: str, ids_all: dict[str, list[dict[int, str]]], c:
         ft.close()
         fa.close()
         fd.close()
-    

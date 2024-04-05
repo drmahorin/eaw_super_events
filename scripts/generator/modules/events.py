@@ -4,6 +4,7 @@ TITLE = 'Events'
 
 te = read_template('./templates/event.txt')
 
+
 @print_time(TITLE)
 def events(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
     events = 0
@@ -14,7 +15,7 @@ def events(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
         for cat, ids in ids_all.items():
             fo.write(f'# {delim} #\n# {cat}\n# {delim} #\n')
             for i, id in ids.items():
-                fo.write(te(i = i, id = id.lower()))
+                fo.write(te(i=i, id=id.lower()))
                 events += 1
                 if events < c:
                     fo.write('\n')

@@ -1,9 +1,8 @@
-import os
 import re
 from pathlib import Path
 
 ids = {}
-with open(f'../migrator/old/common/scripted_localisation/EAWSE_scripted_localisation.txt') as f:
+with open('../migrator/old/common/scripted_localisation/EAWSE_scripted_localisation.txt') as f:
     gfx = f.read()
     for hit in re.finditer(r'EAWSE_super_event = ([0-9]*).*\n.*"(.*)_T"', gfx, re.MULTILINE):
         ids[hit[2].split('_', 1)[1]] = hit[1]

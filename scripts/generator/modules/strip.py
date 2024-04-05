@@ -1,5 +1,6 @@
 from .utils import print_events, print_time
 
+
 @print_time('IDs')
 def id_grabber(fi: list[str]) -> dict[int, str]:
     events = {}
@@ -20,6 +21,7 @@ def id_grabber(fi: list[str]) -> dict[int, str]:
 
     print_events('IDs', len(events))
     return dict(sorted(events.items()))
+
 
 @print_time('SubIDs')
 def subid_grabber(fi: list[str]) -> dict[str, dict[int, str]]:
@@ -46,6 +48,7 @@ def subid_grabber(fi: list[str]) -> dict[str, dict[int, str]]:
 
     print_events('SubIDs', len(events))
     return events
+
 
 @print_time('AnimIDs')
 def anim_grabber(fi: list[str]) -> dict[str, dict[int, str]]:

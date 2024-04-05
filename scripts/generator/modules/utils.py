@@ -2,8 +2,10 @@ import time
 
 delim = '-' * 40
 
+
 def print_events(title: str, events: int):
     print(f'{title}: {events} events')
+
 
 def print_time(title: str) -> int:
     def decorator(func):
@@ -15,6 +17,7 @@ def print_time(title: str) -> int:
             return value
         return wrapper
     return decorator
+
 
 def read_template(fn: str) -> callable:
     data = ''

@@ -2,6 +2,7 @@ from .utils import delim, print_events, print_time
 
 TITLE = 'Scripted effects'
 
+
 @print_time(TITLE)
 def scripted_effects(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
     events = 0

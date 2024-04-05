@@ -7,6 +7,7 @@ languages = (
     'russian',
 )
 
+
 @print_time(TITLE)
 def localisation(out: str, cat: str, fi: list[str], c: int):
     files = {}
@@ -52,7 +53,7 @@ def localisation(out: str, cat: str, fi: list[str], c: int):
                     cat_i = 0
                 else:
                     cat_i += 1
-            
+
             elif not event_i:
                 event = line.split()[1]
                 event_i = 1
