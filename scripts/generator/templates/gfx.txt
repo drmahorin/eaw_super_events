@@ -1,0 +1,4 @@
+	spriteType = {{
+		name = "GFX_{id}"
+		textureFile = "gfx/{fn}.dds"
+	}}

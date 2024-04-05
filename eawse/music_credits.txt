@@ -1,0 +1,204 @@
+eawse_nightmare_moon_cv - Moonlight Sonata
+eawse_daybreaker - Equestria at War Trailer
+eawse_two_sisters_war - Lucas King - Sad War Music II - Requiem
+eawse_sombra_returns - Missing In Action - Final Stand
+eawse_great_war - Autumn Dream Waltz
+eawse_great_war_ev - Rule Britannia Instrumental
+eawse_great_war_cv - Panzerlied Music Box
+eawse_elf_u - Sacred War
+eawse_elf_v - Soviet Choir - Victory
+eawse_elf_d - Call of Duty World At War Soundtrack - Downfall
+eawse_grover_v - Mozart - Lacrimosa
+eawse_lord_protector_start - Secession Studios - Subversion of the Sovereign
+eawse_great_war_sv - Prokofiev - Alexander Nevsky - Crusaders In Pskov
+eawse_great_war_lv - Bekker - Joy of Victory
+eawse_sombra_victory - Lucas King - Sad War III - Death Hymn
+eawse_aquileia_revolt - La Marseillaise
+eawse_republic_win - Battle Cry of Freedom
+eawse_republic_lose - Sing with Karl - Die letzte Kompanie
+eawse_grover_vi_coronation - Heil dir im Siegerkranz
+eawse_grover_ii_resurrection - Regimentsgruß
+eawse_maresoc - Soldat - Garda de Fier
+eawse_esb - Central Band Of The Royal British Legion - I Vow To Thee
+eawse_ts_ph - Melodic Pony - Princess Twilight Orchestral Suite
+eawse_republic_win_com - Auferstanden aus Ruinen
+eawse_republic_win_auth - Deutschlandlied
+eawse_riv_emp - Battotai Instrumental
+eawse_lp_uh - Wolfenstein II The New Colossus March
+eawse_thx_uprising_s - 'Fanfarengruss' von Willi Schade - Zentrales Orchester der NVA
+eawse_chrysalis_coronation - Giacomo Meyerbeer - Coronation march for Wilhelm I
+eawse_stg_unites_equestria - The Battle is Going Again!
+eawse_stg_defeats_chn - Invincible and Legendary!
+eawse_stg_defeated - We Go on the Wide Fields
+eawse_stg_attack_eqs - Workers' Marseillaise
+eawse_republic_win_s - Ressurreição - Hino do Movimento Nacionalista Português
+eawse_ded - Nothing
+eawse_ost_griffonia - Na tropa viking - På vikingtog
+eawse_pan_griffonia - Die Internationale (German)
+eawse_world_soc_rep - The Internationale - Instrumental
+eawse_holy_pony_empire - Semeon Tchernetsky - Moscow Salute
+eawse_gri_riv_war_gri - Prokofiev - Dance of the Knights
+eawse_lns_gm - Lucas King - Dark Piano - Anxiety
+eawse_lns_powner - Carl Orff - O Fortuna ~ Carmina Burana
+eawse_karthin - "Vincere! Vincere! Vincere!"- Italian war song
+eawse_dark_wing_unites_eqs - https://youtu.be/T7dwRKbNQnA?t=1653
+eawse_war_two_cont_eqs_vs_gri - Star Wars The Clone Wars Soundtrack - The Jedi Council
+eawse_war_two_cont_chn_vs_gri - Band Of The Royal Marines School Of Music - Aces High
+eawse_war_two_cont_stg_vs_gri - If There Is a War Tomorrow
+eawse_karthin_com - La Brigata Garibaldi
+eawse_war_two_cont_sol_vs_gri - Mussorgsky - Night On Bald Mountain
+eawse_war_two_cont_nlr_vs_gri - Beethoven - 7th Symphony - 2nd movement
+eawse_great_war_chn_d - Ich hatt einen Kameraden Instrumental
+eawse_stg_intervention - White Army, Black Baron
+eawse_eqc_liberates_eqs - Thaxted - Gustav Holst
+eawse_ded_bc - Pieces of Eden - Dead Army
+eawse_ded_defeated - Requiem Fauré. Libera Me
+eawse_baltimare_lavander - Allen Grey - Darkness
+eawse_riv_rct_rs - European Union International Anthem
+eawse_riv_rct_al - Kundschafterlied
+eawse_riv_rct_nw - Hej Slaveni
+eawse_riv_rct_ch - Svi smo jedna Armija
+eawse_riv_nim_mk - Greek National Anthem Instrumental
+eawse_riv_dep_kg - Bulgarian Patriotic Song - Wake up, the Balkan fighter
+eawse_riv_fre_cr - Scottish National Anthem
+eawse_riv_dmt_molly - Derek Fiechter's Music - Epic Dwarf Music - Dwarf Prince
+eawse_riv_dmt_rover - In the Hall of the Mountain King
+eawse_riv_lct_ds - Anthem of Serbia Instrumental
+eawse_riv_lct_wl - Serbian song "My Fatherland!" / Отаџбина моја!
+eawse_riv_lct_wb - Srbina Čuva Slava I Bog
+eawse_riv_bak_wl - Zdravljica Instrumental
+eawse_riv_bak_td - Domovina naša je svobodna
+eawse_riv_bak_bf - Uz Marsala Tita
+eawse_riv_bak_fs - Naprej, zastava slave
+eawse_riv_wit_ws - European Union International Anthem
+eawse_riv_wit_v - Hanns Eisler/Bertolt Brecht - United Front Song (Das Einheitsfrontlied)
+eawse_riv_wit_harmony - European Union International Anthem
+eawse_riv_wit_neutral - Zlatorog
+eawse_herzland_ang_leer - Arditi - Religion of the Blood
+eawse_herzland_ang_kingdom - Preußenlied Instrumental
+eawse_herzland_ang_anarchy - Warschawjanka (German Version)
+eawse_herzland_ang_bluhm - Das Lied der Deutschen
+eawse_herzland_ang_ordenstaat - Arditi - Imposing Elitism
+eawse_herzland_ang_weschler - National Anthem of Austria
+eawse_herzland_pyt_harmony_eqs - A True,True Friend (Epic Orchestral Cover)
+eawse_herzland_pyt_harmony_republic - Niedersachsenlied
+eawse_herzland_pyt_com - Stalin, Freund, Genosse
+eawse_herzland_pyt_dietrich - Transvaalse Volkslied
+eawse_herzland_pyt_truthahn - Die Eisenfaust am Lanzenschaft
+eawse_herzland_pyt_erebus - Unter dem Doppeladler
+eawse_herzland_pyt_republic - Wir sind des Geyers schwarzer Haufen
+eawse_herzland_yal_archont - Die Eisenfaust am Lanzenschaft
+eawse_herzland_yal_grover_ii - Gott erhalte Franz den Kaiser Instrumental
+eawse_herzland_yal_boreas - VENI CREATOR SPIRITUS - Giovanni Vianini
+eawse_herzland_yal_new_spark - Saarlandlied Instrumental
+eawse_herzland_yal_technocracy - Deus Ex: Mankind Divided - Otar Botkoveli Debate
+eawse_herzland_yal_com - Solidaritätsmarsch
+eawse_herzland_kat_com - The Red Flag
+eawse_herzland_kat_katerintreue - Der treue Husar Instrumental
+eawse_herzland_kat_republic - Pommernlied Instrumental
+eawse_herzland_kat_neutral - Berliner Luft Instrumental
+eawse_herzland_rou_com - Die Arbeiter von Wien
+eawse_herzland_rou_harmony - Heckerlied
+eawse_herzland_rou_neutral - Inno Nasionale Veneto
+eawse_herzland_rou_eyr - Die Eisenfaust am Lanzenschaft
+eawse_herzland_fea_stappenbeld - Der offene Aufmarsch
+eawse_herzland_fea_kogchel - Brüder zur Sonne zur Freiheit
+eawse_herzland_fea_rozenkamp - National Bolshevik Party Anthem
+eawse_herzland_fea_heeren - Arditi - Forging a New Man
+eawse_herzland_fea_moldernik - Wij Zijn Bereid
+eawse_herzland_fea_vorst - Yorckscher Marsch
+eawse_herzland_fea_duke - John Williams - Star Wars: Episode III OST - Rise Of The Empire/It Can't Be
+eawse_herzland_fea_unwilling_dictator - Märkische Heide Instrumental
+eawse_herzland_fea_coalition - Het Wilhelmus (FIFA version - Instrumental)
+eawse_herzland_stw_harmony - Pfälzerlied Instrumental
+eawse_herzland_stw_com - Oktobersong
+eawse_herzland_stw_supremacy - State of the Church (754–1870) "Inno e Marcia Pontificale"
+eawse_herzland_stw_neutral - Die Wacht am Rhein Instrumental
+eawse_herzland_brz_harmony - The British Grenadiers March
+eawse_herzland_brz_neutral - Bismarck Marsch
+eawse_herzland_brz_com - Auf, auf zum Kampf zum Kampf
+eawse_herzland_brz_juche - No Motherland Without You
+eawse_herzland_brz_loudbark - Tokyo Philharmonic Orchestra - Panzerlied
+eawse_herzland_brz_church - State of the Church (754–1870) "Inno e Marcia Pontificale"
+eawse_herzland_brz_revenge_com - [Wind Orchestra] "Funeral Music" {DPRK Music}
+eawse_herzland_brz_revenge_empire_of_dogs - Sigmund Krähe - Opus 131 - "Revenge at Sea"
+eawse_light_crusade - Da Pacem, Domine : A Templar Chant
+eawse_new_mareland_equalist - MLP - In Our Town
+eawse_imperium_of_maar - Arditi - Spirit of Sacrifice
+eawse_griffonian_anarchy - La Makhnovtchina
+eawse_grf_western_empire_highhill - Berlioz - Symphonie Fantastique - Dream Of A Witches Sabbath
+eawse_grf_western_empire_ironclaw - Gnossienne No. 1 (Lent) Erik Satie
+eawse_grf_goldfeather - Barrett Strong - Money (That's What I Want)
+eawse_ahuizotl_empire - Phantawalker - Composer - Aztec Music - Pyramid of the Sun
+eawse_karthin_republic - Europa Universalis Rome - Vae Victis
+eawse_karthin_kingdom - Inno al Re
+eawse_baltimare_golden - Anthem of Ukrainian SSR
+eawse_baltimare_chafer - You, Glorious Soviet Ukraine
+eawse_baltimare_anarchists - Red Army Choir - Gandzia
+eawse_lsp_mayor - Battle Cry of Freedom
+eawse_lsp_pine_chest - Mi General Augusto Pinochet
+eawse_lsp_rockfeller - Tennessee Ernie Ford - Sixteen Tons
+eawse_lsp_mr_horse - Fallout: New Vegas - House Rules in the Lucky 38
+eawse_lsp_starry - Solidarity Forever
+eawse_lsp_sprinkle - This Land Is Your Land
+eawse_vanhoover - Communism marches on the planet
+eawse_aquileia_empire - Marche de la Garde Consulaire and La Victoire est à Nous
+eawse_pan_griffonia_dream - "Lied Vom Vaterland" - Wide Is My Motherland in German
+eawse_evi_brodfeld - Drum bun
+eawse_evi_gla - Unu Mai Muncitoresc
+eawse_evi_gryphian_host - Hej, Sokoły!
+eawse_evi_lushi - Föl föl vitézek
+eawse_evi_gryphus - Polish Patriotic Song - Rota
+eawse_falcor_revenge - Vogliamo Scolpire una Lapide
+eawse_great_zaphia - Zaporozhian Cossack Marсh
+eawse_megali - "Μην παραχαράζετε" - Greek Patriotic Song
+eawse_scs_confederate - 2nd South Carolina String Band - When Johnny Comes Marching Home
+eawse_riv_dmt_com - Po šumama i gorama
+eawse_bar_asinti - Voice Of Chaos by Deadly Avenger (Riptide Music)
+eawse_bar_leopold - Jo Blankenburg - Tick Tock Goes The Clock
+eawse_bar_silver - Lucas King - Liar
+eawse_bar_viira_h - Secession Studio - Greg Dombrowski - The Dark Age
+eawse_bar_viira_g - Horror Trailer Music - The Devil
+eawse_bar_viira_end - Mehrunes Dagon's Deadlands | Ambience + Music | Oblivion Realms + Secession Studio - Greg Dombrowski - Dancing with Flames
+eawse_bar_ambrosius - Dragon Age: Inquisition | The Descent Soundtrack - Aftermath
+eawse_bar_fall - The Lord of the Rings Battle for Middle Earth 2 Soundtrack
+eawse_stl_our - A New Day
+eawse_grf_western_empire_virgil - S.T.A.L.K.E.R.: Clear Sky - Bandit Radio
+eawse_great_war_stg - Chris Blackwell - Kirov Renewed
+eawse_new_mareland_kingfisher - Every man a King - Instrumental
+eawse_new_mareland_lunar_dominion - Jyc Row - Onward (feat. Aloma Steele)
+eawse_new_mareland_last_stand - War Thunder - Duty, Steel My Heart
+eawse_gri_riv_war_riv_v - Battlefield 1: In the Name of The Tsar OST - Grace and Glory
+eawse_gri_riv_war_gri_v - Battlefield 1 OST - The Flight Of The Pigeon
+eawse_aquileian_republic_victory - Le Chant Du Depart
+eawse_lunar_equus - Pony Empires Complete - Moon (Vocals by Periluna)
+eawse_solar_equus - Pony Empires Complete - Sun (Vocals By MEMJ)
+eawse_trimmel_on_griffonian_throne - Panzerlied Instrumental
+eawse_war_two_cont_maresoc_vs_equus - 1984 Oceania Patriotic Song: The Hiking Song
+eawse_war_two_cont_viira_vs_equus - Dark Devilish Music - Requiem
+eawse_war_two_cont_juche_vs_equus - North Korean Patriotic Song - Footsteps
+eawse_war_two_cont_hlq_vs_eqs - ANUVAN - Sacred War + https://15.ai/ (for Celestia voice) + Gen. Dwight D. Eisenhower's D-Day Message (Speech)
+eawse_crystal_regency - Evening Star - A Dying World
+eawse_war_two_cont_riv_vs_chn - Yugoslav Military March - Zabruje Tako Pjesme Znane
+eawse_atom - We will meet again (from  "мя. νσ∂кα" yt channel)
+eawse_north_zebrica_war - Waterloo Soundtrack - A Field of Death
+eawse_tobuck_white - Regiments are marching
+eawse_tobuck_severyana - God Save the Tsar!
+eawse_col_first_civil_war - Civilization V OST - Dido War Theme
+eawse_col_second_civil_war - Jeff van Dyck - Rome Total War Original Soundtrack - Carthage Intro
+eawse_col_third_civil_war - Tyler Cunningham - The Fall of Carthage
+eawse_hip_com - Red Army Choir - The Guard Song
+eawse_hip_posada_finale - 14 Minutes To Start, Extended Parade Instrumental
+eawse_hip_harmony - Aurelleah - Harmony (Adaptation of the MLP:FiM Theme) [Orchestral Symphony Suite]
+eawse_hip_siren - Carbon Maestro - A Thousand Years Ago Intro Theme - Equestria: Hidden History BGM
+eawse_hip_siren_finale - Carbon Maestro - The Siren and the Seamare
+eawse_hip_af - Over there March Instrumental ( EPIC VERSION )
+eawse_hip_falanga - Unser Rommel (Instrumental Version)
+eawse_tobuck_neo_hazrumenia - Patov - Traveler - Ancient Mesopotamian - Babylon
+eawse_cloudbury_kingdom - Denmark National Anthem (Instrumental)
+eawse_griff_empire_final - Die Wacht am Rhein [Patriotic anthem][Russian version]
+eawse_tno_twilight - Verify Your Clock
+eawse_tno_sablin - MLP Main Theme + Equestria, the Land I Love + And The Battle Is Going Again
+eawse_af24_ufs - Stellaris - Battle for Supremacy
+eawse_af24_ufs_victory - Stellaris - Creation and Beyond
+eawse_af24_crusade - Stellaris - Evil Federation

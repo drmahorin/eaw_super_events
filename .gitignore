@@ -1,0 +1,27 @@
+# VSCode (sic!)
+.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# My own stuff, not needed globally
+scripts/migrator
+
+# This stuff is generated anyways
+eawse/common/scripted_effects
+eawse/common/scripted_guis/*
+eawse/common/scripted_localisation
+eawse/events/eawse_events.txt
+eawse/interface/eawse_gfx
+eawse/interface/eawse_settings
+eawse/localisation/english/*
+eawse/localisation/russian/*
+eawse/music/**/*.asset
+eawse/music/**/*.txt
+
+# Actually manual stuff
+!eawse/localisation/*/eawse_l_*.yml
+!eawse/common/scripted_guis/00_*.txt
+

@@ -1,0 +1,521 @@
+!!EAWSE_GRIFFONIA_TITLE
+  Griffonia
+  Гриффония
+
+!EAWSE_GRIFFONIA_FAT
+  FAT
+  FAT
+
+17 EAWSE_REPUBLIC_WIN
+$EAWSE_REPUBLIC_WIN_T$ £ideology_harmony_texticon
+  Tricolour Over Griffenheim
+  Dream comes true
+  They have laid down their lives on the bloody battle field.\nShout, shout the battle cry of Freedom!\nTheir motto is resistance – "To the tyrants never yield!"\nShout, shout the battle cry of Freedom!\n -Republican song
+$EAWSE_REPUBLIC_WIN_T$ £ideology_harmony_texticon
+  Триколор над Гриффенхеймом
+  Мечта осуществилась
+  They have laid down their lives on the bloody battle field.\nShout, shout the battle cry of Freedom!\nTheir motto is resistance – "To the tyrants never yield!"\nShout, shout the battle cry of Freedom!\n -Республиканская песня
+
+24 EAWSE_REPUBLIC_WIN_COM
+$EAWSE_REPUBLIC_WIN_COM_T$ £GFX_ideology_communism_texticon
+  Tricolour Over Griffenheim
+  The New Republic for a new era
+  Let us plough and build our nation,\nLearn and work as never yet,\nThat a free new generation,\nFaith in its own strength beget!\n -Republican song
+$EAWSE_REPUBLIC_WIN_COM_T$ £GFX_ideology_communism_texticon
+  Триколор над Гриффенхеймом
+  Новая республика для новой эпохи
+  Давайте дружно строить, сеять,\nМирный труд страны любя.\nПодрастают наши дети\nС крепкой верою в себя.\n -Республиканская песня
+
+25 EAWSE_REPUBLIC_WIN_AUTH
+$EAWSE_REPUBLIC_WIN_AUTH_T$ £GFX_ideology_neutrality_texticon
+  Tricolour Over Griffenheim
+  Long Live The Republic!
+  Unity and justice and freedom\nAre the safeguards of fortune;\nFlourish in the radiance of this fortune,\nFlourish, our Fatherland!\n -Republican song
+$EAWSE_REPUBLIC_WIN_AUTH_T$ £GFX_ideology_neutrality_texticon
+  Триколор над Гриффенхеймом
+  Да здравствует республика!
+  Общность, право и свобода –\nЭто счастья семена.\nРасцветай в сияньи счастья,\nПроцветай, моя страна!\n -Республиканская песня
+
+34 EAWSE_REPUBLIC_WIN_S
+$EAWSE_REPUBLIC_WIN_S_T$ £GFX_ideology_supremacy_texticon
+  Tricolour Over Griffenheim
+  For The Strong Republic!
+  No one has to thank me for accepting the burden, because it is so big sacrifice for me to please or I would not do for kindness to anyone. I do this to for my country, as a duty of conscience, coldly, calmly completed.\n -Reinhard Suntail
+$EAWSE_REPUBLIC_WIN_S_T$ £GFX_ideology_supremacy_texticon
+  Триколор над Гриффенхеймом
+  За сильную республику!
+  Никому не стоит благодарить меня за то, что я принял это бремя, хоть для меня это и большая жертва. Я делаю это ради своей страны, поступая по долгу совести.\n -Рейнхард Сантейл
+
+18 EAWSE_REPUBLIC_LOSE
+$EAWSE_REPUBLIC_LOSE_T$
+  End of the Republican Dream
+  The last breath of the Republic
+  It seems to the folk that they are free in revolutions, this is a terrible self-deception. In a revolution there is no and there can be no freedom, the revolution is always hostile to the spirit of freedom. A revolution happens like a disease, misfortune, natural disaster, fire or flood happens.\n -Archont Eros VII
+$EAWSE_REPUBLIC_LOSE_T$
+  Конец Республиканской мечты
+  Последний вздох Республики
+  Народу кажется, что он свободен в революциях, это — страшный самообман. В революции не бывает и не может быть свободы, революция всегда враждебна духу свободы. Революция случается, как случается болезнь, несчастье, стихийное бедствие, пожар или наводнение.\n -Архонт Эрос VII
+
+146 EAWSE_PAN_GRIFFONIA_DREAM
+$EAWSE_PAN_GRIFFONIA_DREAM_T$
+  Pan-Griffonian Dream
+  From Skynavia to Karthin...
+  I have a dream that one day all griffons will rise up and live out the true meaning of its creed: \"We hold these truths to be self-evident, that all creatures are created equal.\"\n -Alexander Kemerskai
+$EAWSE_PAN_GRIFFONIA_DREAM_T$
+  Пан-Грифонья Мечта
+  От Скайнавии до Карфина...
+  Я мечтаю, что однажды все грифоны будут жить в соответствии с принципом: «Мы считаем самоочевидным, что все существа сотворены равными».\n -Александр Кемерскай
+
+198 EAWSE_CLOUDBURY_KINGDOM
+$EAWSE_CLOUDBURY_KINGDOM_T$
+  Dual Monarchy
+  If Kemerskai saw it
+  There is a considerable amount of irony in the fact that the children of Republicans who have long gone to the north have returned here as convinced monarchists.\n -Count Ignatius Bronzetail
+$EAWSE_CLOUDBURY_KINGDOM_T$
+  Двуединая монархия
+  Если бы Кемерскай видел это...
+  Есть немалая доля иронии в том, что дети давно ушедших на север республиканцев, вернулись сюда убежденными монархистами.\n -Игнатий Бронзтейл, граф Бронзхилла
+
+!EAWSE_GRIFFONIA_EQC
+  EQC
+  EQC
+
+21 EAWSE_MARESOC
+$EAWSE_MARESOC_T$
+  MARESOC
+  Chained forever
+  The proletarians will never revolt, not in a thousand years or a million. They cannot. If you have ever cherished any dreams of violent insurrection, you must abandon them. There is no way in which the Party can be overthrown. The rule of the Party is for ever.\n -Inner Party Member
+$EAWSE_MARESOC_T$
+  MARESOC
+  Скованны навеки
+  Пролетарии никогда не восстанут — ни через тысячу лет, ни через миллион. Они не могут восстать. И если вы тешились мечтами о вооружённом восстании — оставьте их. Никакой возможности свергнуть партию нет. Власть партии — навеки.\n -Член внутренней партии
+
+22 EAWSE_ESB
+$EAWSE_ESB_T$
+  Equestria in Exile Strikes Back
+  For Equestrian Freedom!
+  Equestria has lost a battle, but Equestria has not lost the war! Nothing is lost and the day will come when our homeland will regain its freedom and greatness! That is why I invite all Equestrians, wherever they are, to unite with me in action, in sacrifice and in hope.\n -Princess Celestia
+$EAWSE_ESB_T$
+  Эквестрия в изгнании наносит ответный удар
+  За свободу Эквестрии!
+  Эквестрия проиграла сражение, но она не проиграла войну! Ничего не потеряно и настанет день, когда наша родина вернет свободу и величие! Вот почему я обращаюсь ко всем эквестрийцам объединиться вокруг меня во имя действия, самопожертвования и надежды.\n -Принцесса Селестия
+
+53 EAWSE_EQC_LIBERATES_EQS
+$EAWSE_EQC_LIBERATES_EQS_T$
+  Equestria Returns From Exile
+  The New World saved the Old World
+  Once again, the free peoples of Equestria and all of Equus emerged victorious from the deadly battle. The monstrous tyrannies that have threatened our very existence have been crushed and destroyed. This is the true glory, and may it be with us forever, lighting our way forward!\n -Princess Celestia
+$EAWSE_EQC_LIBERATES_EQS_T$
+  Эквестрия возвращается из изгнания
+  Новый Свет спас Старый из бездны
+  И вновь свободным народам Эквестрии и всего Эквуса удалось выйти из смертельной схватки победителями. Чудовищные тирании, поставившие под угрозу само наше существование, разгромлены и уничтожены. Это – истинная слава, и да пребудет она с нами вовек, освещая нам дорогу вперед!\n -Принцесса Селестия
+
+126 EAWSE_NEW_MARELAND_EQUALIST
+$EAWSE_NEW_MARELAND_EQUALIST_T$
+  Our Nation
+  Smile
+  In a society of absolute equals, there is no place for envy, hatred and sadness. Joy and happiness are the only things that the inhabitants of our beautiful utopia can feel.\n -Blueberry Frost
+$EAWSE_NEW_MARELAND_EQUALIST_T$
+  Наша Нация
+  Улыбайтесь
+  В обществе абсолютно равных нет места зависти, ненависти и грусти. Радость и счастье - единственное, что могут чувствуют жители нашей прекрасной утопии.\n -Блуберри Фрост
+
+168 EAWSE_NEW_MARELAND_KINGFISHER
+$EAWSE_NEW_MARELAND_KINGFISHER_T$
+  The Mareland Century
+  Kingfish leads them to success
+  Every pony a princess, every griffon an emperor, but no one wears the crown.\n -Kingfisher
+$EAWSE_NEW_MARELAND_KINGFISHER_T$
+  Мейрлендский век
+  Кингфиш ведет их к успеху
+  Каждый пони - это принцесса, каждый грифон - император, но никто не носит корону.\n -Кингфишер
+
+169 EAWSE_NEW_MARELAND_LUNAR_DOMINION
+$EAWSE_NEW_MARELAND_LUNAR_DOMINION_T$
+  The United Lunar Territories of Griffonia
+  Luna nos custodit
+  We are an outpost of the empire on another continent. We are it's shield, we are it's sword. And if the Empress wants to bring the light of the true faith to these pagan griffons, then we will be happy to be at the forefront.\n -Evening Dew
+$EAWSE_NEW_MARELAND_LUNAR_DOMINION_T$
+  Объединенные Лунные Территории Грифонии
+  Luna nos custodit
+  Мы – форпост империи на другом континенте. Мы - её щит, мы - её меч. И если императрица желает нести этим язычникам-грифонам свет истинной веры, то мы с радостью выступим в первых рядах.\n -Ивнинг Дью
+
+170 EAWSE_NEW_MARELAND_LAST_STAND
+$EAWSE_NEW_MARELAND_LAST_STAND_T$
+  Invasion of New Mareland
+  The Last Stand
+  In any case, we will fight to the end. I believe in our victory as well as in the fact that tomorrow morning the sun will surely rise again.\n-General Iron Spear
+$EAWSE_NEW_MARELAND_LAST_STAND_T$
+  Вторжение в Новый Мейрленд
+  В последний бой
+  В любом случае мы будем драться до конца. Я верю в нашу победу так же, как в то, что завтра утром обязательно снова взойдет солнце.\n-Генерал Айрон Спир
+
+!EAWSE_GRIFFONIA_WNG
+  WNG
+  WNG
+
+43 EAWSE_KARTHIN
+$EAWSE_KARTHIN_T$
+  Karthinian Empire
+  Triumph! Triumph!
+  Over the centuries of its history, Wingbardy has experienced many memorable hours, but this is certainly one of the most solemn.\n -Giulio Beakolini
+$EAWSE_KARTHIN_T$
+  Карфинская Империя
+  Триумф! Триумф!
+  За долгие века ее истории, Вингбардия пережила много памятных часов, но это, безусловно, один из самых торжественных.\n -Джулио Биколини
+
+48 EAWSE_KARTHIN_COM
+$EAWSE_KARTHIN_COM_T$
+  Socialist Republics of Southern Griffonia
+  The proletariat break the chains
+  Socialism is the assertion of new rights of the individual.\n -Antonino Proletarino
+$EAWSE_KARTHIN_COM_T$
+  Объединенные Социалистические Республики Южной Грифонии
+  Пролетариат разорвал оковы
+  Социализм — это утверждение новых прав личности.\n -Антонино Пролетариано
+
+133 EAWSE_KARTHIN_REPUBLIC
+$EAWSE_KARTHIN_REPUBLIC_T$
+  Karthinian Republic
+  Ave!
+  In ancient times the Karthinian Republic comprehended the fairest part of the world, and the most civilised portion of griffonkind. The frontiers of that republic were guarded by ancient renown and disciplined valour.\n -Edoardo Gibbon, Wingbardian historian
+$EAWSE_KARTHIN_REPUBLIC_T$
+  Карфинская Республика
+  Ave!
+  В древние времена Карфинская Республика охватывала самую прекрасную часть мира и самую цивилизованную часть грифоньего рода. Границы этой республики охранялись старинной славой и дисциплинированной храбростью.\n -Эдуард Гиббон, Вингбардийский историк
+
+134 EAWSE_KARTHIN_KINGDOM
+$EAWSE_KARTHIN_KINGDOM_T$
+  United Kingdom of Karthinia
+  The crowns are finally united
+  We have united the South. Now we must unite its people.\n -Massimo d'Azeglio, Wingbardian novelist
+$EAWSE_KARTHIN_KINGDOM_T$
+  Объединённое Карфинское Королевство
+  Короны наконец едины
+  Мы объединили Юг, теперь осталось объединить его народ.\n -Массимо д'Азельо, Вингбардийский писатель
+
+!EAWSE_GRIFFONIA_EVI_BRF
+  BRF
+  BRF
+
+147 EAWSE_EVI_BRODFELD
+$EAWSE_EVI_BRODFELD_T$ - Brodfeld
+  Unification of Evi Valley
+  Peace at last
+  Any war in Evi is a civil war.\n -Brodfeld's writer
+$EAWSE_EVI_BRODFELD_T$ - Бродфельд
+  Объединение долины Эви
+  Мир, наконец
+  Всякая война в Эви - гражданская война.\n -Бродфельдский писатель
+
+!!EAWSE_GRIFFONIA_EVI_GWR
+  GWR
+  GWR
+
+148 EAWSE_EVI_GLA
+$EAWSE_EVI_BRODFELD_T$ - Griffon Liberation Army
+  $EAWSE_EVI_BRODFELD_T$
+  And victories results in a goal
+  War is a series of catastrophes that results in a victory.\n -Filip Redglad
+$EAWSE_EVI_BRODFELD_T$ - Освободительная Армия Гриффонов
+  $EAWSE_EVI_BRODFELD_T$
+  А серия побед, ведёт к цели
+  Война — это серия катастроф, ведущих к победе.\n -Филипп Редглад
+
+!EAWSE_GRIFFONIA_EVI_GRY
+  GRY
+  GRY
+
+149 EAWSE_EVI_GRYPHIAN_HOST
+$EAWSE_EVI_BRODFELD_T$ - Gryphian Host
+  $EAWSE_EVI_BRODFELD_T$
+  Don't show this to Grover
+  To emperor, Herzland devil and damned devil's kith and kin, secretary to Maar himself. What the devil kind of knight are thou, that canst not slay a hedgehog with your naked arse? The devil shits, and your army eats. We have no fear of your army; by land and by sea we will battle with thee.\n -Reply of the Evi Cossacks to the Griffenheim
+$EAWSE_EVI_BRODFELD_T$ - Грифийская Сечь
+  $EAWSE_EVI_BRODFELD_T$
+  Не показывайте это Гроверу
+  Ти, iмператор, чорт герцландский, i проклятого чорта сын i брат, самого Маара секретарь. Якiй ты в чорта лыцарь, коли голою сракою iжака не вбъешь?! Чорт ты , высрана твоя морда. Твойого вiйска мы не боiмося, землею i водою будем биться з тобою,враже ты розпроклятый сыну!\n -Письмо казаков Эви Императору всея грифонов
+
+!EAWSE_GRIFFONIA_EVI_LUS
+  LUS
+  LUS
+
+150 EAWSE_EVI_LUSHI
+$EAWSE_EVI_BRODFELD_T$ - Lushi
+  $EAWSE_EVI_BRODFELD_T$
+  The homeland has become stronger
+  We love our country, not because it is great, but because it is our own.\n -Elias Whitecrest
+$EAWSE_EVI_BRODFELD_T$ - Люши
+  $EAWSE_EVI_BRODFELD_T$
+  Родной край стал сильнее
+  Любят родину не за то, что она велика, а за то, что своя.\n -Элиас Уайткрест
+
+!EAWSE_GRIFFONIA_EVI_GRU
+  GRU
+  GRU
+
+151 EAWSE_EVI_GRYPHUS
+$EAWSE_EVI_BRODFELD_T$ - Gryphus
+  $EAWSE_EVI_BRODFELD_T$
+  Let them come
+  An old proverb says: "In strife, freedom disappears." In Herzland and Riverlands, this is well understood, and before any country becomes a threat to them, they are trying to divide its inhabitants and make their invasion justified, allegedly at the call of one side and to take care of the victims.\n -Agaton Giller, Gryphus journalist
+$EAWSE_EVI_BRODFELD_T$ - Грифус
+  $EAWSE_EVI_BRODFELD_T$
+  Пусть приходят
+  Старая пословица гласит: "В раздоре свобода исчезает". В Герцланде и Речноземье это прекрасно понимают, и, прежде, чем какая-либо страна станет для них угрозой, они пытаются разделить её жителей и сделать свое вторжение оправданным, якобы по призыву одной стороны и для заботы о потерпевших.\n -Агатон Гиллер, грифусский журналист
+
+!EAWSE_GRIFFONIA_BAR
+  BAR
+  BAR
+
+157 EAWSE_BAR_ASINTI
+$EAWSE_BAR_ASINTI_T$ - Asinti
+  Fate of Barrad
+  Now there are demons too?
+  Tartarus is paved with good intentions.\n -Griffonian catch phrase
+$EAWSE_BAR_ASINTI_T$ - Асинти
+  Судьба Баррада
+  Теперь еще и демоны?
+  Благими намерениями устлана дорога в Тартар.\n-Грифонье крылатое выражение
+
+158 EAWSE_BAR_LEOPOLD
+$EAWSE_BAR_ASINTI_T$ - Leopold
+  $EAWSE_BAR_ASINTI_T$
+  Deus ex machina
+  There is no problem that cannot be solved with an army of mechanical soldiers or a cup of good tea.\n -Leopold Schmeller
+$EAWSE_BAR_ASINTI_T$ - Леопольд
+  $EAWSE_BAR_ASINTI_T$
+  Deus ex machina
+  Нет такой проблемы, которую нельзя решить с помощью армии механических солдат или чашки хорошего чая.\n -Леопольд Шмеллер
+
+159 EAWSE_BAR_SILVER
+$EAWSE_BAR_ASINTI_T$ - Silver Star
+  $EAWSE_BAR_ASINTI_T$
+  Dead friends will not betray
+  I did what others couldn't! I won! I! No more barbarian cossacks or anyone else will be able to threaten me or my country! Let the former pentarchs rise to serve me for all eternity!\n -Silver Star
+$EAWSE_BAR_ASINTI_T$ - Сильвер Стар
+  $EAWSE_BAR_ASINTI_T$
+  Мертвые друзья не предадут
+  Я сделал то, чего не смогли другие! Я победил! Я! Больше никакие варвары-казаки или кто-либо еще не смогут угрожать мне или моей стране! Пусть же бывшие пентархи восстанут, чтобы служить мне всю вечность!\n -Сильвер Стар
+
+160 EAWSE_BAR_VIIRA_H
+$EAWSE_BAR_ASINTI_T$ - Viira
+  $EAWSE_BAR_ASINTI_T$
+  For the glory of the Machine!
+  The Machine demands submission from us and we are obliged to follow its wishes. I carry It word and will to all the people of Barrad. The unbelievers will be punished for their crimes against the Machine and peace will return to our lands.\n -Viira Lehtola
+$EAWSE_BAR_ASINTI_T$ - Виира
+  $EAWSE_BAR_ASINTI_T$
+  Во славу Махины!
+  Махина требует от нас подчинения и мы обязаны следовать её желаниям. Я несу её слово и волю всему народу Баррада. Неверующие будут покараны за свои преступления против Махины и на наши земли вернется мир.\n -Виира Лехтола
+
+161 EAWSE_BAR_VIIRA_G
+$EAWSE_BAR_ASINTI_T$ - Viira - Goddess
+  $EAWSE_BAR_ASINTI_T$
+  For the glory of Viira!
+  I will destroy the old civilizations and build a new, better, organized, and MY own world on their ruins. Everyone will bow before their Goddess!\n -Viira
+$EAWSE_BAR_ASINTI_T$ - Виира - Богиня
+  $EAWSE_BAR_ASINTI_T$
+  Во славу Вииры!
+  Я уничтожу старые цивилизации и возвезду на их руинах новый, лучший, организованный и МОЙ собственный мир. Все склонятся перед своей Богиней!\n -Виира
+
+163 EAWSE_BAR_AMBROSIUS
+$EAWSE_BAR_ASINTI_T$ - Ambrosius
+  $EAWSE_BAR_ASINTI_T$
+  Clouds over Barrad are dispersing
+  Hope is often born out of despair.\n -An ancient Wingbardian adage
+$EAWSE_BAR_ASINTI_T$ - Амброзий
+  $EAWSE_BAR_ASINTI_T$
+  Тучи над Баррадом расходятся
+  Часто из самого отчаяния рождается надежда.\n -Древняя вингбардийская поговорка
+
+164 EAWSE_BAR_FALL
+$EAWSE_BAR_ASINTI_T$ - Fall of Pentarchy
+  $EAWSE_BAR_ASINTI_T$
+  Powerful, but not omnipotent
+  Despair is a fear without hope.\n -Aquileian philosopher
+$EAWSE_BAR_ASINTI_T$ - Падение Пентархии
+  $EAWSE_BAR_ASINTI_T$
+  Могучие, но не всесильные
+  Отчаяние — это страх без надежды.\n -Аквелийский философ
+
+162 EAWSE_BAR_VIIRA_END
+$EAWSE_BAR_ASINTI_T$ - $EAWSE_BAR_VIIRA_END_T$
+  The Truly Goddess of Griffonia
+  Absolute power
+  There is no power in the world that can even think of competing with Me! Who are Boreas, Arcturius, Eyr or these worthless alicorns for me? These nothingness have done nothing to protect their paltry followers. From Now On - I Am The New World Order!\n -Viira
+$EAWSE_BAR_ASINTI_T$ - $EAWSE_BAR_VIIRA_END_T$
+  Истинная Богиня Грифонии
+  Абсолютная власть
+  Нет в мире силы, способной даже помыслить о соперничестве со мной! Что мне Борей, Арктурий, Эйр и их никчемные последователи? Эти ничтожества ничего не сделали для защиты своих жалких грифонов. Впрочем, скоро никто уже не вспомнит ни про них, ни про старый мир. Отныне Я - Новый Мировой Порядок!\n -Виира
+
+!EAWSE_GRIFFONIA_JER
+  JER
+  JER
+
+16 EAWSE_AQUILEIA_REVOLT
+$EAWSE_AQUILEIA_REVOLT_T$
+  Aquileian Revolution
+  Liberté, Égalité, Fraternité
+  Revolution is nothing more nor less than the ideal armed with the sword.\n -Victor Hugo
+$EAWSE_AQUILEIA_REVOLT_T$
+  Аквелийская революция
+  Liberté, Égalité, Fraternité
+  Революция есть идеал, вооруженный мечом.\n -Виктор Гюго" #Такой персонаж в моде есть в каком-нибудь виде?
+
+145 EAWSE_AQUILEIA_EMPIRE
+$EAWSE_AQUILEIA_EMPIRE_T$
+  Aquileian Empire
+  Vive L'Impératrice!
+  In the Aquileians, the sense of national honor is always smoldering under the ashes. Just sparks enough to ignite it.\n -Empress Vivienne Discret
+$EAWSE_AQUILEIA_EMPIRE_T$
+  Аквелийская Империя
+  Vive L'Impératrice!
+  У аквелийцев чувство национальной чести всегда тлеет под пеплом. Достаточно лишь искры, чтобы разжечь его.\n -Императрица Вивьен Дискрет
+
+173 EAWSE_AQUILEIAN_REPUBLIC_VICTORY
+$EAWSE_AQUILEIAN_REPUBLIC_VICTORY_T$
+  La République Victorieuse
+  La République nous appelle
+  Everywhere, in the deep night\nPlunging the infamous Royalty\nThe Aquileian shall give the world\nBoth peace and liberty.\n -Aquileian Revolutionary Song
+$EAWSE_AQUILEIAN_REPUBLIC_VICTORY_T$
+  La République Victorieuse
+  La République nous appelle
+  Повсеместно, в ночной темноте,\nСвергая позорную власть монархов,\nАквелийцы подарят земле\nМир и свободу!\n -Аквелийская революционная песня
+
+!EAWSE_GRIFFONIA_DED
+  DED
+  DED
+
+35 EAWSE_DED
+$EAWSE_DED_T$
+  Apocalypse
+  And silence fell
+  My dear friend, I never would've thought\nBut silence is the worst thing war has brought.\n -Unknown poet of pre-apocalypse era
+$EAWSE_DED_T$
+  Апокалипсис
+  И опустилась тишина
+  О друг, я не думала, что тишина\nСтрашнее всего, что оставит война.\n -Неизвестный поэт доапокалипсисной эпохи
+
+54 EAWSE_DED_BC
+$EAWSE_DED_BC_T$
+  Black Crusade
+  Not such a fairy tale
+  They are coming\nThey are coming\nThey are coming\nThey are coming
+$EAWSE_DED_BC_T$
+  Темный поход нежити
+  Не такая уж и сказка
+  Они идут\nОни идут\nОни идут\nОни идут
+
+!EAWSE_GRIFFONIA_HLR
+  HLR
+  HLR
+
+125 EAWSE_LIGHT_CRUSADE
+$EAWSE_LIGHT_CRUSADE_T$
+  Holy Crusade
+  It's time to end this threat
+  From the confines of Dread Peninsula a horrible tale has gone forth that the undead are once again raising their heads. On whom therefore is the labor of elimination these monsters if not upon you? You, upon whom Gods have conferred remarkable glory in arms, great courage and strength to crush the heads of those who resist you.\n -A proclamation to the knights of the Arcturian Order
+$EAWSE_LIGHT_CRUSADE_T$
+  Священный поход против нежити
+  Пора уже покончить с этой угрозой
+  От пределов полуострова Ужаса пришло к нам важное известие, что нежить снова поднимает головы. Кому выпадает труд уничтожить этих монстров, кому как не вам? Вы те, кого Боги превознесли силою оружия, величием духа, и доблестью сокрушать головы врагов своих, вам противодействующих.\n -Воззвание к рыцарям Арктурианского Ордена
+
+55 EAWSE_DED_DEFEATED
+$EAWSE_DED_DEFEATED_T$
+  Holy Victory
+  In saecula saeculorum
+  For centuries, our order has held back hordes of monsters, preventing them from destroying civilization. For centuries, we have done our duty valiantly. And finally, the day has come when I can announce - our task is complete! There are no more undead armies, it's time for them to rest forever.\n -Grand Master of the Arcturian Order
+$EAWSE_DED_DEFEATED_T$
+  Священная победа
+  In saecula saeculorum
+  Веками наш орден сдерживал орды чудовищ, не давая тем уничтожить цивилизацию. Веками мы доблестно выполняли свой долг. И наконец настал день, когда я могу объявить всему миру - наша задача завершена! Нет более армий нежити, настало время упокоиться им навсегда.\n -Магистр Арктурианского ордена
+
+!EAWSE_GRIFFONIA_AET
+  AET
+  AET
+
+127 EAWSE_IMPERIUM_OF_MAAR
+$EAWSE_IMPERIUM_OF_MAAR_T$
+  Imperium of Maar
+  Heresy
+  Blood to Maar! Souls to Maar! Life to Maar!\n -Archon Erebus I
+$EAWSE_IMPERIUM_OF_MAAR_T$
+  Империя Маара
+  Ересь
+  Кровь Маару! Души Маару! Жизни Маару!\n -Архонт Эребус I
+
+128 EAWSE_GRIFFONIAN_ANARCHY
+$EAWSE_GRIFFONIAN_ANARCHY_T$
+  Griffonian Free Territory
+  Liberty or Death!
+  Power breeds parasites - long live anarchy!\n -Nestor Bernier
+$EAWSE_GRIFFONIAN_ANARCHY_T$
+  Вольная территория
+  Свобода или смерть!
+  Власть рождает паразитов — да здравствует анархия!\n -Нестор Бернье
+
+176 EAWSE_TRIMMEL_ON_GRIFFONIAN_THRONE
+$EAWSE_TRIMMEL_ON_GRIFFONIAN_THRONE_T$
+  March of Greifwald
+  Changeling on the Griffonian Throne?
+  The Changeling soldier has astonished the world; the Griffonian Knight has astonished the Changeling soldier.\n -Trimmel
+$EAWSE_TRIMMEL_ON_GRIFFONIAN_THRONE_T$
+  Марш Грифенвальда
+  Чейнджлинг на грифоньем троне?
+  Чейнджлингский солдат изумил весь мир, а грифоний рыцарь изумил чейнджлингского солдата.\n -Триммель
+
+!EAWSE_GRIFFONIA_SRS
+  SRS
+  SRS
+
+37 EAWSE_PAN_GRIFFONIA
+$EAWSE_PAN_GRIFFONIA_T$
+  Pan-Griffonian Socialist Commonwealth
+  Forward to Communism!
+  Socialism in life demands a complete spiritual transformation in the masses degraded by centuries of bourgeois rule.\n -Victor Allard
+$EAWSE_PAN_GRIFFONIA_T$
+  Пан-Грифонье Содружество
+  Вперёд, к коммунизму!
+  Социализм в жизни требует полного духовного преобразования масс, деградировавших за столетия буржуазного правления.\n -Виктор Аллард
+
+!EAWSE_GRIFFONIA_FAL
+  FAL
+  FAL
+
+152 EAWSE_FALCOR_REVENGE
+$EAWSE_FALCOR_REVENGE_T$
+  Falcorian Vendetta
+  Karthin delenda est
+  No mercy was shown to us in Falcor.\nNo mercy will be shown here.\nLet Karthin serve as an example.\nLet Karthin burn.\n -Gabriele d'Artigilio
+$EAWSE_FALCOR_REVENGE_T$
+  Фалькорская Вендетта
+  Карфин должен быть разрушен
+  Никакой пощады не было моим товарищам в Фалькоре.\nНикакой пощады не будет и здесь.\nПусть Карфин послужит примером.\nПусть он сгорит.\n -Габриэль д'Артильо
+
+!EAWSE_GRIFFONIA_GRY
+  GRY
+  GRY
+
+153 EAWSE_GREAT_ZAPHIA
+$EAWSE_GREAT_ZAPHIA_T$
+  Great Zaphia
+  Glory to the Cossacks!
+  Where the Cossack is, there is glory.\n -Yeven Krawvelets
+$EAWSE_GREAT_ZAPHIA_T$
+  Великая Зафия
+  Слава козацькому роду!
+  Де козак, там i слава.\n -Евген Кравелець
+
+!EAWSE_GRIFFONIA_MIT
+  MIT
+  MIT
+
+154 EAWSE_MEGALI
+$EAWSE_MEGALI_T$
+  Realization of the Megali Idea
+  Minotaurs are still strong
+  Asterion expects you not merely to die for him, for that is little, indeed; he expects you to conquer. That is why each one of you, even in dying, should be possessed by one thought alone - how to conserve your strength to the last so that those who survive may conquer. And you will conquer, I am more than sure of this.\n -Andris Dóry
+$EAWSE_MEGALI_T$
+  Реализация Великой Идеи
+  Минотавры все еще сильны
+  Астерион ожидает от вас не готовности умереть за него, ибо этого недостаточно; он ожидает от вас победы. Вот почему каждый из вас, даже умирая, должен быть одержим только одной мыслью - как бороться до последнего, чтобы выжившие смогли победить. И вы победите, я более чем уверен в вас.\n -Андрис Дори

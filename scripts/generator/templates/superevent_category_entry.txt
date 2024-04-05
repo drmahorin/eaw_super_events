@@ -1,0 +1,13 @@
+	containerWindowType = {{
+		name = "eawse_category_{cat_i}_entry"
+		size = {{ width = 162 height = 130 }}
+		position = {{ x = 3 y = {y} }}
+		
+		buttonType = {{
+			name = "select"
+			position = {{ x = 0 y = 0 }}
+			spriteType = "GFX_eawse_category_{cat}"
+			clicksound = decisions_ui_button
+			pdx_tooltip = "EAWSE_{cat_cap}_TITLE"
+		}}
+	}}

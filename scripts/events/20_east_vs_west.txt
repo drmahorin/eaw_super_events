@@ -1,0 +1,107 @@
+!!EAWSE_EAST_VS_WEST_TITLE
+  East vs West
+  Запад против Востока
+
+!EAWSE_EVW_SUB_TITLE
+  EvW
+  ВпЗ
+
+45 EAWSE_WAR_TWO_CONT_EQS_VS_GRI
+$EAWSE_WAR_TWO_CONT_EQS_VS_GRI_T$ £GFX_flag_eqs_texticon £GFX_flag_gri_texticon
+  East vs West
+  Blood, toil, tears, and sweat.
+  In the war between the West and the East, the South wins.\n -Griffons proverb
+$EAWSE_WAR_TWO_CONT_EQS_VS_GRI_T$ £GFX_flag_eqs_texticon £GFX_flag_gri_texticon
+  Восток против Запада
+  Кровь, пот и слёзы
+  В войне между Западом и Востоком побеждает Юг.\n -Грифонья поговорка
+
+46 EAWSE_WAR_TWO_CONT_CHN_VS_GRI
+$EAWSE_WAR_TWO_CONT_CHN_VS_GRI_T$ £GFX_flag_chn_texticon £GFX_flag_gri_texticon
+  East vs West
+  Panzer - Marsch!
+  Over and over again the same story was repeated with grandiose plans and insignificant achievements, because there was not enough wisdom and humility to put great plans into practice, because pride ruled, and because in the end war broke out, putting an end to all noble endeavors.\n -Generalfeldmarschall Erich Ebonwing
+$EAWSE_WAR_TWO_CONT_CHN_VS_GRI_T$ £GFX_flag_chn_texticon £GFX_flag_gri_texticon
+  Восток против Запада
+  Танки - вперед!
+  Вновь и вновь повторялась все та же история с грандиозными планами и ничтожными достижениями, потому что для претворения великих планов в жизнь не хватало мудрости и смирения, потому что правила гордыня и потому что в конце концов разразилась война, положив конец всем благородным начинаниям.\n -Фельдмаршал Эрих Эбенвинг
+
+47 EAWSE_WAR_TWO_CONT_STG_VS_GRI
+$EAWSE_WAR_TWO_CONT_STG_VS_GRI_T$ £GFX_flag_stg_texticon £GFX_flag_gri_texticon
+  East vs West
+  Last step to the revolution
+  Worker, don't you hear it?\nCoal and steel producers are whispering!\nChemical warfare production whispers too!\nThe whisper comes from all continents!\n«Mobilization against Stalliongrad!»\n -Stalliongrad song
+$EAWSE_WAR_TWO_CONT_STG_VS_GRI_T$ £GFX_flag_stg_texticon £GFX_flag_gri_texticon
+  Восток против Запада
+  Последний шаг к мировой революции
+  Рабочий, ты это не слышишь?\nЗовет тебя в бой оружейный магнат,\nОн прибыли новой будет так рад!\nВесь мир призывает магнат на войну,\nСтремясь уничтожить Советов Страну!\n -Сталлиоградская песня
+
+49 EAWSE_WAR_TWO_CONT_SOL_VS_GRI
+$EAWSE_WAR_TWO_CONT_SOL_VS_GRI_T$ £GFX_flag_sol_texticon £GFX_flag_gri_texticon
+  East vs West
+  Woe to those who have angered the Sun
+  The threat of griffons has been hanging over our kind for centuries. For many years they have been killing ponies in the East and it is obvious that one day they will come into our house. I'd rather turn the whole Griffonia to ashes than let even one enemy soldier set foot on the Equus shore.\n -Empress Daybreaker
+$EAWSE_WAR_TWO_CONT_SOL_VS_GRI_T$ £GFX_flag_sol_texticon £GFX_flag_gri_texticon
+  Восток против Запада
+  Горе тем, кто прогневал само Солнце
+  Угроза грифонов веками нависала над нашим видом. Веками они убивали пони на Востоке и очевидно, что рано или поздно они сунутся и в наш дом. Я лучше превращу всю Грифонию в пепел, чем позволю даже одному вражескому солдату ступить на берег Эквуса.\n -Императрица Дэйбрейкер
+
+50 EAWSE_WAR_TWO_CONT_NLR_VS_GRI
+$EAWSE_WAR_TWO_CONT_NLR_VS_GRI_T$ £GFX_flag_nlr_texticon £GFX_flag_gri_texticon
+  East vs West
+  Just like in the bad old days
+  Griffons have always considered that ponies are weak. But the truth is that they are nothing more than aggressive and barbaric predators. Why should we waste more time on pointless arguments if we can destroy this threat once and for all? Let the legions plant the banners of the Empire over their cities!\n -Empress Nightmare Moon
+$EAWSE_WAR_TWO_CONT_NLR_VS_GRI_T$ £GFX_flag_nlr_texticon £GFX_flag_gri_texticon
+  Восток против Запада
+  Как в старые недобрые времена
+  Грифоны всегда считали пони слабыми. Но правда в том, что они не более, чем хищные и агрессивные варвары. Зачем более тратить время на быссмысленные споры, если можно избавиться от этой угрозы раз и навсегда? Пусть легионы водрузят знамёна Империи над их городами!\n -Императрица Найтмер Мун
+
+177 EAWSE_WAR_TWO_CONT_MARESOC_VS_EQUUS
+$EAWSE_WAR_TWO_CONT_MARESOC_VS_EQUUS_T$ £GFX_flag_eqs_texticon £GFX_flag_MARESOC_texticon
+  East vs West
+  Nowhere to run
+  The old civilizations claimed that they were founded on love or justice. Ours is founded upon hatred. In our world there will be no emotions except fear, rage, triumph, and self-abasement. Everything else we shall destroy – everything.\n -Inner Party Member
+$EAWSE_WAR_TWO_CONT_MARESOC_VS_EQUUS_T$ £GFX_flag_eqs_texticon £GFX_flag_MARESOC_texticon
+  Восток против Запада
+  Бежать некуда
+  Прежние цивилизации утверждали, что они основаны на любви и справедливости. Наша основана на ненависти. В нашем мире не будет иных чувств, кроме страха, гнева, торжества и самоуничтожения. Все остальные мы истребим — все.\n -Член внутренней партии
+
+178 EAWSE_WAR_TWO_CONT_VIIRA_VS_EQUUS
+$EAWSE_WAR_TWO_CONT_VIIRA_VS_EQUUS_T$ £GFX_flag_eqs_texticon £GFX_flag_viira_texticon
+  East vs West
+  The End is Nigh
+  Do you feel it? It is your fear and despair in the air.\nDo you hear how the bell tolls for ye?\n -Viira
+$EAWSE_WAR_TWO_CONT_VIIRA_VS_EQUUS_T$ £GFX_flag_eqs_texticon £GFX_flag_viira_texticon
+  Восток против Запада
+  Конец близок
+  Чувствуете это? Отчаяние, безысходность, страх...\nСлышите, как по вам звонит колокол?\n -Виира
+
+179 EAWSE_WAR_TWO_CONT_JUCHE_VS_EQUUS
+$EAWSE_WAR_TWO_CONT_JUCHE_VS_EQUUS_T$ £GFX_flag_eqs_texticon £GFX_flag_juche_texticon
+  East vs West
+  The World will be Red or Dead
+  Calling socialism, under which the popular masses are the masters of everything, "totalitarianism" is, ultimately, a preposterous lie which identifies the most progressive idea that reflects the demands of the popular masses with the reactionary idea of fascist rulers.\n -Kimball Barking-Sun
+$EAWSE_WAR_TWO_CONT_JUCHE_VS_EQUUS_T$ £GFX_flag_eqs_texticon £GFX_flag_juche_texticon
+  Восток против Запада
+  Мы загоним мир в светлое будущее
+  Называть социализм, при котором народные массы являются хозяевами всего, "тоталитаризмом" - это, в конечном счете, нелепая ложь, отождествляющая наиболее прогрессивную идею всего народа с реакционной идеей фашистских правителей.\n -Кимбалл Баркин-Сан
+
+180 EAWSE_WAR_TWO_CONT_HLQ_VS_EQS
+$EAWSE_WAR_TWO_CONT_HLQ_VS_EQS_T$ £GFX_flag_eqs_texticon £GFX_flag_hlq_texticon
+  East vs West
+  Good Luck!
+  You are about to embark upon the Great Crusade. Your task will not be an easy one. Your enemy is well trained, well equipped and battle hardened. He will fight savagely. But the tide has turned! The free ponies of the world are marching together to Victory!\n -Princess Celestia
+$EAWSE_WAR_TWO_CONT_HLQ_VS_EQS_T$ £GFX_flag_eqs_texticon £GFX_flag_hlq_texticon
+  Восток против Запада
+  Удачи!
+  Вам предстоит отправиться в Великий Крестовый Поход, к которому мы готовились все эти месяцы. Надежды и молитвы пони со всего мира устремлены на вас. Вместе с нашими союзниками, вы уничтожите Империю Грифонов и ликвидируете реформистскую тиранию над угнетенными народами Грифонии.\n -Принцесса Селестия
+
+182 EAWSE_WAR_TWO_CONT_RIV_VS_CHN
+$EAWSE_WAR_TWO_CONT_RIV_VS_CHN_T$ £GFX_flag_chn_texticon £GFX_flag_riv_texticon
+  East vs West
+  Ponies helping ponies
+  We all have one thing in common: we intend to defend our land from tyranny and aggression and, as far as we can, we intend to lend a helping hoof to others who may be in more immediate danger than we are at the moment.\n -Article in the RECHNOZEMYE newspaper
+$EAWSE_WAR_TWO_CONT_RIV_VS_CHN_T$ £GFX_flag_chn_texticon £GFX_flag_riv_texticon
+  Восток против Запада
+  Пони помогают пони
+  У нас у всех есть нечто общее: мы будем защищать наши земли от тирании и агрессии, а также, по мере наших возможностей, мы всегда протянем копыто помощи тем, кто в большей опасности, чем мы сами.\n -Статья в газете РЕЧНОЗЕМЬЕ

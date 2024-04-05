@@ -1,0 +1,587 @@
+!!EAWSE_HERZLAND_TITLE
+  Herzland
+  Герцланд
+
+!EAWSE_HERZLAND_GRI
+  GRI
+  GRI
+
+11 EAWSE_GROVER_V
+$EAWSE_GROVER_V_T$
+  Death of Grover V
+  The empire hangs in the balance
+  The death of His Majesty is a formidable stone that fell from the top of the mountain, which rushes here to crush this colossus on feet of clay.\n -Imperial noblegriff about Griffonian Empire
+$EAWSE_GROVER_V_T$
+  Смерть Гровера V
+  Судьба Империи висит на волоске
+  Смерть Его Величества - то грозный камень, сорвавшийся с вершины горы, который несётся сюда, чтобы сокрушить этот колосс на глиняных ногах.\n -Имперский дворянин об Империи Грифонов
+
+19 EAWSE_GROVER_VI_CORONATION
+$EAWSE_GROVER_VI_CORONATION_T$
+  Coronation of Grover VI
+  Heil Kaiser, dir!
+  I am aware of my duty to preserve the peace and protect the independence of the Empire, based on the United strength of its folk. I accept the crown in the hope that the griffons will be able to enjoy the reward of their fervent and selfless struggle for lasting peace within the borders of the Fatherland.\n -From Grover VI's coronation speech
+$EAWSE_GROVER_VI_CORONATION_T$
+  Коронация Гровера VI
+  Heil Kaiser, dir!
+  Я осознаю свою обязанность сохранять мир и защищать независимость Империи, основанной на объединенной силе её народа. Я принимаю корону, в надежде, что грифоны смогут насладиться наградой за свою горячую и самоотверженную борьбу за прочный мир в пределах границ отечества.\n -Из коронационной речи Гровера VI
+
+20 EAWSE_GROVER_II_RESURRECTION
+$EAWSE_GROVER_II_RESURRECTION_T$
+  Return of Grover II
+  Für Gott und Kaiser!
+  When a monarch is said to be kind, it means that he is no good.\n -Emperor Grover II
+$EAWSE_GROVER_II_RESURRECTION_T$
+  Возвращение Гровера II
+  Für Gott und Kaiser!
+  Когда о монархе говорят, что он добр, значит, он ни к черту не годится.\n -Император Гровер II
+
+12 EAWSE_LORD_PROTECTOR_START
+Lord Protector £ideology_supremacy_texticon
+  Lord Protector Seizes Power
+  Strike at the heart of the empire
+  Today you will all make your final sacrifice for the Fatherland. Today the Empire will rise again from the ashes of the Old Order. Today I will shake off the parasites and reclaim our long lost Glory and Pride!\n -Ferdinand's appeal to the imperial court
+Лорд Протектор £ideology_supremacy_texticon
+  Лорд-протектор захватывает власть
+  Удар в самое сердце империи
+  Сегодня вы все принесете свою последнюю жертву ради отечества. Сегодня империя воскреснет из праха старого порядка. Сегодня я избавлюсь от паразитов и верну наши давно утраченные Славу и Гордость!\n -Обращение Фердинанда к имперскому двору
+
+199 EAWSE_GRIFF_EMPIRE_FINAL
+$EAWSE_GRIFF_EMPIRE_FINAL_T$
+  Guards of the Empire
+  Lieb Vaterland, magst ruhig sein
+  As long as a drop of blood still glows,\nA fist still draws the sword,\nAnd one claw still holds the rifle,\nNo enemy will here step on our shore!\n\n -Imperial patriotic anthem
+$EAWSE_GRIFF_EMPIRE_FINAL_T$
+  На страже Империи
+  Спокойно спи, любимый край...
+  Пока крови бурлит поток,\nПока в когтях стальной клинок,\nВинтовку снова зарядить -\nВрагу на берег не ступить!\n\n -Имперская патриотическая песня
+
+!EAWSE_ANG_TITLE
+  ANG
+  ANG
+
+77 EAWSE_HERZLAND_ANG_LEER
+Baron Leer £ideology_supremacy_texticon
+  Herzland Unification
+  Leer's hunger for power is growing
+  The empire was reborn. A new, better Empire that is based on three pillars - an unconditional commitment to the Emperor, ruthlessness to enemies, and fanatical struggle against any dissent.\n -Emperor Leer
+Барон Леер £ideology_supremacy_texticon
+  Объединение Герцланда
+  Жажда власти Леера лишь растет
+  Империя возродилась. Новая, лучшая Империя, что зиждется на трех столпах - безоговорочная верность Императору, беспощадность к врагам и фанатичная борьба с любым инакомыслием.\n -Император Леер
+
+78 EAWSE_HERZLAND_ANG_KINGDOM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Othmar Stoiber £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  To a bright future
+  The mad dream of a single country for all griffins is nothing more than the idea of revanchists fanatics. Times are changing and such states are no longer viable; their fate is to fall, as the Empire fell. My dream is to ensure peace and stability in Herzland, and not to send another generation to the slaughter.\n -Großmarschall Othmar
+$EAWSE_HERZLAND_ANG_LEER_T$ - Отмар Штойбер £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  В светлое будущее
+  Безумная мечта о едином государстве для всех грифонов - не более, чем идея фанатиков-реваншистов. Времена меняются и подобные государства уже нежизнеспособны; их судьба - пасть, как пала Империя. Моя мечта - обеспечить мир и стабильность в Герцланде, а не отправить еще одно поколение на убой.\n -Маршал Отмар
+
+79 EAWSE_HERZLAND_ANG_ANARCHY
+$EAWSE_HERZLAND_ANG_LEER_T$ - Willie Scherler £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Freedom - supreme value
+  Against the State, oppression, and capitalism!\n -Willie Scherler
+$EAWSE_HERZLAND_ANG_LEER_T$ - Вилли Шерлер £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Свобода - высшая ценность
+  Против государства, угнетения и капитализма!\n -Вилли Шерлер
+
+80 EAWSE_HERZLAND_ANG_BLUHM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Gerhard Bluhm £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Goal - tricolor over the continent!
+  The long-awaited moment has finally come - the Empire has been destroyed, and the tricolor is flying on its ruins. But even though Herzland is free, many griffons suffer under the oppression of tyrants. We will enjoy the fruits of our victory only when the flag of the Republic will be flown from New Skynavia to Riaportu.\n -Gerhard Bluhm
+$EAWSE_HERZLAND_ANG_LEER_T$ - Герхард Блум £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Цель - триколор над континентом!
+  Долгожданный момент наконец наступил - Империя уничтожена, а на её руинах веет триколор. Но хоть Герцланд и свободен, еще многие грифоны страдают под гнётом тиранов. По настоящему вкусить плоды победы мы сможем лишь тогда, когда от Скайнавии до Риапорту будут веять флаги Республики.\n -Герхард Блум
+
+81 EAWSE_HERZLAND_ANG_ORDENSTAAT
+$EAWSE_HERZLAND_ANG_LEER_T$ - Black Claw £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Black Sun Rising
+  STRENG GEHEIM\n -STRENG GEHEIM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Чёрный Коготь £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Восход черного солнца
+  STRENG GEHEIM\n -STRENG GEHEIM
+
+82 EAWSE_HERZLAND_ANG_WESCHLER
+$EAWSE_HERZLAND_ANG_LEER_T$ - Otto Weschler £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The Republic boldly looks forward
+  years ago, and I am proud that I contributed to its success. But our young republic needs new, young leaders who will take Herzland to a completely new level.\n -Otto Weschler
+$EAWSE_HERZLAND_ANG_LEER_T$ - Отто Вешлер £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Республика смело смотрит вперед
+  лет назад и я горд, что внес свой вклад в её успех. Но нашей молодой республике нужны новые, молодые лидеры, которые выведут страну на совершенно новый уровень.\n -Отто Вешлер
+
+!EAWSE_PYT_TITLE
+  PYT
+  PYT
+
+83 EAWSE_HERZLAND_PYT_HARMONY_EQS
+$EAWSE_HERZLAND_ANG_LEER_T$ - Dawnfeather - Equestria £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Friendship is Magic!
+  Dear Princess Twilight,\nIt is my sincere pleasure to inform you that the war that devoured my long-suffering homeland is over. I am ready to take responsibility and lead the griffons into a bright future, the main principles of which will be the ideas of friendship and harmony.\n -Your faithful student, Archibald Dawnfeather
+$EAWSE_HERZLAND_ANG_LEER_T$ - Донфезер - Эквестрия £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Дружба это магия!
+  Дорогая принцесса Твайлайт,\nС искренней радостью сообщаю вам о том, что война, пожиравшая мою многострадальную родину, завершена. Я готов взять на себя ответственность и повести грифонов в светлое будущее, основными принципами которого станут идеи дружбы и гармонии.\n -Ваш верный ученик, Арчибальд Донфезер
+
+84 EAWSE_HERZLAND_PYT_HARMONY_REPUBLIC
+$EAWSE_HERZLAND_ANG_LEER_T$ - Dawnfeather - Republic £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Harmony, Faith, Peace
+  Just as ponies are loyal to their princesses, so we are loyal to our gods. Just as Equestria lives for centuries without war, so we are dream of the same. With the final demise of the cursed Empire and reunification of our homeland, an era of peace and prosperity is finally dawning for us.\n -Archibald Dawnfeather
+$EAWSE_HERZLAND_ANG_LEER_T$ - Донфезер - Республика £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Гармония, Вера, Мир
+  Как пони верны своим принцессам, так и мы верны своим богам. Как Эквестрия проживает целые века без войн, так и мы мечтаем о том же. С окончательной гибелью проклятой Империи и последующим воссоединением нашей родины, для нас наконец наступает эпоха мира и процветания.\n -Арчибальд Донфезер
+
+85 EAWSE_HERZLAND_PYT_COM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Wingbert Rohmer £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The Red Empire is coming
+  True freedom exists only where exploitation is eliminated, where there is no oppression of some beings by others, where there is no unemployment and beggary, where no one trembles for the fact that tomorrow he may lose his job, his home, his bread. Today we have liberated Herzland, tomorrow we will liberate all of Griffonia.\n -Wingbert Rohmer
+$EAWSE_HERZLAND_ANG_LEER_T$ - Вингберт Ромер £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Красная Империя наступает
+  Настоящая свобода имеется только там, где уничтожена эксплуатация, где нет угнетения одних существ другими, где нет безработицы и нищенства, где никто не дрожит за то, что завтра может потерять работу, жилище, хлеб. Сегодня мы освободили Герцланд, завтра - всю Грифонию.\n -Вингберт Ромер
+
+86 EAWSE_HERZLAND_PYT_DIETRICH
+$EAWSE_HERZLAND_ANG_LEER_T$ - Dietrich Mach £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Herzland über alles
+  The Herzlanders are the best of the griffons and rightfully stand above all others. It was Herzland that was the cultural center of the former Empire - not Wingbardia, not Aquileia. We cannot allow anyone to pollute our precious culture! Not to other griffons, not to other species!\n -Dietrich Mach
+$EAWSE_HERZLAND_ANG_LEER_T$ - Дитрих Мах £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Герцланд превыше всего
+  Герцландцы - лучшие из грифонов и по праву стоят выше всех остальных. Именно Герцланд был культурным центром Империи - не Вингбардия, не Аквелия. Мы не можем позволить кому-либо загрязнать нашу бесценную культуру! Ни другим грифонам, ни другим народам!\n -Дитрих Мах
+
+87 EAWSE_HERZLAND_PYT_TRUTHAHN
+$EAWSE_HERZLAND_ANG_LEER_T$ - Wilke Truthahn £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  This is what the Gods want
+  The Gods favor us! In the name of Boreas, Eyre, and Arcturius, we will embark on a holy campaign against traitors and infidels - communists, republicans, archons, atheists, maarites, and other scoundrels! Do not spare these vermins, for your deeds are pleasing to the Gods!\n -Wilke Truthahn
+$EAWSE_HERZLAND_ANG_LEER_T$ - Вильке Трутан £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Этого хотят Боги!
+  Боги благоволят нам! Во имя Борея, Эйр и Арктурия мы выступим в священный поход против предателей и неверных - коммунистов, республиканцев, архонтов, атеистов, мааритов и прочих негодяев! Не щадите эту падаль, ибо ваши деяния угодны Богам!\n -Вильке Трутан
+
+88 EAWSE_HERZLAND_PYT_EREBUS
+$EAWSE_HERZLAND_ANG_LEER_T$ - Emperor Erebus I £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Like a phoenix from the ashes
+  The Empire is the greatest achievement of the griffons, and its decline is the greatest disaster and disgrace. But we have never run from difficulties, and if we have the opportunity to restore griffons unity and greatness, then it is our duty to do so. For the Empire, for griffons, for unity!\n -Emperor Erebus I
+$EAWSE_HERZLAND_ANG_LEER_T$ - Император Эребус I £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Словно феникс из пепла
+  Империя - величайшее достижение грифонов, её упадок - величайшая катастрофа и позор. Но мы никогда не бежали от трудностей, и если у нас есть возможность вернуть нашему виду его единство и величие, то наш долг - сделать это. За Империю, за грифонов, за единство!\n -Император Эребус I
+
+89 EAWSE_HERZLAND_PYT_REPUBLIC
+$EAWSE_HERZLAND_ANG_LEER_T$ - Erebus Whiteplume £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Grover I is turning in his grave
+  The fact that our little Greifenmarschen managed to destroy the Empire was a clear sign that the time of the tyrannical monarchies receding into the past. The griffons do not need conquests on the other side of the continent or imperial glory, they need food on the table and the opportunity to decide their fate.\n -Erebus Whiteplume
+$EAWSE_HERZLAND_ANG_LEER_T$ - Эребус Уайтплюм £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Гровер I в гробу перевернулся
+  Тот факт, что наш маленький Грифенмаршен сумел уничтожить Империю ясно говорит о том, что время тиранических монархий окончательно уходит в прошлое. Народу не нужны завоевания на другом конце континента или имперская слава, ему нужна еда на столе и возможность решать свою судьбу.\n -Эребус Уайтплюм
+
+!EAWSE_YAL_TITLE
+  YAL
+  YAL
+
+90 EAWSE_HERZLAND_YAL_ARCHONT
+$EAWSE_HERZLAND_ANG_LEER_T$ - Proteus III £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  At the will of the Gods!
+  Let the deeds of your ancestors move you and incite your minds to manly achievements; the glory and greatness of Grover I, and of his son Grover II, who have extended in these lands the territory of the holy church. Oh, most valiant soldiers and descendants of invincible ancestors, be not degenerate, but recall the valor of your ancestors.\n -Proteus III
+$EAWSE_HERZLAND_ANG_LEER_T$ - Протей III £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Этого хотят Боги!
+  Поднимайтесь и помните деяния ваших предков, доблесть и славу Гровера I, и сына его Гровера II, и других государей ваших, которые разрушили царства язычников и раздвинули там пределы святой церкви. О могущественнейшие рыцари! Припомните отвагу своих праотцев. Не посрамите их!\n -Протей III
+
+91 EAWSE_HERZLAND_YAL_GROVER_II
+$EAWSE_HERZLAND_ANG_LEER_T$ - Grover II £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  There's life in the old griffon yet
+  The Empire has not, and cannot have any other allies except its army and navy.\n -Emperor Grover II
+$EAWSE_HERZLAND_ANG_LEER_T$ - Гровер II £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Есть еще порох в пороховницах
+  У Империи нет, и не может быть иных союзников, кроме её армии и флота.\n -Император Гровер II
+
+92 EAWSE_HERZLAND_YAL_BOREAS
+$EAWSE_HERZLAND_ANG_LEER_T$ - Herald of Boreas £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Amen
+  Veni, creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti, pectora.
+$EAWSE_HERZLAND_ANG_LEER_T$ - Плоть Борея £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Аминь
+  Veni, creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti, pectora.
+
+93 EAWSE_HERZLAND_YAL_NEW_SPARK
+$EAWSE_HERZLAND_ANG_LEER_T$ - Republic £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The rise of the Federation
+  As much as some may criticize democracy, this is the best thing the world can offer us at the moment unless, of course, your goal is to slide into the abyss of tyranny or anarchy.\n -Georgina Fredrika Schüler
+$EAWSE_HERZLAND_ANG_LEER_T$ - Республика £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Расцвет Федерации
+  Как бы некоторые не критиковали демократию, но это лучшее из того, что на данный момент мир может нам предложить, если конечно вы не ставите целью скатывание в пучину тирании или анархии.\n -Джорджина Фредерика Шулер
+
+94 EAWSE_HERZLAND_YAL_TECHNOCRACY
+$EAWSE_HERZLAND_ANG_LEER_T$ - Technocracy £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Science at the forefront
+  As the industrial society develops, the technostructure plays an increasingly important role both in the economy and in the management of society as a whole. Therefore, political power should be concentrated in the hands of technical specialists who manage society based on scientific and technical knowledge.\n -Magnificus Mikusian
+$EAWSE_HERZLAND_ANG_LEER_T$ - Технократия £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Наука во главе угла
+  По мере развития индустриального общества техноструктура играет все более важную роль как в экономике, так и в управлении общества в целом. Поэтому политическая власть должна быть сосредоточена в руках технических специалистов, управляющих обществом на базе научно-технических знаний.\n -Магнификус Микусян
+
+95 EAWSE_HERZLAND_YAL_COM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Erich Mühschnabel £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Mother Anarchy Loves Her Sons
+  Anarchism stands for the liberation of the mind from the dominion of religion and liberation of the body from the coercion of property; liberation from the shackles and restraint of government. It stands for a social order based on the free grouping of individuals.\n -Erich Mühschnabel
+$EAWSE_HERZLAND_ANG_LEER_T$ - Эрих Мюхшнабель £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Анархия-мама сынов своих любит
+  Анархизм, означает освобождение разума от власти религии, освобождение тела от власти вещей, освобождение от запретов и кандалов правительства, он означает социальный порядок основанный на собрании.\n -Эрих Мюхшнабель
+
+!EAWSE_KAT_TITLE
+  KAT
+  KAT
+
+96 EAWSE_HERZLAND_KAT_COM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Heinrich Duskfeather £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Socialism, Faith, Empire
+  There is only one important difference between capitalism and socialism: capitalism is the way of the Maar and his servants - the exploiters of the nobles, the rich, and the false archons, while socialism is the way of the Gods, who look with sincere love at all the griffons.\n -Heinrich Duskfeather
+$EAWSE_HERZLAND_ANG_LEER_T$ - Генрих Даскфезер £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Социализм, Вера, Империя
+  Между капитализмом и социализмом важно лишь одно отличие: капитализм - путь Маара и его прислужников-эксплуататоров дворян, богачей и лжеархонтов, социализм же - путь Богов, что с искренней любовью взирают на всех грифонов.\n -Генрих Даскфезер
+
+97 EAWSE_HERZLAND_KAT_KATERINTREUE
+$EAWSE_HERZLAND_ANG_LEER_T$ - Katerintreue £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Order at the forefront
+  Power in the claws of the best is the natural order of things, established since ancient times. To entrust the simpletons with the right to choose is actually to descend to their level. In any case, they simply will not understand how to use power.\n -Member of the Council
+$EAWSE_HERZLAND_ANG_LEER_T$ - Катеринтройе £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Порядок во главе угла
+  Власть в руках лучших - это естественный порядок вещей, заведенный с древних времен. Доверить простакам право выбора - фактически опуститься до их уровня. В любом случае, они просто не поймут, как использовать власть.\n-Член Катеринтройе
+
+98 EAWSE_HERZLAND_KAT_REPUBLIC
+$EAWSE_HERZLAND_ANG_LEER_T$ - Hector Ardennson £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  For a better world
+  I am proud to live in the same country as those who did not grovel at the decadent Empire, the nobility, and the archons. And though many sons and daughters of our Vaterland will never open their eyes again, their sacrifice was not in vain. Herzland has thrown off his shackles and will never allow them to be put on again.\n -Hector Ardennson
+$EAWSE_HERZLAND_ANG_LEER_T$ - Гектор Арденнсон £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Ради лучшего мира
+  Я горжусь тем, что живу в одной стране с теми, кто не раболепствовал перед Империей, дворянством и архонтами. И хоть немало сыновей и дочерей нашей родины никогда более не откроют глаза, но их жертва была не напрасной. Герцланд скинул оковы и никогда более не позволит надеть их вновь.\n -Гектор Арденнсон
+
+99 EAWSE_HERZLAND_KAT_NEUTRAL
+$EAWSE_HERZLAND_ANG_LEER_T$ - Erik Grimclaw £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Heil Herzland dir!
+  For centuries, our nation has been in the shadow of the Empire, dying for the Empire, suffering for the Empire. But in this bright hour, I can say with full confidence that this era is over. With sincere pride, we can declare to the whole world - we are not some shard of an Empire! We are no worse than Aquileians or Wingbardians. We are Herzlanders!\n -Erik Grimclaw
+$EAWSE_HERZLAND_ANG_LEER_T$ - Эрик Гримкло £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Слава Герцланду!
+  Веками наш народ находился в тени Империи, умирал за Империю, страдал за Империю. Но в этот светлый час, я могу сказать, что эта эпоха закончилась. С искренней гордостью мы можем заявить всему миру - мы не какой-то там осколок Империи! Мы ничем не хуже Аквелийцев или Вингбардийцев. Мы Герцландцы!\n -Эрик Гримкло
+
+!EAWSE_ROU_TITLE
+  ROU
+  ROU
+
+100 EAWSE_HERZLAND_ROU_COM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Roland Ehrhardt £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Socialism stride across the world
+  The unity of this truly revolutionary struggle of the oppressed class for the creation of a paradise on earth is more important to us than the unity of the opinions of the proletarians about a paradise in heaven.\n -Roland Ehrhardt
+$EAWSE_HERZLAND_ANG_LEER_T$ - Ролан Эрхардт £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Социализм шагает по планете
+  Единство этой действительно революционной борьбы угнетённого класса за создание рая на земле важнее для нас, чем единство мнений пролетариев о рае на небе.\n -Ролан Эрхардт
+
+101 EAWSE_HERZLAND_ROU_HARMONY
+$EAWSE_HERZLAND_ANG_LEER_T$ - Gabriella di Karthin £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The idea is not so easy to kill
+  Let the spark go out there, but the flame will flare up here! We will take up the banner of freedom and become a new beacon of hope for all the oppressed griffons! The dream of Kemerskai is not dead!\n -Gabriella di Karthin
+$EAWSE_HERZLAND_ANG_LEER_T$ - Габриэлла д'Карфин £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Идею так просто не убить
+  Республика на севере мертва, но Идея жива! Пусть потухнет искра там, но пламя вспыхнет здесь! Мы подхватим знамя свободы и станем новым маяком надежды для всех угнетенных грифонов! Мечта Кемерская не мертва!\n -Габриэлла д'Карфин
+
+102 EAWSE_HERZLAND_ROU_NEUTRAL
+$EAWSE_HERZLAND_ANG_LEER_T$ - Jules Michel Ravioli £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Profit at the forefront
+  The Age of the Empire is the past. The Age of the Republic is the future. By placing power in the claws of the worthy citizens, we will undoubtedly prove our wisdom to the whole world. It is obvious that those who have made themselves rich can also make the country rich. Everyone will win.\n -Jules Michel Ravioli
+$EAWSE_HERZLAND_ANG_LEER_T$ - Жюль Мишель Равиоли £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Прибыль во главе угла
+  Эпоха Империи - прошлое. Эпоха республики - будущее. Вручив власть в когти достойных, мы несомненно докажем свою мудрость всему миру. Очевидно, что те кто сделали богатыми себя, понимают как сделать таковой и страну. Все останутся в выигрыше.\n -Жюль Мишель Равиоли
+
+103 EAWSE_HERZLAND_ROU_EYR
+$EAWSE_HERZLAND_ANG_LEER_T$ - Erion XII £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The archons will protect them
+  Eyr is crying when looking at us! Griffonia is plunged into madness, heretics and traitors are rising everywhere! Only by giving power to the archons chosen by the gods we will be able to create a state blessed by the gods themselves! This is the only way to escape the wrath of the gods!\n -Erion XII
+$EAWSE_HERZLAND_ANG_LEER_T$ - Эрион XII £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Архонты защитят их от гнева богов
+  Эйр плачет, глядя на нас! Грифония погрузилась в безумие, повсюду поднимаются еретики и предатели! Лишь отдав власть архонтам, мы сможем создать государство, благословенное самими богами! Только это убережет нас от гнева богов!\n -Эрион XII
+
+!EAWSE_FEA_TITLE
+  FEA
+  FEA
+
+104 EAWSE_HERZLAND_FEA_STAPPENBELD
+$EAWSE_HERZLAND_ANG_LEER_T$ - Bernhardt Stappenbeld £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Today the workers are not alone!
+  The capitalists will sell us the rope on which we will hang them.\n -Bernhardt Stappenbeld
+$EAWSE_HERZLAND_ANG_LEER_T$ - Бернард Штаппенбельд £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Отныне рабочие больше не одиноки!
+  Капиталисты сами продадут нам веревку, на которой мы их повесим.\n -Бернард Штаппенбельд
+
+105 EAWSE_HERZLAND_FEA_KOGCHEL
+$EAWSE_HERZLAND_ANG_LEER_T$ - Gerben Kogchel £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Confidence in a better future
+  We speak different languages, we belong to different species, but there is no difference in our blood - the blood and will of the proletariat.\n -Gerben Kogchel
+$EAWSE_HERZLAND_ANG_LEER_T$ - Гербен Когхель £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  С верой в лучшее будущее
+  Мы говорим на разных языках, мы относимся к разным видам, но нет никакой разницы в нашей крови — крови и воле пролетариата.\n -Гербен Когхель
+
+106 EAWSE_HERZLAND_FEA_ROZENKAMP
+$EAWSE_HERZLAND_ANG_LEER_T$ - Herman Rozenkamp £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Class and Race
+  From the Right we shall take nationalism, which has so disastrously allied itself with capitalism, and from the Left we shall take Socialism, which has made such an unhappy union with internationalism.\n -Herman Rozenkamp
+$EAWSE_HERZLAND_ANG_LEER_T$ - Герман Розенкамп £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Класс и Раса
+  Мы должны взять у правых национализм, который так катастрофически соединился с капитализмом, а у левых мы должны взять социализм, который так неудачно объединился с интернационализмом.\n -Герман Розенкамп
+
+107 EAWSE_HERZLAND_FEA_HEEREN
+$EAWSE_HERZLAND_ANG_LEER_T$ - Godfried Heeren £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  They were just following orders
+  There are no war criminals in my army - only war heroes.\n -Godfried Heeren
+$EAWSE_HERZLAND_ANG_LEER_T$ - Годфрид Херен £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Всего лишь выполняли приказы...
+  В моей армии нет военных преступников - только герои.\n -Годфрид Херен
+
+108 EAWSE_HERZLAND_FEA_MOLDERNIK
+$EAWSE_HERZLAND_ANG_LEER_T$ - Anton Moldernik £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  For Feathisia, For Empire!
+  FNV - not just a political party, but a real union of people united by a common goal, who are interested in maintaining order, the welfare of the country, and the development of our Fatherland in religious, cultural and economic aspects.\n -Anton Moldernik
+$EAWSE_HERZLAND_ANG_LEER_T$ - Антон Молдерник £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Ради Фетизии, ради Империи!
+  НАФ — не просто политическая партия, а настоящий союз объединенных общей целью лиц, заинтересованных в поддержании порядка, благоденствии страны, в развитии нашей родины в религиозном, культурном и экономическом аспектах.\n -Антон Молдерник
+
+109 EAWSE_HERZLAND_FEA_VORST
+$EAWSE_HERZLAND_ANG_LEER_T$ - Herman of Vorst tot Vorst £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Destroy Empire is not so easy
+  Our nationalism is not reborn; after all, it has never died. This is the immortal driving force of our great nation, which has always come to its aid in difficult times. It's time to go out into the world and reclaim our glory.\n -Herman of Vorst tot Vorst
+$EAWSE_HERZLAND_ANG_LEER_T$ - Герман Ворст тот Ворст £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Империю так легко не победить
+  Наш национализм не возрождается; в конце-концов он никогда и не умирал. Это бессмертная движущая сила нашей великой нации, что всегда приходила ей на помощь в трудные времена. Пора выйти в мир и вернуть нашу славу.\n -Герман Ворст тот Ворст
+
+110 EAWSE_HERZLAND_FEA_DUKE
+$EAWSE_HERZLAND_ANG_LEER_T$ - Gerlach I £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  So this is how liberty dies
+  The attempt on my life has left me scarred. But, I assure you, my resolve has never been stronger! In order to ensure the security and continuing stability, Feathisia and the whole Herzland will be reorganized into the New Griffonian Empire! For a safe and secure society.\n -Emperor Gerlach I
+$EAWSE_HERZLAND_ANG_LEER_T$ - Герлах I £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Вот так свобода и умирает
+  От покушения на мою жизнь у меня шрамы остались. Но я вас заверяю, моя решимость как никогда сильна и велика! В целях обеспечения безопасности и большей стабильности, Фетизии и весь Герцланд будут реорганизованы нами в Новую Империю Грифонов, во имя сохранности и во имя блага общества!\n -Император Герлах I
+
+111 EAWSE_HERZLAND_FEA_UNWILLING_DICTATOR
+$EAWSE_HERZLAND_ANG_LEER_T$ - Edgar Pechvogel £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Long live Feathisia!
+  I must admit, I am still shocked by where we have gone. The desperate measures we took to save the country from the Empire eventually led us to Griffenheim. But what many of us didn't expect that in the end the whole of Herzland ended up in our clutches. We have completed our task, but should we go further? I'm not sure.\n -Edgar Pechvogel
+$EAWSE_HERZLAND_ANG_LEER_T$ - Эдгар Пейчфугель £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Да здравствует Фетизия!
+  Признаться, я все еще шокирован тем, куда мы зашли. Те отчаянные меры, что мы приняли для спасения страны от имперцев, в итоге привели нас в Гриффенхейм. Но чего многие из нас не ожидали, так того, что в итоге весь Герцланд оказался у наших лап. Мы выполнили свою задачу, но должны ли мы идти дальше?\n -Эдгар Пейчфугель
+
+112 EAWSE_HERZLAND_FEA_COALITION
+$EAWSE_HERZLAND_ANG_LEER_T$ - Gerlach IV £ideology_harmony_texticon £ideology_neutrality_texticon £ideology_communism_texticon £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The Silent Duke at the Empire's helm
+  Democratic reforms have led to the flourishing of Feathisia, but now I can only hope that they will also help to the Empire. After all, the revolution showed that ignoring the folk is the way to nowhere. The folk want to be heard. If it keeps the Empire alive and makes the griffons happy, then it's certainly our way.\n -Gerlach IV
+$EAWSE_HERZLAND_ANG_LEER_T$ - Герлах IV £ideology_harmony_texticon £ideology_neutrality_texticon £ideology_communism_texticon £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Молчаливый герцог у руля Империи
+  Демократические реформы привели к расцвету Фетизии, теперь же мне остается надеяться, что они помогут и Империи. В конце концов, революция показала, что игнорирование народа - путь в никуда. Народ хочет быть услышанным. Если это сохранит Империю и сделает грифонов счастливыми, то это несомненно наш путь.\n -Герлах IV
+
+!EAWSE_STW_TITLE
+  STW
+  STW
+
+113 EAWSE_HERZLAND_STW_HARMONY
+$EAWSE_HERZLAND_ANG_LEER_T$ - Regina Eagleclaw £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  For the Empire and its folk
+  The highest of distinctions is service to others.\n -Regina Eagleclaw
+$EAWSE_HERZLAND_ANG_LEER_T$ - Регина Иглкло £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Ради Империи и её народа
+  Высшее достижение - это служение другим.\n -Регина Иглкло
+
+114 EAWSE_HERZLAND_STW_COM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Vitalius Moonbill £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  A good life isn't given for nothing
+  Victory never comes by itself — it is usually dragged in.\n -Vitalius Moonbill
+$EAWSE_HERZLAND_ANG_LEER_T$ - Виталий Мунбилл £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Хорошая жизнь даром не даётся
+  Победа никогда не приходит сама, — её обычно притаскивают.\n -Виталий Мунбилл
+
+116 EAWSE_HERZLAND_STW_NEUTRAL
+$EAWSE_HERZLAND_ANG_LEER_T$ - Gabriela Eagleclaw £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  But if there are no other options...
+  A war between Griffons is a civil war.\n -Gabriela Eagleclaw
+$EAWSE_HERZLAND_ANG_LEER_T$ - Габриэлла Иглкло £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Но если иных вариантов нет...
+  Всякая война между грифонами есть гражданская война.\n -Габриэлла Иглкло
+
+115 EAWSE_HERZLAND_STW_SUPREMACY
+$EAWSE_HERZLAND_ANG_LEER_T$ - Julius Eagleclaw £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  And nobody can stop us
+  We Griffons fear Gods, but nothing else in the world.\n -Julius Eagleclaw
+$EAWSE_HERZLAND_ANG_LEER_T$ - Юлий Иглкло £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  И никто нас не остановит
+  Мы, грифоны, боимся только Богов и больше ничего на свете.\n -Юлий Иглкло
+
+!EAWSE_BRZ_TITLE
+  BRZ
+  BRZ
+
+117 EAWSE_HERZLAND_BRZ_HARMONY
+$EAWSE_HERZLAND_ANG_LEER_T$ - Winston Copperhill £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Empire is still alive
+  We mean to hold our own. And possibly return what we've lost. I have not become the Emperor's First Minister in order to preside over the liquidation of the Griffonian Empire.\n -Winston Copperhill
+$EAWSE_HERZLAND_ANG_LEER_T$ - Уинстон Копперхилл £ideology_harmony_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Все еще живая
+  Мы намерены удержать то, что является нашей собственностью... И возможно вернуть то, что было утеряно. Я стал премьер-министром его величества не для того, чтобы председательствовать при ликвидации Империи Грифонов.\n -Уинстон Копперхилл
+
+118 EAWSE_HERZLAND_BRZ_NEUTRAL
+$EAWSE_HERZLAND_ANG_LEER_T$ - Ignatius Bronzetail £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The Old Guard is in action
+  Not through speeches and majority decisions will the great questions of the day be decided - but by iron and blood. And there's a lot at stake.\n -Ignatius Bronzetail
+$EAWSE_HERZLAND_ANG_LEER_T$ - Игнатий Бронзтейл £ideology_neutrality_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Старая гвардия в деле
+  Великие вопросы нашего времени решаются не речами и резолюциями большинства, a железом и кровью! А на кону стоит многое.\n -Игнатий Бронзтейл
+
+119 EAWSE_HERZLAND_BRZ_COM
+$EAWSE_HERZLAND_ANG_LEER_T$ - Communism £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The Emperor and the Soviets
+  Capital does not recognize the Fatherland, and at the same time it is the less patriotic the more it declares its patriotism.\n -Karl Liebarknecht
+$EAWSE_HERZLAND_ANG_LEER_T$ - Коммунизм £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Император и советы
+  Капитал не признаёт отечества, и при этом он тем менее патриотичен, чем больше заявляет о своем патриотизме.\n -Карл Либаркнехт
+
+120 EAWSE_HERZLAND_BRZ_JUCHE
+$EAWSE_HERZLAND_ANG_LEER_T$ - Kimball Barking-Sun £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  As comrade Grover will say!
+  We must make absolute the authority of the Great Leader comrade Grover VI.\nWe must honour the Great Leader comrade Grover VI with all our loyalty.\n -Kimball Barking-Sun
+$EAWSE_HERZLAND_ANG_LEER_T$ - Кимбалл Баркин-Сан £ideology_communism_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Как укажет товарищ Гровер!
+  Мы должны сделать власть великого вождя товарища Гровера VI абсолютной.\nМы должны верно и лояльно чтить великого вождя товарища Гровера VI.\n -Кимбалл Баркин-Сан
+
+121 EAWSE_HERZLAND_BRZ_LOUDBARK
+$EAWSE_HERZLAND_ANG_LEER_T$ - Rufus Loudbark £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  The Most Loyal Subjects
+  His Majesty's faithful dogs will not let the Emperor down! His word is the law for each of us! And everyone knows - it's better to die for Grover than to live for yourself!\n -Rufus Loudbark
+$EAWSE_HERZLAND_ANG_LEER_T$ - Руфус Лаудбарк £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Самые верные подданые
+  Верные псы его Величества не подведут императора! Его слово - закон для каждого из нас! И каждый знает - лучше умереть за Гровера, чем жить ради себя!\n -Руфус Лаудбарк
+
+122 EAWSE_HERZLAND_BRZ_CHURCH
+$EAWSE_HERZLAND_ANG_LEER_T$ - Prelate/Hochmeister £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Boreas leads us
+  A society without religion is like a ship without a compass. Without religion, any griffon walks in the dark. Only religion points the griffon to its beginning and end.\n -Prelate Gunhild
+$EAWSE_HERZLAND_ANG_LEER_T$ - Прелат/Грандмастер £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Борей ведет нас
+  Общество без религии — как корабль без компаса. Без религии любой грифон ходит во тьме. Только религия указывает грифону на его начало и конец.\n -Прелат Гунхильда
+
+!EAWSE_GRI_TITLE
+  GRI
+  GRI
+
+27 EAWSE_LP_UH
+$EAWSE_HERZLAND_ANG_LEER_T$ - Lord Protector £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Griffonian Reich will rise
+  Restoring the greatness of the empire is the only goal that griffons can think of. All who prevent this great cause are traitors and we must root out this infection - regardless of their status, gender or age - to destroy every house, every nest, every egg.\n -Ferdinand Dawnclaw
+$EAWSE_HERZLAND_ANG_LEER_T$ - Лорд Протектор £ideology_supremacy_texticon
+  $EAWSE_HERZLAND_ANG_LEER_T$
+  Рейх восстал из пепла
+  Восстановление величия империи - единственная цель, о которой могут помышлять грифоны. Все кто припятствуют этому великому делу являются предателями и мы должны вырвать с корнем эту заразу - независимо от их статуса, пола и возраста - уничтожить каждый дом, каждое гнездо, каждое яйцо.\n -Фердинанд Донкло
+
+!EAWSE_REVENGE_TITLE
+  Revenge
+  Месть
+
+123 EAWSE_HERZLAND_BRZ_REVENGE_COM
+Kimball Barking-Sun - Revenge £ideology_communism_texticon
+  Grover VI Mausoleum
+  Rest in peace, Grover
+  Eternal memory to the Great Leader and Teacher, the Eternal Emperor Grover VI\n -The inscription on the mausoleum
+Кимбалл Баркин-Сан - Месть £ideology_communism_texticon
+  Мавзолей Гровера VI
+  Покойся с миром, Гровер
+  Вечная память великому вождю и учителю, Вечному Императору Гроверу VI\n -Надпись на мавзолее
+
+124 EAWSE_HERZLAND_BRZ_REVENGE_EMPIRE_OF_DOGS
+Rufus Loudbark - Revenge £ideology_supremacy_texticon
+  Empire of Dogs
+  Griffons can't be trusted
+  We failed the Grover dynasty, but at least we made the traitors drown in blood. From now on, the legacy of the throne of Grovers will be dealt with not by treacherous griffons, but by dogs loyal to the dynasty and Empire. Until a worthy candidate is found, there will be no emperor.\n -Rufus Loudbark
+Руфус Лоудбарк - Месть £ideology_supremacy_texticon
+  Империя Псов
+  Грифонам нельзя доверять
+  Мы подвели династию Гроверов, но хотя бы заставили предателей захлебнуться кровью. Отныне вопросами наследия трона Гроверов будут заниматься не вероломные грифоны, а верные династии и империи псы. Пока не будет найден достойный кандидат, не будет и императора.\n -Руфус Лоудбарк

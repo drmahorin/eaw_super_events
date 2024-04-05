@@ -1,0 +1,6 @@
+music = {{
+	song = "{id}"
+	chance = {{
+		modifier = {{ factor = 0 }}
+	}}
+}}

@@ -1,0 +1,61 @@
+!!EAWSE_MEMES_TITLE
+	Memes, jokes, april fools
+  Мемы, шутка, первое апреля
+
+!EAWSE_MEMES_TNO
+  AF 2022
+  01.04.2022
+
+800 EAWSE_TNO_TWILIGHT
+$EAWSE_BALTIMARE_GOLDEN_T$ - The Celestial Regent
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  There is much to be done.
+  Remain calm.\nThe Regent endures.\nCelestia lives.\nThe Holy Equestrian Principality shall endure.
+$EAWSE_BALTIMARE_GOLDEN_T$ - Селестийский регент
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Так много еще нужно сделать.
+  Сохраняйте спокойствие.\nРегент выдержит.\nСелестия жива.\nСвященное Эквестрийское Княжество выстоит.
+
+801 EAWSE_TNO_SABLIN
+$EAWSE_BALTIMARE_GOLDEN_T$ - Valery Stablein
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  What a blessed time
+  Be strong in the belief that life is wonderful. Be positive and believe that the Revolution will always win.\n -Valery Stablein
+$EAWSE_BALTIMARE_GOLDEN_T$ - Валерий Стаблин
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Благословенные времена
+  Будьте сильны и верьте, что жизнь прекрасна. Будьте позитивными и верьте, что Революция всегда побеждает.\n -Валерий Стаблин
+
+!EAWSE_MEMES_KATZ
+  AF 2024
+  01.04.2024
+
+810 EAWSE_AF24_UFS
+The Final Trial
+  The United Free States
+  The Final Trial Begins
+  "Most think that either death or victory awaits us now, but alas, they fail to see that they are not mutually exclusive."\n -River Swirl
+Последний бой
+  Объединённые Свободные Государства
+  Начинается последний бой
+  "Многие считают, что нас ждёт либо смерть, либо победа, но, увы, они забывают, что это не взаимоисключающие результаты."\n -Ривер Свирл
+
+811 EAWSE_AF24_UFS_VICTORY
+The Final Trial - UFS Victory
+  Kattail Defeated
+  So ends the megalomania
+  "Was it worth it to systematically dismantle the order which I had created, under the pretence that it was intrinsically bad? Just because I dared oppose your government? Did you stop to consider the true benefits that I can bring? Prosperity and equality under benevolent leadership?"\n -Kaiser Kattail
+Последний бой - Победа ОСГ
+  Каттейл побеждён
+  С мегаломанией покончено
+  "И стоило ли систематически демонтировать созданный мной порядок из-за того, что вы считаете это злом? Поскольку я посмел пойти против вашей власти? Вы отвергаете всё то хорошее, что было сделано мной? Процветание и равенство под моим началом?"\n -Кайзер Каттейл
+
+812 EAWSE_AF24_CRUSADE
+The Final Trial - Kattail Victory
+  Kattail Unites the World
+  It is only the beginning
+  "Unity is the only way forwards, whether the planet want it, or not. To safeguard all sapient life from the twin threats of uncaring extraterrestrial invaders, and the petty cyclical collapse that brought down so many great civilisations in the past."\n -Kaiser Kattail
+Последний бой - Победа Каттейла
+  Каттейл объединяет мир
+  Это только начало
+  "Единство - это наш единственный путь, хочет того планета или нет. Это защитит все разумные формы жизни как от безжалостных инопланетных захватчиков, так и от циклического процесса падения цивилизаций, как было в прошлом."\n -Кайзер Каттейл
