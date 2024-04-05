@@ -1,6 +1,5 @@
 ### Fonts from TNO
 bitmapfonts = {
-
 	bitmapfont = {
 		name = "aldrich_18_outline"
 		path = "gfx/fonts/aldrich_18_outline"

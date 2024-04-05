@@ -1,5 +1,4 @@
 spriteTypes = {	
-
 	spriteType = {
 		name = "GFX_ideology_harmony_texticon"
 		texturefile = "gfx/texticons/ideology_harmony.tga"
@@ -90,5 +89,3 @@ spriteTypes = {
 		legacy_lazy_load = no
 	}
 }
-
-flag_MARESOC.tga

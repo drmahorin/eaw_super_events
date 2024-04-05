@@ -1,8 +1,4 @@
 spriteTypes = {
-        #################
-        #	Interface	#
-        #################
-
     corneredTileSpriteType = {
         name = "GFX_tiled_window_bigevent_border"
         size= { x=192 y=243 }
