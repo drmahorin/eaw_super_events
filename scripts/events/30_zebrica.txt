@@ -1,0 +1,165 @@
+!!EAWSE_ZEBRICA_TITLE
+  Zebrica
+  Зебрика
+
+!EAWSE_ZEBRICA_HIP
+  HIP
+  HIP
+
+184 EAWSE_NORTH_ZEBRICA_WAR
+$EAWSE_NORTH_ZEBRICA_WAR_T$
+  The North Zebrican War
+  Will Aris withstand the storm?
+  So, the war has begun. A great historical knot has been untied. The first stone rolled down the slope. Others will roll after him. The world has crossed the threshold of a new era.\n -[HIP.GetLeader]
+$EAWSE_NORTH_ZEBRICA_WAR_T$
+  Война в Северной Зебрике
+  Устоит ли Арис перед бурей?
+  Итак, война началась. Развязался великий исторический узел. Первый камень покатился по откосу. За ним покатятся другие. Мир перешагнул сегодня через порог новой эпохи.\n -[HIP.GetLeader]
+
+192 EAWSE_HIP_HARMONY
+$EAWSE_HIP_HARMONY_T$ £ideology_harmony_texticon
+  The Triumph of Aris
+  Aris has survived all the challenges
+  The tragedy of North Zebrica shocks whole world. Twice in our lifetime we have seen how these beautiful lands rent asunder and torn to pieces which have left only charred ruins. Upon us fell responsibility of keeping the Flag of Freedom. But now the tornado has passed away. The thunder of the cannons has ceased. We are still alive and free.\n -[HIP.GetLeader]
+$EAWSE_HIP_HARMONY_T$ £ideology_harmony_texticon
+  Триумф Ариса
+  Арис выдержал все испытания
+  Трагедия Северной Зебрики потрясла весь мир. Дважды наше поколение видело, как эти чудесные земли кромсали на части и рвали в клочья, оставив только обугленные руины. Нам выпала нелегкая роль - удерживать знамя свободы. Но ураган улегся. Грохот орудий стих. Мы все еще живы и свободны.\n -[HIP.GetLeader]
+
+190 EAWSE_HIP_COM
+$EAWSE_HIP_COM_T$ £GFX_ideology_communism_texticon
+  The Triumph of Aris
+  Glory to our great people!
+  COMRADES! The Patriotic War has ended in our complete victory! The period of peaceful development has begun. I congratulate you upon victory, my dear friends!\n -[HIP.GetLeader]
+$EAWSE_HIP_COM_T$ £GFX_ideology_communism_texticon
+  Триумф Ариса
+  Слава народу-победителю!
+  Товарищи! Отечественная война завершилась нашей полной победой! Начался период мирного развития. С победой вас, мои дорогие соотечественники и соотечественницы!\n -[HIP.GetLeader]
+
+195 EAWSE_HIP_AF
+$EAWSE_HIP_AF_T$ £GFX_ideology_neutrality_texticon
+  The Triumph of Aris
+  It was a long way to victory
+  I must say, we have achieved a triumph not only in battles on land, in the sea and in the air - but also our political and social institutions have shown themselves from the best side.\n -[HIP.GetLeader]
+$EAWSE_HIP_AF_T$ £GFX_ideology_neutrality_texticon
+  Триумф Ариса
+  Путь к победе был долгим
+  Надо сказать, мы добились триумфа не только в сражениях на суше, на море и в воздухе - наши политические и общественные институты также показали себя с наилучшей стороны.\n -[HIP.GetLeader]
+
+196 EAWSE_HIP_FALANGA
+$EAWSE_HIP_FALANGA_T$
+  Rise of the Hegemony
+  Aris above all
+  Always, until victory! Homeland or death - we shall prevail!\n -[HIP.GetLeader]
+$EAWSE_HIP_FALANGA_T$
+  Рождение Гегемонии
+  Арис превыше всего
+  Непременно до победы. Родина или смерть!\n -[HIP.GetLeader]
+
+193 EAWSE_HIP_SIREN
+$EAWSE_HIP_SIREN_T$
+  The Song of North Zebrica
+  The show is just beginning
+  We need the world and preferably the whole!\n -Adagio
+$EAWSE_HIP_SIREN_T$
+  Песнь Северной Зебрики
+  Шоу только начинается
+  Нам нужен мир. Желательно, весь!\n -Адажио
+
+194 EAWSE_HIP_SIREN_FINALE
+$EAWSE_HIP_SIREN_FINALE_T$
+  The Song of the New Era
+  And let it sound through Eternity
+  After all, music has mastery over everything.\n -Adagio
+$EAWSE_HIP_SIREN_FINALE_T$
+  Песнь новой эпохи
+  И пусть звучит она... Вечность
+  В конце концов, музыка властвует над всеми.\n -Адажио
+
+191 EAWSE_HIP_POSADA_FINALE
+$EAWSE_HIP_POSADA_FINALE_T$
+  The Final Frontier
+  I Believe My Friends...
+  At this instant, the whole of my life seems to be condensed into one wonderful moment. Everything I have experienced and done till now has been in preparation for this moment.\n -Posada
+$EAWSE_HIP_POSADA_FINALE_T$
+  Последний рубеж
+  Я верю, друзья...
+  Вся моя жизнь кажется мне сейчас одним прекрасным мгновением. Все, что прожито, что сделано прежде, было прожито и сделано ради этой минуты...\n -Посада
+
+183 EAWSE_ATOM 10
+$EAWSE_ATOM_T$
+  The Final Battle
+  Wouldn't that be a fatal mistake?
+  Of couse, we're a bit overreaching here\nBut still, that’d be reasonable to ask:\nHow much does their life cost compared to the results\nFrom which the whole world will benefit?\n -Posada
+$EAWSE_ATOM_T$
+  Последний бой
+  Не будет ли это роковой ошибкой?
+  Конечно, мы с этим перегнули немного,\nНо все же естественным будет спросить:\nЧто стоит их жизнь по сравнению с целью,\nПлодами которой весь мир будет жить?\n -Посада
+
+!EAWSE_ZEBRICA_COL
+  COL
+  COL
+
+187 EAWSE_COL_FIRST_CIVIL_WAR
+$EAWSE_COL_FIRST_CIVIL_WAR_T$
+  Colthage Civil War
+  War again
+  The blame for the bloody civil strife is not those who, being oppressed, were forced to take up arms, but those who forced them to take up arms.\n -Zeshmunazash Zeirutid
+$EAWSE_COL_FIRST_CIVIL_WAR_T$
+  Кольтфагенская Гражданская Война
+  Снова война
+  Виноваты в кровавой междоусобице не те, кто, будучи угнетенным, вынужден был взяться за оружие, а – те, кто вынудил первых взяться за оружие.\n -Зешмуназаш Зейрутид
+
+188 EAWSE_COL_SECOND_CIVIL_WAR
+$EAWSE_COL_SECOND_CIVIL_WAR_T$
+  Second Colthage Civil War
+  Once again, brother against brother
+  In the civil war, the people play the role of a barricade\n -Filip Redglad
+$EAWSE_COL_SECOND_CIVIL_WAR_T$
+  Вторая Кольтфагенская Гражданская Война
+  И вновь идёт брат на брата
+  В гражданской войне народу выпадает роль баррикады.\n -Филипп Редглад
+
+189 EAWSE_COL_THIRD_CIVIL_WAR
+$EAWSE_COL_THIRD_CIVIL_WAR_T$
+  Third Colthage Civil War
+  What an unfortunate nation!
+  Look at them, all these poor tragic people. Colthage sinking to its knees. It'll never rise again. Colthage will remain only in memories.\n -From the book 'Gone with the Tempest'
+$EAWSE_COL_THIRD_CIVIL_WAR_T$
+  Третья Кольтфагенская Гражданская Война
+  Ох, несчастный народ!
+  Посмотрите сколько несчастных, сколько трагедий. Они слепы, не сознают, что Кольтфаген обречен. Он уже стоит на коленях и ему не подняться никогда. Кольтфаген... Старый Кольтфаген будет жить только в воспоминаниях.\n -Из книги 'Унесенные бурей'
+
+!EAWSE_ZEBRICA_TBK
+  TBK
+  TBK
+
+185 EAWSE_TOBUCK_WHITE
+$EAWSE_TOBUCK_WHITE_T$
+  The Awakening of White Severyana
+  We will go together like brothers!
+  Let us return gray-colored\nFrom the bloody labor.\nOver you, Severyana\nA New Moon will rise.\n -White movement marching song
+$EAWSE_TOBUCK_WHITE_T$
+  Пробуждение Белой Северяны
+  Дружно, как братья, пойдем!
+  Пусть вернёмся мы седые\nОт кровавого труда,\nНад тобой взойдёт, Северяна\nЛуна новая тогда!\n -Полковая песня белого движения Северяны
+
+186 EAWSE_TOBUCK_SEVERYANA
+$EAWSE_TOBUCK_SEVERYANA_T$
+  Tsardom of Severyana
+  For our glory! To make foes fear!
+  Being of good repute\nWith happy life pursuit\nOn a demure route\nBless us on earth!\n -From the anthem of Severyana
+$EAWSE_TOBUCK_SEVERYANA_T$
+  Северянское Царство
+  На славу намъ! На страхъ врагамъ!
+  К благу стремление,\nВ счастье смирение,\nВ скорби терпение\nДай на земли!\n -Из гимна Северяны
+
+197 EAWSE_TOBUCK_NEO_HAZRUMENIA
+$EAWSE_TOBUCK_NEO_HAZRUMENIA_T$
+  Neo-Hazrumenian Empire
+  In the name of Zamal!
+  The right to serve the true King is already a privilege.\n -Baragzen
+$EAWSE_TOBUCK_NEO_HAZRUMENIA_T$
+  Нео-Хазруменская Империя
+  Во славу Замала!
+  Право служить истинному королю - это уже привилегия.\n -Барагзен

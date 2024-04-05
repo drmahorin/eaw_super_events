@@ -1,0 +1,22 @@
+scripted_gui = {
+	eawse_superevent = {
+		context_type = player_context
+		window_name = "eawse_superevent"
+		dirty = EAWSE_super_event
+
+		visible = {
+			is_ai = no
+			has_variable = EAWSE_super_event
+		}
+
+		properties = {
+			Image = { image = "[EAWSEGetEventImage]" }
+		}
+		
+		effects = {
+			Option_click = {
+				clear_variable = EAWSE_super_event
+			}
+		}
+	}
+}

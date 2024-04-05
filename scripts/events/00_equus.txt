@@ -1,0 +1,519 @@
+!!EAWSE_EQUUS_TITLE
+  Equus
+  Эквус
+
+!EAWSE_EQUESTRIA_TITLE
+  EQS
+  EQS
+
+1 EAWSE_NIGHTMARE_MOON_CV
+$EAWSE_NIGHTMARE_MOON_CV_T$
+  Equestrian Civil War
+  History repeats itself
+There can be no peace between our government, which stands for the right, justice and happiness of the ponies, and the lunatics who have occupy Manehattan and set themselves one goal - to destroy Equestria and exterminate all the non-batponies.\n -Prince Blueblood
+$EAWSE_NIGHTMARE_MOON_CV_T$
+  Гражданская война в Эквестрии
+  История повторяется
+  Не может быть и речи о мире между нашим правительством, отстаивающим право, справедливость и счастье народа, и засевшими в Мэйнхэттене безумцами, которые задались одной целью - уничтожить Эквестрию и истребить всех нефестралов.\n -Принц Блюблад
+
+2 EAWSE_DAYBREAKER
+$EAWSE_DAYBREAKER_T$
+  Daybreaker Ascends
+  A new Equestria is born
+  We must not get bogged down in the past, indecisive and merciful. The war has already claimed too many lives. I say, no more! The invaders shall be pushed back! Equestria, I promise you this, will prevail and our enemies will not even leave ashes!\n -Empress Daybreaker
+$EAWSE_DAYBREAKER_T$
+  Восход Дэйбрейкер
+  Родилась новая Эквестрия
+  Нельзя более позволять себе увязать в прошлом, быть нерешительными и милосердными. Война уже унесла слишком много жизней моих подданых. Хватит! Противник будет оттеснен! Я обещаю вам, что Эквестрия восторжествует, а от её врагов не останется даже пепла!\n -Императрица Дэйбрейкер
+
+3 EAWSE_TWO_SISTERS_WAR
+$EAWSE_TWO_SISTERS_WAR_T$
+  War of the Two Sisters
+  Old Equestria is dead
+  I know from whom I flee without knowing to whom to flee.\n -Unidentified pony journalist
+$EAWSE_TWO_SISTERS_WAR_T$
+  Война двух сестер
+  Старая Эквестрия мертва
+  Я знаю, от кого бежать, но не знаю, к кому бежать.\n -Неизвестный пони-журналист
+
+174 EAWSE_LUNAR_EQUUS
+$EAWSE_LUNAR_EQUUS_T$
+  Reign of the Moon
+  Nox Aeterna
+  The wars we have fought for our Empire have not been in vain. The freedom and glory of our people were won upon the fields of battle and shall remain for generations to come. United we stand, together we thrive. All hail the Empress Nightmare Moon!\n -Lunar Chaplain
+$EAWSE_LUNAR_EQUUS_T$
+  Под властью Луны
+  Nox Aeterna
+  Войны, которые мы вели за нашу Империю, не были напрасными. Свобода и слава нашего народа были завоеваны на полях сражений и будут переданы будущим поколениям! Вместе, мы выстоим, вместе мы расцветем! Да здравствует императрица Найтмер Мун!\n -Лунный капеллан
+
+175 EAWSE_SOLAR_EQUUS
+$EAWSE_SOLAR_EQUUS_T$
+  Reign of the Sun
+  Sol Invictus
+  May your reign be eternal, Solar Empress! May your glory be over all the earth! May the Light cover the whole land under your rule!\n -Solar Chaplain
+$EAWSE_SOLAR_EQUUS_T$
+  Под властью Солнца
+  Sol Invictus
+  Да будет вечным твое правление, Императрица Солнца! Да будет слава твоя повсеместно! Да покроет Свет всю землю под властью твоей!\n -Солнечный капеллан
+
+!EAWSE_EQS_BAL_TITLE
+  BAL
+  BAL
+
+135 EAWSE_BALTIMARE_GOLDEN
+$EAWSE_BALTIMARE_GOLDEN_T$ - Comrade Delicious £ideology_communism_texticon
+  Equestrian Unification
+  The first step towards communism
+  Trade unions are islands of anarchy in a sea of chaos.\n -Comrade Delicious
+$EAWSE_BALTIMARE_GOLDEN_T$ -Товарищ Делишес £ideology_communism_texticon
+Объединение Эквестрии
+  Первый шаг на пути к коммунизму
+  Профсоюзы – это острова анархии в море хаоса.\n -Товарищ Делишес
+
+136 EAWSE_BALTIMARE_CHAFER
+$EAWSE_BALTIMARE_GOLDEN_T$ - Cricket Chafer £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Victory of the working class
+  Our goals are clear, our tasks are defined! Get to work, comrades!\n -Cricket Chafer
+$EAWSE_BALTIMARE_GOLDEN_T$ - Крикет Чафер £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Победа рабочего класса
+  Наши цели ясны, задачи определены! За работу, товарищи!\n -Крикет Чафер
+
+137 EAWSE_BALTIMARE_ANARCHISTS
+$EAWSE_BALTIMARE_GOLDEN_T$ - Anarchy £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  No Gods, No Masters
+  We abolished government and gave the means of production to the workers - the opposite, of what Steel Stallion did.\n -Nesty Mango
+$EAWSE_BALTIMARE_GOLDEN_T$ - Анархия £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Ни Богов, ни Господ
+  Мы сокрушили государство и передали средства производства рабочим - противоположность тому, что сделал Сталлион.\n -Нэсти Манго
+
+56 EAWSE_BALTIMARE_LAVANDER
+$EAWSE_BALTIMARE_GOLDEN_T$ - Lavender Berry £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Glory to Equestria!
+  Reactionaries, batponies, and other rabble can still atone for their guilt to the Motherland. By working in the camps until they die, they will find forgiveness in the eyes of the people. When they die, they will do so with a smile on their lips, because they know that they have contributed to the good of the state.\n -Lavender Berry
+$EAWSE_BALTIMARE_GOLDEN_T$ - Лавендер Берри £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Слава Новой Эквестрии!
+  Реакционеры, фестралы и прочий сброд еще могут искупить свою вину перед родиной. Трудясь в лагерях до самой смерти, они обретут прощение в глазах народа. Когда они погибнут, то сделают это с улыбкой на губах, потому что знают, что внесли свой вклад на благо государства.\n -Лавендер Берри
+
+!EAWSE_EQS_WHAT_TITLE
+  ???
+  ???
+
+132 EAWSE_AHUIZOTL_EMPIRE
+$EAWSE_BALTIMARE_GOLDEN_T$ - Ahuizotl £ideology_supremacy_texticon
+  God of the Sun and Moon
+  Reality worse than the nightmare
+  The Aztlan Empire is eternal! May the sacrificial blood of our enemies be shed!\n -Ahuizotl
+$EAWSE_BALTIMARE_GOLDEN_T$ - Ауизотль £ideology_supremacy_texticon
+  Бог Солнца и Луны
+  Реальность хуже кошмара
+  Ацтланская Империя вечна! Да прольется жертвенная кровь наших врагов!\n -Ауизотль
+
+!EAWSE_EQS_LSP_TITLE
+  LSP
+  LSP
+
+138 EAWSE_LSP_MAYOR
+$EAWSE_BALTIMARE_GOLDEN_T$ - Mayor £ideology_harmony_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Glory to the Equestrian Republic!
+  ...I do further proclaim that peace, order, tranquillity, and civil authority now exist in and throughout the whole of the United States of Equestria.\n -From the proclamation of the end of the Civil War
+$EAWSE_BALTIMARE_GOLDEN_T$ - Мэр £ideology_harmony_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Слава Эквестрийской Республике!
+  ..я также заявляю, что мир, порядок, спокойствие и гражданская власть ныне установлены на всей территории Соединенных Штатов Эквестрии.\n -Из прокламации об окончании гражданской войны
+
+139 EAWSE_LSP_PINE_CHEST
+$EAWSE_BALTIMARE_GOLDEN_T$ - Pine Chest £ideology_supremacy_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Long live the general Pine Chest!
+  To whom are we going to ask to be forgiven? To the one who tried to kill us? To the one who tried to destroy our country? To whom? They are the ones who must ask to be forgiven for everything they did and were going to do against Equestria.\n -Pine Chest
+$EAWSE_BALTIMARE_GOLDEN_T$ - Пайн Чест £ideology_supremacy_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Слава генералу Пайн Честу!
+  У кого мы должны просить прощения? У тех, кто пытался нас убить? У тех, кто пытался уничтожить нашу страну? У них? Именно они должны просить прощения за все, что они сделали и пытались сделать с Эквестрией.\n -Пайн Чест
+
+140 EAWSE_LSP_ROCKFELLER
+$EAWSE_BALTIMARE_GOLDEN_T$ - Rockfeller £ideology_neutrality_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Money - the answer to everything
+  I do not believe a pony can ever leave his job. He ought to think of it by day and dream of it by night.\n -Rockfeller
+$EAWSE_BALTIMARE_GOLDEN_T$ - Рокфеллер £ideology_neutrality_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Деньги решают все
+  На мой взгляд, ни один пони иначе и не может, как быть постоянно на работе. Днем он должен думать о ней, а ночью – она ему снится.\n -Рокфеллер
+
+141 EAWSE_LSP_MR_HORSE 10
+$EAWSE_BALTIMARE_GOLDEN_T$ - Trotbert Horse £ideology_neutrality_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  The Horse Always Wins
+  But autocracy? Firm control in the hooves of a technological and economic visionary? Yes, that Equestria shall have.\n -Trotbert Horse
+$EAWSE_BALTIMARE_GOLDEN_T$ - Тротберт Хорс £ideology_neutrality_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Казино всегда в выигрыше
+  Но автократия? Жесткий контроль в копытах технологического и экономического провидца? Да, это то, что Эквестрии необходимо и то, что она получит.\n -Тротберт Хорс
+
+142 EAWSE_LSP_STARRY
+$EAWSE_BALTIMARE_GOLDEN_T$ - Starry Plough £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Solidarity forever!
+  When the union's inspiration through the workers' blood shall run,\nThere can be no power greater anywhere beneath the sun;\nYet what force on earth is weaker than the feeble strength of one,\nBut the union makes us strong.\n -Equestrian union song
+$EAWSE_BALTIMARE_GOLDEN_T$ - Старри Плоу £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Солидарность навсегда
+  Вдохновленные борьбою через кровь рабочих масс,\nСилы нет сильней под солнцем чем в борьбе рабочий класс\nОдиночку быстро сломят вместе нас не победить\nПрофсоюз поможет точно нашу силу укрепить.\n -Профсоюзная песня Эквестрии
+
+143 EAWSE_LSP_SPRINKLE
+$EAWSE_BALTIMARE_GOLDEN_T$ - Sugar Sprinkle £ideology_harmony_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  This land is made for you and me
+  This land is your land and this land is my land\nFrom Coltfoalnia to the Manehattan island\nFrom the Black Early forest to the Warm Shores waters\nThis land was made for you and me.\n -Equestrian folk song
+$EAWSE_BALTIMARE_GOLDEN_T$ - Шугар Спринкл £ideology_harmony_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Эта земля для нас с тобой
+  Эта земля — твоя земля, эта земля — моя земля,\nОт Кольтфоалнии до острова Мейнхеттена,\nОт Чёрнораннего Леса до Теплых вод,\nЭта земля создана для тебя и меня.\n -Эквестрийская народная песня
+
+!EAWSE_EQS_STG_TITLE
+  STG
+  STG
+
+30 EAWSE_STG_UNITES_EQUESTRIA
+$EAWSE_BALTIMARE_GOLDEN_T$ - Wheatin/Serov/Lunin £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Onwards to a brighter future!
+  ...on the basis of the powers granted to us, we, the delegates of soviet republics, decide to sign an agreement. on the formation of the "Equestrian Socialist Republic\n -From Declaration of the Formation of the ESR
+$EAWSE_BALTIMARE_GOLDEN_T$ - Витин/Серов/Лунин £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  К светлому будущему!
+  ...на основании данных нам полномочий, мы, делегаты советских республик, постановляем подписать договор об образовании «Эквестрийской Социалистической Республики»\n -Из декларации об образовании ЭСР
+
+44 EAWSE_DARK_WING_UNITES_EQS
+$EAWSE_BALTIMARE_GOLDEN_T$ - Dark Wing £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Interesting twist
+  Dark Wing is a hero and a great pony!\nA politician, a leader and a fighter!\nThe Great Leader raised the country!\nEquestria was not betrayed by him!\n -'The Dark Wing Show'
+$EAWSE_BALTIMARE_GOLDEN_T$ - Дарк Винг £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Интересный поворот
+  Дарк Винг герой и молодец!\nПолитик, лидер и борец!\nВеликий Вождь страну поднял!\nЭквестрию он не предавал!\n -'Вечерний Дарк Винг'
+
+144 EAWSE_VANHOOVER
+$EAWSE_BALTIMARE_GOLDEN_T$ - Vanhoover £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Red Banner over Canterlot
+  Down With Celestia and her Camarilla!\nDown With the Rapacious Bureaucracy!\nLong Live the Soviet Equestria, the Fortress of the Toilers!\nLong Live the World Socialist Revolution!\n -Dust Hoover
+$EAWSE_BALTIMARE_GOLDEN_T$ - Ванхувер £ideology_communism_texticon
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Красное знамя над Кантерлотом
+  Долой Селестию и её камарилью!\nДолой хищную бюрократию!\nДа здравствует Советская Эквестрия, крепость трудящихся!\nДа здравствует мировая социалистическая революция!\n -Даст Хувер
+
+!EAWSE_EQS_SCS_TITLE
+  SCS
+  SCS
+
+155 EAWSE_SCS_CONFEDERATE
+$EAWSE_BALTIMARE_GOLDEN_T$ - Confederation of Southern States
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Glory to Dixie!
+  Go home all you boys who fought with me and help build up the shattered fortunes of our old state.\n -Trotbert E. Neigh
+$EAWSE_BALTIMARE_GOLDEN_T$ - Конфедеративные Штаты
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Слава Дикси!
+  Отправляйтесь домой, ребята, пора восстанавливать нашу разрушенную страну.\n -Тротберт Ней
+
+!EAWSE_EQS_STL_TITLE
+  STL
+  STL
+
+165 EAWSE_STL_OUR
+$EAWSE_BALTIMARE_GOLDEN_T$ - Our Town
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Marching proud! All together now!
+  Life is a joy in Our Town\nWe're all equal here\nNo one is superior\nAnd no one shakes in fear!
+$EAWSE_BALTIMARE_GOLDEN_T$ - Наш Город
+  $EAWSE_BALTIMARE_GOLDEN_T$
+  Выше нос, пони! Все вместе!
+  Жизнь здесь просто счастье,\nВсе мы тут равны,\nУ нас тут нет главных,\nГлавные все мы!
+
+!EAWSE_CRYSTAL_EMPIRE_TITLE
+  CRY
+  CRY
+
+4 EAWSE_SOMBRA_RETURNS
+$EAWSE_SOMBRA_RETURNS_T$
+  Sombra's return to the throne
+  The shadow king is back in action
+  I am not just any monster, Hope. I am king of the monsters!\n -King Sombra
+$EAWSE_SOMBRA_RETURNS_T$
+  Возвращение Сомбры на трон
+  Король теней снова в строю
+  Я не просто монстр, Хоуп. Я король монстров!\n -Король Сомбра
+
+15 EAWSE_SOMBRA_VICTORY
+$EAWSE_SOMBRA_VICTORY_T$
+  Sombra defeats Equestria
+  The tyrant got his way
+  Suppressing others is a weakness disguised as strength.\n -Princess Cadance
+$EAWSE_SOMBRA_VICTORY_T$
+  Сомбра побеждает Эквестрию
+  Тиран все же добился своего
+  Подавление других – это слабость, замаскированная под силу.\n -Принцесса Каденс
+
+181 EAWSE_CRYSTAL_REGENCY 10
+$EAWSE_CRYSTAL_REGENCY_T$
+  Crystal Regency
+  Victory. But at what cost?
+  I am not your mother and I will never be able to replace her, but I swear by harmony, I will do my best to take care of you.\n -Twilight Sparkle's promise to Flurry Heart after the execution of her parents by Sombra
+$EAWSE_CRYSTAL_REGENCY_T$
+  Кристальное Регенство
+  Победа. Но какой ценой?
+  Я не твоя мать и никогда не смогу заменить её, но, клянусь гармонией, я буду заботиться о тебе изо всех сил.\n— Обещание Твайлайт Спаркл стать приёмной матерью Фларри Харт после казни её родителей Сомброй
+
+!EAWSE_EQUUS_GREAT_WAR_TITLE
+  Great War
+  Великая в.
+
+5 EAWSE_GREAT_WAR
+$EAWSE_GREAT_WAR_T$
+  The Great War
+  The end of the millennial peace
+  In the face of a great goal, no sacrifices will seem too great.\n -Queen Chrysalis
+$EAWSE_GREAT_WAR_T$
+  Великая война
+  Конец тысячелетнему миру
+  Перед лицом великой цели никакие жертвы не покажутся слишком большими.\n -Королева Кризалис
+
+167 EAWSE_GREAT_WAR_STG
+$EAWSE_GREAT_WAR_STG_T$
+  Fall Rot
+  The enemy shall be defeated!
+  Our entire population must now be staunch and unified as never before. Each of us must demand discipline, order and self sacrifice from themselves and others, worthy of a real Soviet Patriot, in order to attend to all needs of the Red Army, the navy and the air force in order to guarantee victory over the enemy.\n -Statement of the Soviet Information Bureau
+$EAWSE_GREAT_WAR_STG_T$
+  Fall Rot
+  Враг будет разбит!
+  Каждый из нас должен требовать от себя и от других дисциплины, организованности, самоотверженности, достойной настоящего советского патриота, чтобы обеспечить все нужды Красной Армии, флота и авиации, чтобы обеспечить победу над врагом.\n -Обращение Совинформбюро
+
+6 EAWSE_GREAT_WAR_EV
+$EAWSE_GREAT_WAR_EV_T$
+  Equestrian Victory
+  Equestrians never shall be slaves!
+  My dear ponies! It is your victory! Everyone, mare or stallion, has done their best. Everyone has tried. Neither the long years, nor the dangers, nor the fierce attacks of the enemy, have in any way weakened the unbending resolve of the Equestrian nation.\n -Princess Celestia
+$EAWSE_GREAT_WAR_EV_T$
+  Победа Эквестрии
+  Не бывать эквестрийцам рабами!
+  Мои дорогие пони! Это ваша победа! Каждый, будь он жеребцом или кобылой, старался изо всех сил. На долю каждого выпали испытания. Но ни долгие годы войны, ни опасности, ни яростные атаки врага не смогли поколебать решимость эквестрийской нации.\n -Принцесса Селестия
+
+7 EAWSE_GREAT_WAR_CV
+$EAWSE_GREAT_WAR_CV_T$
+  Changelings Victory
+  The wheel of history made a turn
+  Now the shame is washed away. Feeling like I was born again.\n -Hivesmarschall Trimmel
+$EAWSE_GREAT_WAR_CV_T$
+  Победа Чейнджлингов
+  Колесо истории повернулось
+  Теперь позор смыт. Ощущение, будто родился заново.\n -Хайвсмаршал Триммель
+
+13 EAWSE_GREAT_WAR_SV
+$EAWSE_GREAT_WAR_SV_T$
+  Solar Empire Victory
+  Oderint, dum metuant!
+  It is impossible to forgive and it is impossible to understand all the evil that the Changelings brought to our land. For crimes against ponies and Equestria, they all will be punished. The Great Reckoning awaits.\n -Daybreaker
+$EAWSE_GREAT_WAR_SV_T$
+  Победа Солнечной Империи
+  Oderint, dum metuant!
+  Нельзя простить и нельзя понять все то зло, что чейнджлинги принесли на нашу землю. За преступления против моих пони и Эквестрии их всех настигнет возмездие.\nВеликая Расплата грядет.\n -Дэйбрейкер
+
+14 EAWSE_GREAT_WAR_LV
+$EAWSE_GREAT_WAR_LV_T$
+  Lunar Empire Victory
+  The night prevails
+  There is no doubt that the Changelings guilt is very great before us. But I am ready to give them the opportunity to redeem themselves by serving me and my night. To those who will refuse... Prepare for the nightmare.\n -Nightmare Moon
+$EAWSE_GREAT_WAR_LV_T$
+  Победа Лунной Империи
+  Ночь торжествует
+  Мы не питаем никаких сомнений в том, что вина чейнджлингов пред нами крайне велика. Но я готова дать им возможность искупить себя, путем служения мне и моей ночи. Тем же кто откажется... Готовьтесь к кошмару наяву.\n -Найтмер Мун
+
+31 EAWSE_STG_DEFEATS_CHN
+$EAWSE_STG_DEFEATS_CHN_T$
+  Stalliongrad Victory
+  Communism marches on the planet
+  Glory to our heroic red army, which defended the independence of our Motherland and won victory over the enemy!\nGlory to our great people, the victorious people!\nEternal glory to the heroes who fell in battle with the enemy and gave their lives for the freedom and happiness of our people!\n -Nestor Lunin
+$EAWSE_STG_DEFEATS_CHN_T$
+  Победа Сталлионграда
+  Коммунизм шагает по планете
+  Слава нашей героической красной армии, отстоявшей независимость нашей родины и завоевавшей победу над врагом!\nСлава нашему великому народу, народу-победителю!\nВечная слава героям, павшим в боях с врагом и отдавшим свою жизнь за свободу и счастье нашего народа!\n -Нестор Лунин
+
+51 EAWSE_GREAT_WAR_CHN_D
+$EAWSE_GREAT_WAR_CHN_D_T$
+  The End of Hegemony
+  Defeated again. Now finally.
+  Bombardment, barrage, curtain-fire, mines, gas, tanks, machine-guns, hand-grenades - words, words, but they hold the horror of the world.\n -Griffon journalist
+$EAWSE_GREAT_WAR_CHN_D_T$
+  Конец Гегемонии
+  Вновь поражение. Теперь окончательное.
+  Шквальный огонь. Заградительный огонь. Огневые завесы. Мины. Газы. Танки. Пулеметы. Ручные гранаты. Все это слова, слова, но за ними стоят все ужасы, которые переживает наше поколение.\n -Грифоний журналист
+
+!EAWSE_ELF_TITLE
+  ELF
+  ELF
+
+8 EAWSE_ELF_U
+$EAWSE_ELF_U_T$
+  Equestrian Liberation Front
+  AUT VINCERE, AUT MORI
+  The battle for Equestria is flaring up again. Let us therefore brace ourselves to our duties, and so bear ourselves, so that even after a thousand years ponies will still say, «This was their finest hour».\n -Starlight Glimmer
+$EAWSE_ELF_U_T$
+  Эквестрийский Освободительный фронт
+  AUT VINCERE, AUT MORI
+  Битва за Эквестрию вновь разгорается. Так давайте же засучим рукава и примемся за работу для того, чтобы, даже через тысячу лет, пони все равно продолжали помнить нас и говорить об этом времени: «Это был их звездный час!»\n -Старлайт Глиммер
+
+9 EAWSE_ELF_V
+$EAWSE_ELF_V_T$
+  Victory of the Equestrian Liberation Front
+  Everypony sings today - Victory!
+  The great sacrifices we have made in the name of the freedom of Equestria, the innumerable hardships and sufferings endured by our people, hard work in the rear and at the front were crowned with complete victory over the enemy. From now on, the great banner of freedom and harmony will fly over Equus!\n -Starlight Glimmer
+$EAWSE_ELF_V_T$
+  Победа Эквестрийского Освободительного Фронта
+  У каждого на устах - Победа!
+  Великие жертвы, принесённые нами во имя свободы Эквестрии, неисчислимые лишения и страдания, напряжённый труд в тылу и на фронте увенчались полной победой над врагом. Отныне над Эквусом будет развеваться великое знамя свободы и гармонии!\n -Старлайт Глиммер
+
+10 EAWSE_ELF_D
+$EAWSE_ELF_D_T$
+  Defeat of the Equestria Liberation Front
+  It's better to lose by fighting...
+  All of us knew that we were doomed. But everyone was ready to fight to the last drop of blood. Let us perish - others will come in our place. Let the enemy know - Equestria shall never die!\n -Entry from the diary of a soldier of the Liberation Front
+$EAWSE_ELF_D_T$
+  Поражение Эквестрийского Освободительного Фронта
+  Лучше проиграть сражаясь...
+  Все из нас понимали, что мы обречены. Но каждый был готов драться до последней капли крови. Пусть мы погибнем - на наше место придут другие. Пусть враг знает - Эквестрия не умрет никогда!\n -Запись из дневника солдата Освободительного Фронта
+
+!EAWSE_STALLIONGRAD_TITLE
+  STG
+  STG
+
+33 EAWSE_STG_ATTACK_EQS
+$EAWSE_STG_ATTACK_EQS_T$
+  Stalliongrad Marches on Equestria
+  The next phase of the revolution
+  Both here and there among the ranks, resounds one and the same voice:\n«Who is not with us is against us! No one is indifferent, truth is with us!»\nAnd I stand one among them, in the howling flame and smoke\nAnd with all my strength, i pray for them and for the others.\n -A poem from the time of revolution
+$EAWSE_STG_ATTACK_EQS_T$
+  Сталлионград идет на земли Эквестрии
+  Следующий этап революции
+  И там и здесь между рядами, звучит один и тот же глас:\n«Кто не за нас — тот против нас. Нет безразличных: правда с нами».\n\nА я стою один меж них, в ревущем пламени и дыме\nИ всеми силами своими, молюсь за тех и за других.\n -Стихотворение времен Революции
+
+32 EAWSE_STG_DEFEATED
+$EAWSE_STG_DEFEATED_T$
+  The Collapse Of Stalliongrad
+  The communist experiment has failed
+  The secret of a good life in the country is simple: hard work, observance of the law and no communism!\n -King Kloseu de Kissau
+$EAWSE_STG_DEFEATED_T$
+  Крах Сталлионграда
+  Крах коммунистического эксперимента
+  Секрет хорошей жизни в стране прост: кропотливый труд, соблюдение закона и никакого коммунизма!\n -Король Клосау де Киссау
+
+38 EAWSE_WORLD_SOC_REP
+$EAWSE_WORLD_SOC_REP_T$
+  Socialist Republic of the World
+  The world is united as never before
+  Life is beautiful. Let the future generations cleanse it of all evil, oppression and violence, and enjoy it to the full!\n -Sinister Serov
+$EAWSE_WORLD_SOC_REP_T$
+  Мировая Социалистическая Республика
+  Мир един как никогда прежде
+  Жизнь прекрасна. Пусть грядущие поколения очистят ее от зла, гнета, насилия и наслаждаются ею вполне!\n -Синистер Серов
+
+52 EAWSE_STG_INTERVENTION
+$EAWSE_STG_INTERVENTION_T$
+  Stalliongrad Intervention
+  The Battle is Going Again...
+  The hour has struck - the hour of the liberation of the working class. It is our duty to save the ponies of Equestria from the power-crazed princesses and their bourgeois collaborators.\n -From a report in Stalliongrad on the question of intervention in the civil war
+$EAWSE_STG_INTERVENTION_T$
+  Интервенция Сталлионграда
+  И вновь продолжается бой...
+  Пробил час - час освобождения рабочего класса. Наш долг - спасти народ Эквестрии от окончательно спятивших от власти принцесс и их буржуазных пособников.\n -Из доклада в Сталлиограде о вопросе вмешательства в гражданскую войну
+
+!EAWSE_NOVA_GRIFFONIA_TITLE
+  GRF
+  GRF
+
+129 EAWSE_GRF_WESTERN_EMPIRE_HIGHHILL
+$EAWSE_GRF_WESTERN_EMPIRE_HIGHHILL_T$ £ideology_neutrality_texticon
+  Western Griffonian Empire
+  A new player on the world stage
+  The era of instability and chaos is finally over. As Emperor, I am determined to show the unity, strength and firmness of our people to the whole world. No one will dare threaten us again.\n -Erwin Highhill
+$EAWSE_GRF_WESTERN_EMPIRE_HIGHHILL_T$ £ideology_neutrality_texticon
+  Основание Западной Империи Грифонов
+  Новый игрок на мировой арене
+  Эпоха нестабильности и хаоса наконец окончилась. Я, как Император, настроен показать единство, силу и твердость нашего народа всему миру. Никто более не посмеет угрожать нам.\n -Эрвин Хайхилл
+
+130 EAWSE_GRF_WESTERN_EMPIRE_IRONCLAW
+$EAWSE_GRF_WESTERN_EMPIRE_IRONCLAW_T$ £ideology_supremacy_texticon
+  Western Griffonian Empire
+  Bigger they come, harder they fall
+  We griffons are a race of masters and must rule hard and justly. It is necessary to understand that the most insignificant griffon is a thousand times superior to any pony, yak, changeling and others.\n -Reyhard Ironclaw
+$EAWSE_GRF_WESTERN_EMPIRE_IRONCLAW_T$ £ideology_supremacy_texticon
+  Основание Западной Империи Грифонов
+  Чем выше стоишь, тем больнее падать
+  Мы грифоны - раса господ и должны жестко и справедливо править. Необходимо понимать, что самый ничтожный грифон в тысячу раз превосходит любого пони, яка, чейнджлинга и прочих.\n -Рейхард Айронкло
+
+131 EAWSE_GRF_GOLDFEATHER
+$EAWSE_GRF_GOLDFEATHER_T$
+  Nova Griffonia (TM)
+  Everything is bought and sold
+  How did I become so rich? I was smarter than the smartest and more persistent than the most persistent!\n -Skeiron Goldfeather
+$EAWSE_GRF_GOLDFEATHER_T$
+  Нова Грифония (ТМ)
+  Все покупается, все продаётся
+  Как я стал таким богатым? Я был умнее самых умных и упорнее самых упорных!\n -Скейрон Голдфезер
+
+166 EAWSE_GRF_WESTERN_EMPIRE_VIRGIL
+$EAWSE_GRF_WESTERN_EMPIRE_VIRGIL_T$ (Virgil) £ideology_supremacy_texticon
+  Western Griffonian Empire
+  Well done
+  I'm so tired from this crap. And these republican losers are still showing off. We are revolutionaries, we are cool... Damn it!\n -Imperial ambassador
+$EAWSE_GRF_WESTERN_EMPIRE_VIRGIL_T$ (Вёрджила) £ideology_supremacy_texticon
+  Основание Западной Империи Грифонов
+  Красава
+  Достало мля в натуре уже все. И понты еще эти фраерские. Мы типа революционеры, мы крутые...\n -Имперский посол
+
+!EAWSE_EQUUS_OTHER_EQS_TITLE
+  EQS
+  EQS
+
+23 EAWSE_TS_PH
+$EAWSE_TS_PH_T$
+  Twilight Sparkle Crowned as Princess of Harmony
+  Glory to the Princess!
+  Everyone who came to Canterlot for this ceremony or hear it on the radio, you are all here for me. I have in sincerity pledge myself to your service, as so many of you are pledged to mine. Throughout all my life and with all my heart I shall strive to be worthy of your trust.\n -From Twilight Sparkle's coronation speech
+$EAWSE_TS_PH_T$
+  Твайлайт Спаркл коронована принцессой Гармонии
+  Слава принцессе!
+  Все, кто приехал в Кантерлот ради этой церемонии или слышат её по радио, все вы здесь ради меня. Я искренне клянусь служить вам, как и многие из вас поклялись мне. Всю жизнь и всем сердцем я буду стремиться быть достойной вашего доверия.\n -Из коронационной речи Твайлайт Спаркл
+
+!EAWSE_EQUUS_OTHER_CHN_TITLE
+  CHN
+  CHN
+
+28 EAWSE_THX_UPRISING_S
+$EAWSE_THX_UPRISING_S_T$
+  Thorax Wins the Civil War
+  Changelings are free from tyranny
+  The guilt of civil war, the miseries which it brings in its train, lie at the door of those who provoked it by illegal oppression, rather than of such as are driven to arms in order to assert their natural rights as free creatures.\n -Thorax
+$EAWSE_THX_UPRISING_S_T$
+  Торакс побеждает в гражданской войне
+  Чейнджлинги свободны от тирании
+  Вина за гражданскую войну, за бедствия, которые она приносит с собой, на совести тех, кто вызвал ее угнетением и беззакониями, а не тех, кто оказался в необходимости прибегнуть к оружию, чтобы отстаивать естественные права свободных существ.\n -Торакс
+
+29 EAWSE_CHRYSALIS_CORONATION
+$EAWSE_CHRYSALIS_CORONATION_T$
+  Chrysalis Crowned as Empress of Equus
+  Equestria at haze
+  When I want to know what the Changlings want, I ask myself.\n -Queen Chrysalis
+$EAWSE_CHRYSALIS_CORONATION_T$
+  Кризалис коронована Императрицей Эквуса
+  Эквестрия во мгле
+  Когда я хочу узнать, чего хотят Чейнджлинги, я спрашиваю себя.\n -Королева Кризалис

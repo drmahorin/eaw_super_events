@@ -1,0 +1,91 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_ideology_harmony_texticon"
+		texturefile = "gfx/texticons/ideology_harmony.tga"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_ideology_communism_texticon"
+		texturefile = "gfx/texticons/ideology_communism.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_neutrality_texticon"
+		texturefile = "gfx/texticons/ideology_neutrality.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_supremacy_texticon"
+		texturefile = "gfx/texticons/ideology_supremacy.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_eqs_texticon"
+		texturefile = "gfx/texticons/flag_EQS.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_chn_texticon"
+		texturefile = "gfx/texticons/flag_CHN.tga"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_flag_stg_texticon"
+		texturefile = "gfx/texticons/flag_STG.tga"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_flag_sol_texticon"
+		texturefile = "gfx/texticons/flag_SOL.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_nlr_texticon"
+		texturefile = "gfx/texticons/flag_NLR.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_gri_texticon"
+		texturefile = "gfx/texticons/flag_GRI.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_MARESOC_texticon"
+		texturefile = "gfx/texticons/flag_MARESOC.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_viira_texticon"
+		texturefile = "gfx/texticons/flag_BAR.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_juche_texticon"
+		texturefile = "gfx/texticons/flag_BRZ.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_hlq_texticon"
+		texturefile = "gfx/texticons/flag_HLQ.tga"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_flag_riv_texticon"
+		texturefile = "gfx/texticons/flag_RIV.tga"
+		legacy_lazy_load = no
+	}
+}

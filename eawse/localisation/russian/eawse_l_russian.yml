@@ -1,0 +1,9 @@
+﻿l_russian:
+  eawse_TITLE: "£eaw_text  §YEquestria at War§! - Супер Ивенты\nПанель настройки"
+  EAWSE_SETTINGS_TT: "Настройки Супер Ивентов"
+  EAWSE_EVENT_DISABLE: "Отключить ивент"
+  EAWSE_EVENT_ENABLE: "Включить ивент"
+  # Временное предупреждение
+  eaw_superevents.internal.42.t: "EaW - Супер Ивенты"
+  eaw_superevents.internal.42.desc: "Внимание! В последнем обновлении сабмода была добавлена панель настройки супер ивентов. Кнопки для доступа к настройкам больше нет, получить доступ к панели вы можете через панель настройки музыки."
+  eaw_superevents.internal.42.a: "Ок."

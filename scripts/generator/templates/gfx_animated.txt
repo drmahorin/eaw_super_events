@@ -1,0 +1,8 @@
+	frameAnimatedSpriteType = {{
+		name = "GFX_{id}"
+		textureFile = "gfx/{fn}.tga"
+		noOfFrames = {frames}
+		animation_rate_fps = 5
+		looping = yes
+		play_on_show = yes
+	}}

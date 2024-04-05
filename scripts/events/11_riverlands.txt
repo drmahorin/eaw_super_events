@@ -1,0 +1,341 @@
+!!EAWSE_RIVERLANDS_TITLE
+  Riverlands and nearby lands
+  Речные земли и регионы поблизости
+
+!EAWSE_RIV_RCT_TITLE
+  RCT
+  RCT
+
+57 EAWSE_RIV_RCT_RS
+$EAWSE_RIV_RCT_RS_T$ - River Swirl £ideology_harmony_texticon
+  Riverlands Unification
+  In varietate concordia
+  This Treaty marks a new stage in the process of creating an ever closer union among the creatures of Riverlands, in which decisions are taken as openly as possible and as closely as possible to the citizen.\n -From the treaty establishing the River Federation
+$EAWSE_RIV_RCT_RS_T$ - Ривер Свирл £ideology_harmony_texticon
+  Объединение Речных Земель
+  In varietate concordia
+  Настоящий Договор знаменует собой новый этап в процессе создания союза народов Речных Земель, в котором принятие решений осуществляется при как можно более полном соблюдении принципа гласности и в максимально возможной степени приближено к гражданам.\n -Из договора о создании Речной Федерации
+
+58 EAWSE_RIV_RCT_AL
+$EAWSE_RIV_RCT_RS_T$ - Arclight £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  OHS stands guard
+  The Chekist is the political combatant. He is the loyal son of the homeland. He stands at the head of the battle to strengthen the power of our nation and state.\n -Arclight
+$EAWSE_RIV_RCT_RS_T$ - Арклайт £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  ДОГ стоит на страже
+  Чекист - политический боец. Он - верный сын своей родины. Он стоит во главе битвы, чтобы укрепить силу нашего народа и государства.\n -Арклайт
+
+59 EAWSE_RIV_RCT_NW
+$EAWSE_RIV_RCT_RS_T$ - Nova Whirl £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Ex Unitate Vires
+  And friendship between the creatures of the Riverlands is a great and serious achievement. For as long as this friendship exists, the creatures of our country will be free and unconquerable. No one is afraid of us, neither internal nor external enemies, as long as this friendship is alive and well.\n -Nova Whirl
+$EAWSE_RIV_RCT_RS_T$ - Новой Вирл £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Ex Unitate Vires
+  А дружба между народами Речноземья - большое и серьезное завоевание. Ибо пока эта дружба существует, народы нашей страны будут свободны и непобедимы. Никто не страшен нам, ни внутренние, ни внешние враги, пока эта дружба живет и здравствует.\n -Нова Вирл
+
+60 EAWSE_RIV_RCT_CH
+$EAWSE_RIV_RCT_RS_T$ - Caramel Haze £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Red Star of the East
+  The destruction of classes is achieved by strengthening the class struggle. And the withering away of the state will come through the maximum strengthening of state power necessary to finish off the remnants of the dying classes and organize a defense against the capitalist encirclement.\n -Caramel Haze
+$EAWSE_RIV_RCT_RS_T$ - Карамель Хэйз £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Красная звезда Востока
+  Уничтожение классов достигается путём усиления классовой борьбы. А отмирание государства придёт через максимальное усиление государственной власти, необходимое для того, чтобы добить остатки умирающих классов и организовать оборону против капиталистического окружения.\n -Карамель Хейз
+
+!EAWSE_RIV_LCT_TITLE
+  LCT
+  LCT
+
+66 EAWSE_RIV_LCT_DS
+$EAWSE_RIV_RCT_RS_T$ - Dierdre Skye £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  More than an army with a country
+  We abandoned our plans for revenge on the griffons and chose the path of peace, but let them know that if the Empire tries to take over our lands, nature itself will turn against them!\n —Dierdre Skye
+$EAWSE_RIV_RCT_RS_T$ - Дэйдра Скай £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Больше, чем армия со страной
+  Мы отказались от планов мести грифонам и выбрали путь мира, но пусть знают: если имперцы попробуют захватить наши земли — сама природа обратится против них!\n —Дэйдра Скай
+
+67 EAWSE_RIV_LCT_WL
+$EAWSE_RIV_RCT_RS_T$ - Westerly Leeward £ideology_supremacy_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  The Empire's Nightmare
+  Believe, obey, fight.\n -Westerly Leeward
+$EAWSE_RIV_RCT_RS_T$ - Вестерли Льюард £ideology_supremacy_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Страшный сон Империи
+  Верь, повинуйся, сражайся.\n -Вестерли Льюард
+
+68 EAWSE_RIV_LCT_WB
+$EAWSE_RIV_RCT_RS_T$ - Wavebreaker £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Si vis pacem, para bellum
+  Whatever power came to destroy us, we always crushed it. Who couldn't defeat us divided, let no one dares to even think about the attack on us combined.\n -Wavebreaker
+$EAWSE_RIV_RCT_RS_T$ - Вейвбрейкер £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Si vis pacem, para bellum
+  Какая бы сила не приходила бы уничтожить нас, мы всегда её сокрушали. Кто не мог победить нас разделенных, пусть не смеет даже думать об атаке на нас объединенных.\n -Вейвбрейкер
+
+!EAWSE_RIV_BAK_TITLE
+  BAK
+  BAK
+
+69 EAWSE_RIV_BAK_WL
+$EAWSE_RIV_RCT_RS_T$ - Water Lily £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  A Beacon of Liberty
+  Democracy is an enticing goal, not a safe haven. After all, freedom is an incessant pursuit, not a final achievement.\n -Water Lily
+$EAWSE_RIV_RCT_RS_T$ - Уотер Лили £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Маяк свободы
+  Демократия это манящая цель, а не тихая гавань. Ведь свобода – это непрестанное стремление, а не окончательное достижение.\n -Уотер Лили
+
+70 EAWSE_RIV_BAK_TD
+$EAWSE_RIV_RCT_RS_T$ - Tea Dip £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Less control, more freedom
+  A limited state with free economic systems is the soil where the tree of freedom blooms.\n -Tea Dip
+$EAWSE_RIV_RCT_RS_T$ - Ти Дип £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Меньше контроля, больше свободы
+  Ограниченное государство со свободными экономическими системами — это почва, где цветет дерево свободы.\n -Ти Дип
+
+71 EAWSE_RIV_BAK_BF
+$EAWSE_RIV_RCT_RS_T$ - Bray Foam £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  United once and for all
+  Cherish brotherhood and unity like the apple of your eye.\n -Bray Foam
+$EAWSE_RIV_RCT_RS_T$ - Брей Фоум £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Едины отныне и навсегда
+  Берегите братство и единство, как зеницу ока своего.\n -Брей Фоум
+
+72 EAWSE_RIV_BAK_FS
+$EAWSE_RIV_RCT_RS_T$ - Firm Scow £ideology_supremacy_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  One country. One nation. One culture.
+  In a democracy, three things are repulsive: spinelessness, the habit of collective irresponsibility, and the false myth of universal happiness and non-stop progress.\n -Firm Scow
+$EAWSE_RIV_RCT_RS_T$ - Фёрм Скау £ideology_supremacy_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Одна страна. Один народ. Одна культура.
+  В демократии отталкивают три вещи: бесхребетность, привычка коллективной безответственности и ложный миф о всеобщем счастье и безостановочном прогрессе.\n -Фёрм Скау
+
+!EAWSE_RIV_DMT_TITLE
+  DMT
+  DMT
+
+64 EAWSE_RIV_DMT_MOLLY
+$EAWSE_RIV_RCT_RS_T$ - Princess Molly £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Truly Princess of the Riverlands
+  I promise you, to protect the harmony in our land, to fight against any threat to our peoples and traditions. I see our homeland open to everyone - ponies, griffons, dogs, zebras, and all the others in need. But do not take our kindness as a weakness, or you will quickly find out why no one was able to conquer the Riverlands.\n -Princess Molly
+$EAWSE_RIV_RCT_RS_T$ - Принцесса Молли £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Воистину, принцесса Речных Земель
+  Я обещаю вам, защищать гармонию на нашей земле, бороться с любой угрозой нашим народам и традициям. Я вижу нашу родину открытой для всех. Но не воспринимайте нашу доброту как слабость, а то быстро узнаете, почему никто так и не смог покорить Речные Земли.\n -Принцесса Молли
+
+65 EAWSE_RIV_DMT_ROVER
+$EAWSE_RIV_RCT_RS_T$ - King Rover £ideology_supremacy_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Shut up! The king speaks.
+  I am for the monarchy, for it is my royal will.\n -King Rover
+$EAWSE_RIV_RCT_RS_T$ - Король Ровер £ideology_supremacy_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Молчать! Король говорит.
+  Я за монархию, ибо такова моя королевская воля.\n -Король Ровер
+
+156 EAWSE_RIV_DMT_COM
+$EAWSE_RIV_RCT_RS_T$ - Clifford the Red £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Until every last chain is broken
+  Intellectuals make communists look like monsters, but try to do without a stick. The capitalists have not raised the Riverlands for 200 years. And we have redone them in a few years.\n -Clifford the Red
+$EAWSE_RIV_RCT_RS_T$ - Клиффорд Красный £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Пока не лопнет последняя цепь
+  Интеллигенты коммунистов чудовищами выставляют, а попробуй тут без палки. Капиталисты за 200 лет Речноземье не подняли. А мы их за считанные годы переделали.\n -Клиффорд Красный
+
+!EAWSE_RIV_WIT_TITLE
+  WIT
+  WIT
+
+73 EAWSE_RIV_WIT_WS
+$EAWSE_RIV_RCT_RS_T$ - White Star £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Equestria of the East
+  In reality, the monarchy and the republic are only forms of the same essence-the state, and the goals of the latter are equally common to both of them. Why should the pursuit of freedom and equality be fundamentally alien to one of these forms?\n -Queen White Star
+$EAWSE_RIV_RCT_RS_T$ - Уайт Стар £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Эквестрия Востока
+  В действительности монархия и республика суть только формы одной и той же сущности — государства, и цели последнего одинаково общи для той и другой из них. Почему же стремление к свободе и равенству должно быть принципиально чуждым одной из этих форм?\n -Королева Уайт Стар
+
+74 EAWSE_RIV_WIT_V
+$EAWSE_RIV_RCT_RS_T$ - Voliare Gingerbeard £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Equality, Education, Freedom
+  We overthrew the monarchy and hated the power of the aristocracy and brought Wittenland long-awaited freedom. Now, however, we face a much more serious task. I promise you that all the Riverlands will now be a stronghold of peace, equality, and freedom throughout Griffonia.\n -Voliare Gingerbeard
+$EAWSE_RIV_RCT_RS_T$ - Вольяр Джинджербирд £ideology_communism_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Равенство, образование, свобода
+  Мы свергли монархию и ненавистную власть аристократов и принесли Виттенленду долгожданную свободу. Ныне же, перед нами стоит гораздо более серьезная задача. Я обещаю вам, что ныне все Речные Земли станут оплотом мира, равенства и свободы во всей Грифонии.\n -Вольяр Джинджербирд
+
+75 EAWSE_RIV_WIT_HARMONY
+$EAWSE_RIV_RCT_RS_T$ - Harmony £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  In Union and Freedom
+  Considering that the strengthening of the deep-rooted relations of friendship, good-neighborliness and mutually beneficial cooperation meets the fundamental interests of the peoples and serves the cause of peace and security, we declare the formation of the River Federation.\n -From the treaty establishing the River Federation
+$EAWSE_RIV_RCT_RS_T$ - Гармония £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  В союзе и свободе
+  Считая, что укрепление имеющих глубокие исторические корни отношений дружбы, добрососедства и взаимовыгодного сотрудничества отвечает коренным интересам народов и служит делу мира и безопасности, заявляем об образовании Речной Федерации.\n -Из договора о создании Речной Федерации
+
+76 EAWSE_RIV_WIT_NEUTRAL
+$EAWSE_RIV_RCT_RS_T$ - Non-Aligned £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Unity, Fidelity, Justice
+  The rejection of tradition-even in the name of freedom - results in the destruction of the norms of the community, the destruction of more or less acceptable forms of social behavior.\n -Wittenland's noble
+$EAWSE_RIV_RCT_RS_T$ - Нейтралитет £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Единство, Верность, Справедливость
+  Отказ от традиции – даже во имя свободы – оборачивается уничтожением норм общежития, разрушением более или менее приемлемых форм социального поведения.\n -Виттенлендский дворянин
+
+!EAWSE_RIV_NIM
+  NIM
+  NIM
+
+61 EAWSE_RIV_NIM_MK
+$EAWSE_RIV_RCT_RS_T$ - Metakeros £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Freedom. Equality. Unity.
+  A sincere love of liberty is what distinguishes the nations of the Riverlands from the griffons.\n -Metakeros
+$EAWSE_RIV_RCT_RS_T$ - Метакерос £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Свобода. Равенство. Единство.
+  Искренняя любовь к свободе - то, что отличает народы Речных Земель от грифонов.\n -Метакерос
+
+!EAWSE_RIV_DEP
+  DEP
+  DEP
+
+62 EAWSE_RIV_DEP_KG
+$EAWSE_RIV_RCT_RS_T$ - King Grimhoof £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Is feudalism still in vogue?
+  What is nobility? The hereditary class of the people is the highest, that is, rewarded with great advantages in terms of property and private freedom. By whom? The people or their representatives. For what purpose? With the goal of having powerful defenders or those close to the authorities and direct representatives.\n -King Grimhoof
+$EAWSE_RIV_RCT_RS_T$ - Король Гримхуф £ideology_neutrality_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Феодализм еще в моде?
+  Что такое дворянство? Потомственное сословие народа высшее, т.е. награжденное большими преимуществами касательно собственности и частной свободы. С какою целию? С целию иметь мощных защитников или близких ко властям и непосредственных предстателей.\n -Король Гримхуф
+
+!EAWSE_RIV_FRE
+  FRE
+  FRE
+
+63 EAWSE_RIV_FRE_CR
+$EAWSE_RIV_RCT_RS_T$ - Crimson nic Heart £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Monks at the head of the East
+  I assure you that we will protect the uniqueness of all nations of the Riverlands. We are no longer a Coalition, but a Federation of Equals. Each of us is important and everyone will be heard.\n -Crimson nic Heart
+$EAWSE_RIV_RCT_RS_T$ - Кримзон ник Харт £ideology_harmony_texticon
+  $EAWSE_RIV_RCT_RS_T$
+  Монахи во главе Востока
+  Уверяю вас в том, что мы защитим уникальность всех народов речных земель. Мы более не Коалиция, но Федерация равных. Каждый из нас важен и каждый будет услышан.\n -Кримзон ник Харт
+
+!EAWSE_RIVERLANDS_LCT
+  LCT
+  LCT
+
+26 EAWSE_RIV_EMP
+$EAWSE_RIV_EMP_T$
+  Return of the River Empire
+  Split in the River Coalition
+  The whole secret of the campaigns unleashed against Riverlands can be explained in two words: Democracy and Communism… we have to extirpate these two evils from our land.\n -General Wild Tree
+$EAWSE_RIV_EMP_T$
+  Возвращение Речной Империи
+  Раскол в Речной Коалиции
+  Весь секрет кампаний, развязанных против Речноземья, можно объяснить двумя словами: демократия и коммунизм ... мы должны искоренить эти два зла на нашей земле.\n -Генерал Вайлд Три
+
+39 EAWSE_HOLY_PONY_EMPIRE
+$EAWSE_HOLY_PONY_EMPIRE_T$
+  Holy Pony Empire
+  So, now Griffonia is Ponia?
+  As the ruins of Griffenheim burn, so will burn their rotten Empire and the Grover dynasty.\n -Grand Prince Heavenly Snow
+$EAWSE_HOLY_PONY_EMPIRE_T$
+  Священная Империя Пони
+  Итак, теперь Гриффония это Пония?
+  Как горят руины Гриффенхейма, так и сгорит и их прогнившая Империя, и династия Гроверов.\n -Великий Князь Хевенли Сноу
+
+!EAWSE_RIVERLANDS_JER
+  JER
+  JER
+
+36 EAWSE_OST_GRIFFONIA
+$EAWSE_OST_GRIFFONIA_T$
+  Ost-Griffonian Empire
+  They lost to their hatred
+  Some people call us monsters. Everything we did, we did in the name of the griffons. And we have done no harm to our essence, our souls and our character.\n -Edler von Wingenberg
+$EAWSE_OST_GRIFFONIA_T$
+  Основание Восточно-Грифоньей Империи
+  Ненависть лишила их рассудка
+  Некоторые называют нас чудовищами. Все, что мы делали, мы делали исходя из любви к своему народу. И мы не нанесли никакого вреда нашей сути, нашим душам и нашему характеру.\n -Эдлер фон Вингерберг
+
+!EAWSE_RIVERLANDS_LNS
+  LNS
+  LNS
+
+41 EAWSE_LNS_GM
+$EAWSE_LNS_GM_T$
+  Griffking Empire
+  Utopia with camps and repression?
+  The folly of the Revolution was to wish to establish virtue on earth. When one would make all creatures good and wise, free, moderate, and liberal, one is led to the fatal desire of killing them all.\n -Anatole France
+$EAWSE_LNS_GM_T$
+  Гриффкингская империя
+  Утопия с лагерями и репрессиями?
+  Безумием революции было водворить добродетель на земле. Когда хотят сделать всех существ добрыми, мудрыми, свободными, воздержанными и великодушными, то неизбежно приходят к желанию перебить их всех.\n -Анатоль Франс
+
+42 EAWSE_LNS_POWNER
+$EAWSE_LNS_POWNER_T$
+  Herzland in Flames
+  An eye for an eye
+  For every Pony the Reformists murdered\nFor every racist law they passed\nFor every wrong that wasn’t right\nFor all the dead Kerstininkai would fight!\n -Kerstininkai marching song
+$EAWSE_LNS_POWNER_T$
+  Герцланд в огне
+  Око за око
+  За каждого убитого грифонами пони\nЗа каждый принятый расистский закон\nЗа каждое их преступление\nЗа всех павших, Керштининкай пойдет в бой!\n -Походная песня Керштининкая
+
+!EAWSE_GRIFFONIA_GREAT_WAR_TITLE
+  Great War
+  Великая в.
+
+40 EAWSE_GRI_RIV_WAR_GRI
+$EAWSE_GRI_RIV_WAR_GRI_T$
+  The Great Eastern War
+  Alea iacta est
+  Now even the most obstinate idealists understood that good and evil were merely philosophical concepts. It was a time when even little children were being taught that slaughter, destruction, the extermination of whole nations were fine and praiseworthy actions. Every day millions of newspaper columns asserted and repeated this.\n -Griffonian writer
+$EAWSE_GRI_RIV_WAR_GRI_T$
+  Великая Восточная война
+  Alea iacta est
+  Теперь даже закоренелым идеалистам стало ясно, что добро и зло суть понятия чисто философские. Это время, когда даже малым детям внушают, что убийство, разрушение, уничтожение целых наций – доблестные и святые поступки. Об этом твердят и вопят ежедневно миллионы газетных листков.\n -Грифоний писатель
+
+171 EAWSE_GRI_RIV_WAR_RIV_V
+$EAWSE_GRI_RIV_WAR_RIV_V_T$
+  Victory of the Coalition
+  The end of a centuries-old struggle
+  Yes, we are successful in the fight,\nBut do not want to see again\nThe soldiers who fell down due combats\nForever got embraced with bitter land.\n -Rijekan song
+$EAWSE_GRI_RIV_WAR_RIV_V_T$
+  Победа Речной Коалиции
+  Конец многовековой борьбы
+  Не надо нас пугать, бахвалиться спесиво,\nНе стоит нам грозить и вновь с огнём играть.\nВедь, если враг рискнёт проверить нашу силу,\nЕго мы навсегда отучим проверять.\n-Речная патриотическая песня
+
+172 EAWSE_GRI_RIV_WAR_GRI_V
+$EAWSE_GRI_RIV_WAR_GRI_V_T$
+  Victory of the Empire
+  And the poppies blow
+  We are the dead, short days ago\nWe lived, felt dawn, saw sunset glow\nLoved and were loved, and now we lie\nIn Deponian fields, in Deponian fields.\n -An Imperial poem
+$EAWSE_GRI_RIV_WAR_GRI_V_T$
+  Победа Империи Грифонов
+  И маки алые цветут
+  Мы – мёртвые, в земле нашли приют.\nА ведь могли бы жить, как все живут,\nЛюбить и любоваться на закаты...\nНо на войне убили нас когда-то\nВ полях на Востоке.\n -Имперское стихотворение времен войны

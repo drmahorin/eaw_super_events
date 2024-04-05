@@ -1,0 +1,73 @@
+	containerWindowType = {{
+		name = "eawse_superevent_{i}_entry"
+		size = {{ width = 557 height = 30 }}
+		position = {{ x = 0 y = {y} }}
+		clipping = no
+		origo = upper_left
+		orientation = upper_left
+			
+		background = {{
+			name = "Background"
+			quadTextureSprite = "GFX_tiled_window_transparent"
+		}}
+
+		iconType = {{
+			name = "divider"
+			position = {{ x = -10 y = 3 }}
+			quadTextureSprite = "GFX_musicplayer_entry_bg"
+			alwaystransparent = yes
+		}}
+
+		iconType = {{
+			name = "disabled"
+			position = {{ x = -14 y = 6 }}
+			quadTextureSprite ="GFX_disabled_song"
+			alwaystransparent = yes
+		}}
+
+		buttonType = {{
+			name = "play"
+			quadTextureSprite = "GFX_music_pause_button"
+			position = {{ x = -1 y = -1 }}
+			pdx_tooltip = "MUSICPLAYER_PLAY_TRACK"
+		}}
+
+		buttonType = {{
+			name = "disable"
+			quadTextureSprite = "GFX_eawse_x_button"
+			position = {{ x = 32 y = 4 }}
+			pdx_tooltip = "EAWSE_EVENT_DISABLE"
+		}}
+
+		buttonType = {{
+			name = "enable"
+			quadTextureSprite = "GFX_eawse_v_button"
+			position = {{ x = 32 y = 4 }}
+			pdx_tooltip = "EAWSE_EVENT_ENABLE"
+		}}
+
+		instantTextboxType = {{
+			name = "event_label"
+			position = {{ x = 60 y = 8 }}
+			font = "hoi4_typewriter16"
+			text = "{id}_TITLE"
+			maxWidth = 430
+			maxHeight = 20
+			format = left
+			fixedsize = yes
+			alwaystransparent = yes
+		}}
+
+		instantTextboxType = {{
+			name = "tag"
+			position = {{ x = -92 y = 8 }}
+			font = "hoi4_typewriter16"
+			text = "{sub}"
+			maxWidth = 90
+			maxHeight = 20
+			format = left
+			fixedsize = yes
+			orientation = "UPPER_RIGHT"
+			alwaystransparent = yes
+		}}
+	}}

@@ -1,0 +1,57 @@
+spriteTypes = {
+    corneredTileSpriteType = {
+        name = "GFX_tiled_window_bigevent_border"
+        size= { x=192 y=243 }
+        textureFile = "gfx/interface/tiles/tiled_window_bigevent_border.dds"
+        borderSize = { x=64 y=71 }
+        tilingCenter = yes
+        effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
+    }
+
+    spriteType = {
+        name = "GFX_superevent_text_underlay"
+        textureFile = "gfx/interface/superevent_text_underlay.dds"
+    }
+        
+    corneredTileSpriteType = {
+        name = "GFX_tiled_window_1b_no_border"
+        size= { x=192 y=192 }
+        textureFile = "gfx/interface/tiles/tiled_bg.dds"
+        borderSize = { x=64 y=64 }
+        tilingCenter = yes
+        effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
+    }
+        
+    textSpriteType = {
+        name = "GFX_button_399x34"
+        texturefile = "gfx/interface/button_399x34.dds"
+        noOfFrames = 1
+        effectFile = "gfx/FX/buttonstate.lua"
+    }
+    
+    spriteType = {
+        name = "GFX_eawse_album_art"
+        texturefile = "gfx/interface/topbar/musicplayer/eawse_album_art.dds"
+        noOfFrames = 2
+    }
+
+    spriteType = {
+        name = "GFX_eawse_x_button"
+        textureFile = "gfx/interface/eawse_v_button.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_v_button"
+        textureFile = "gfx/interface/eawse_x_button.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_button"
+        textureFile = "gfx/interface/topbar/eawse_button.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_event_42"
+        textureFile = "gfx/event_pictures/eawse_event_42.tga"
+    }
+}

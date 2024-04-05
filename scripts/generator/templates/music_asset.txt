@@ -1,0 +1,4 @@
+music = {{
+	name = "{id}"
+	file = "{id}.ogg"
+}}

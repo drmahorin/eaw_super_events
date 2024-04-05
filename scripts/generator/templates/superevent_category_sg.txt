@@ -1,0 +1,10 @@
+	eawse_{cat}_superevent_category = {{
+		context_type = player_context
+		window_name = "eawse_superevent_{cat}_category"
+		parent_window_name = "eawse_settings_window_instance"
+
+		visible = {{
+			check_variable = {{ eawse_category = {cat_i} }}
+		}}
+	}}
+
