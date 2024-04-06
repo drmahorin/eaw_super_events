@@ -2,6 +2,7 @@ country_event = {{
 	id = eaw_superevents.{i}
 	hidden = yes
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {{
 		every_country = {{
 			limit = {{ 

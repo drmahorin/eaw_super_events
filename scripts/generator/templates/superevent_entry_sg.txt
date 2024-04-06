@@ -5,8 +5,7 @@
 
 		triggers = {{
 			play_visible = {{
-				AND = {{
-					NOT = {{ has_country_flag = {id}_off }}
+				OR = {{
 					is_debug = yes
 				}}
 			}}
@@ -26,7 +25,8 @@
 		
 		effects = {{
 			play_click = {{
-				country_event = {{ id = eaw_superevents.{i} }}
+				set_temp_variable = {{ EAWSE_temp_super_event = {i} }}
+				EAWSE_show_super_event = yes
 			}}
 
 			disable_click = {{
