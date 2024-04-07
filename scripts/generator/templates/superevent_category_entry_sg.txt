@@ -2,6 +2,7 @@
 		context_type = player_context
 		window_name = "eawse_category_{cat_i}_entry"
 		parent_window_name = "eawse_categories_window_instance"
+		dirty = eawse_we_do_a_little_bit_of_hacking
 
 		effects = {{
 			select_click = {{

@@ -5,12 +5,6 @@ country_event = {
 	hidden = yes
 	is_triggered_only = yes
 	option = {
-		trigger = { is_ai = yes }
-		set_variable = { eawse_category = 0 }
-	}
-	option = {
-		trigger = { is_ai = no }
-		set_variable = { eawse_category = 0 }
 		country_event = { id = eaw_superevents.internal.42 }
 	}
 }

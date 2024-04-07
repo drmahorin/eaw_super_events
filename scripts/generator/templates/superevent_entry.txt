@@ -5,7 +5,7 @@
 		clipping = no
 		origo = upper_left
 		orientation = upper_left
-			
+
 		background = {{
 			name = "Background"
 			quadTextureSprite = "GFX_tiled_window_transparent"

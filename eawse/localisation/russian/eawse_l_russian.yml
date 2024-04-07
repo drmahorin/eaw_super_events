@@ -1,5 +1,6 @@
 ﻿l_russian:
-  eawse_TITLE: "£eaw_text  §YEquestria at War§! - Супер Ивенты\nПанель настройки"
+  eawse_TITLE: "£eaw_text  §YEquestria at War§! - Супер Ивенты"
+  EAWSE_SETTINGS_TITLE: "$eawse_TITLE$\nПанель настройки"
   EAWSE_SETTINGS_TT: "Настройки Супер Ивентов"
   EAWSE_EVENT_DISABLE: "Отключить ивент"
   EAWSE_EVENT_ENABLE: "Включить ивент"

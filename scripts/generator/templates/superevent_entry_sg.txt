@@ -5,9 +5,7 @@
 
 		triggers = {{
 			play_visible = {{
-				OR = {{
-					is_debug = yes
-				}}
+				is_debug = yes
 			}}
 
 			disabled_visible = {{

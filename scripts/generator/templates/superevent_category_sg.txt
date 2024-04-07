@@ -2,6 +2,7 @@
 		context_type = player_context
 		window_name = "eawse_superevent_{cat}_category"
 		parent_window_name = "eawse_settings_window_instance"
+		dirty = eawse_we_do_a_little_bit_of_hacking
 
 		visible = {{
 			check_variable = {{ eawse_category = {cat_i} }}

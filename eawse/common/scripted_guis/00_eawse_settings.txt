@@ -7,6 +7,10 @@ scripted_gui = {
 		effects = {
 			se_button_click = {
 				if = {
+					limit = { NOT = { has_variable = eawse_category } }
+					set_variable = { eawse_category = 0 }
+				}
+				if = {
 					limit = { NOT = { has_country_flag = eawse_settings_visible } }
 					set_country_flag = eawse_settings_visible
 				}
