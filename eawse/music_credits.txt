@@ -120,7 +120,7 @@ eawse_herzland_brz_com - Auf, auf zum Kampf zum Kampf
 eawse_herzland_brz_juche - No Motherland Without You
 eawse_herzland_brz_loudbark - Tokyo Philharmonic Orchestra - Panzerlied
 eawse_herzland_brz_church - State of the Church (754–1870) "Inno e Marcia Pontificale"
-eawse_herzland_brz_revenge_com - [Wind Orchestra] "Funeral Music" {DPRK Music}
+eawse_herzland_brz_revenge_com - [Wind Orchestra] "Funeral Music" [DPRK Music]
 eawse_herzland_brz_revenge_empire_of_dogs - Sigmund Krähe - Opus 131 - "Revenge at Sea"
 eawse_light_crusade - Da Pacem, Domine : A Templar Chant
 eawse_new_mareland_equalist - MLP - In Our Town
