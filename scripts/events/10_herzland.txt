@@ -114,11 +114,11 @@ $EAWSE_HERZLAND_ANG_LEER_T$ - Чёрный Коготь £ideology_supremacy_tex
 $EAWSE_HERZLAND_ANG_LEER_T$ - Otto Weschler £ideology_neutrality_texticon
   $EAWSE_HERZLAND_ANG_LEER_T$
   The Republic boldly looks forward
-  years ago, and I am proud that I contributed to its success. But our young republic needs new, young leaders who will take Herzland to a completely new level.\n -Otto Weschler
+  My work is done here. We have completed a revolution that began more than 30 years ago, and I am proud that I contributed to its success. But our young republic needs new, young leaders who will take Herzland to a completely new level.\n -Otto Weschler
 $EAWSE_HERZLAND_ANG_LEER_T$ - Отто Вешлер £ideology_neutrality_texticon
   $EAWSE_HERZLAND_ANG_LEER_T$
   Республика смело смотрит вперед
-  лет назад и я горд, что внес свой вклад в её успех. Но нашей молодой республике нужны новые, молодые лидеры, которые выведут страну на совершенно новый уровень.\n -Отто Вешлер
+  Моя работа на этом завершена. Мы закончили революцию, что началась больше 30 лет назад и я горд, что внес свой вклад в её успех. Но нашей молодой республике нужны новые, молодые лидеры, которые выведут страну на совершенно новый уровень.\n -Отто Вешлер
 
 !EAWSE_PYT_TITLE
   PYT

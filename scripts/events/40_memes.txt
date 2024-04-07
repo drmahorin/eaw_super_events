@@ -1,6 +1,6 @@
 !!EAWSE_MEMES_TITLE
-	Memes, jokes, april fools
-  Мемы, шутка, первое апреля
+  Memes, jokes, april fools
+  Мемы, шутки, первое апреля
 
 !EAWSE_MEMES_TNO
   AF 2022
