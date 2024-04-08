@@ -1,0 +1,10 @@
+﻿l_spanish:
+  eawse_TITLE: "£eaw_text  §YEquestria at War§! - Super Events"
+  EAWSE_SETTINGS_TITLE: "$eawse_TITLE$\nSettings Panel"
+  EAWSE_SETTINGS_TT: "Super Events Settings"
+  EAWSE_EVENT_DISABLE: "Disable event"
+  EAWSE_EVENT_ENABLE: "Enable event"
+  # Temporary warning
+  eaw_superevents.internal.42.t: "EaW - Super Events"
+  eaw_superevents.internal.42.desc: "Warning! In the latest submod update, the super event customization panel has been added. There is no longer a Decision to access the settings, you can access the panel through the music customization panel."
+  eaw_superevents.internal.42.a: "Ok."

@@ -16,7 +16,14 @@ eawse/events/eawse_events.txt
 eawse/interface/eawse_gfx/generated
 eawse/interface/eawse_settings
 eawse/localisation/english/*
+eawse/localisation/french/*
+eawse/localisation/german/*
+eawse/localisation/spanish/*
+eawse/localisation/braz_por/*
+eawse/localisation/polish/*
 eawse/localisation/russian/*
+eawse/localisation/japanese/*
+eawse/localisation/simp_chinese/*
 eawse/music/**/*.asset
 eawse/music/**/*.txt
 

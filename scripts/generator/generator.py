@@ -9,8 +9,6 @@ dirs = (
     'common/scripted_localisation',
     'events',
     'interface/eawse_gfx/generated',
-    'localisation/english',
-    'localisation/russian',
     'music',
 )
 for dir in dirs:
