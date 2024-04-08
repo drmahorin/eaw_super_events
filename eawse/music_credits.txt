@@ -120,7 +120,7 @@ eawse_herzland_brz_com - Auf, auf zum Kampf zum Kampf
 eawse_herzland_brz_juche - No Motherland Without You
 eawse_herzland_brz_loudbark - Tokyo Philharmonic Orchestra - Panzerlied
 eawse_herzland_brz_church - State of the Church (754–1870) "Inno e Marcia Pontificale"
-eawse_herzland_brz_revenge_com - [Wind Orchestra] "Funeral Music" {DPRK Music}
+eawse_herzland_brz_revenge_com - [Wind Orchestra] "Funeral Music" [DPRK Music]
 eawse_herzland_brz_revenge_empire_of_dogs - Sigmund Krähe - Opus 131 - "Revenge at Sea"
 eawse_light_crusade - Da Pacem, Domine : A Templar Chant
 eawse_new_mareland_equalist - MLP - In Our Town
@@ -180,7 +180,7 @@ eawse_war_two_cont_juche_vs_equus - North Korean Patriotic Song - Footsteps
 eawse_war_two_cont_hlq_vs_eqs - ANUVAN - Sacred War + https://15.ai/ (for Celestia voice) + Gen. Dwight D. Eisenhower's D-Day Message (Speech)
 eawse_crystal_regency - Evening Star - A Dying World
 eawse_war_two_cont_riv_vs_chn - Yugoslav Military March - Zabruje Tako Pjesme Znane
-eawse_atom - We will meet again (from  "мя. νσ∂кα" yt channel)
+eawse_atom - We will meet again (from  @mrvodka10ac YT channel)
 eawse_north_zebrica_war - Waterloo Soundtrack - A Field of Death
 eawse_tobuck_white - Regiments are marching
 eawse_tobuck_severyana - God Save the Tsar!

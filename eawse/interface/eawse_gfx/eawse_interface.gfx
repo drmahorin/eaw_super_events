@@ -1,0 +1,44 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_EAWSE_EMPTY"
+        texturefile = "gfx/interface/topbar/superevents/eawse_empty.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_underlay"
+        textureFile = "gfx/interface/eawse_underlay.dds"
+    }
+        
+    textSpriteType = {
+        name = "GFX_eawse_button_399x34"
+        texturefile = "gfx/interface/eawse_button_399x34.dds"
+        noOfFrames = 1
+        effectFile = "gfx/FX/buttonstate.lua"
+    }
+    
+    spriteType = {
+        name = "GFX_eawse_album_art"
+        texturefile = "gfx/interface/topbar/musicplayer/eawse_album_art.dds"
+        noOfFrames = 2
+    }
+
+    spriteType = {
+        name = "GFX_eawse_x_button"
+        textureFile = "gfx/interface/eawse_v_button.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_v_button"
+        textureFile = "gfx/interface/eawse_x_button.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_button"
+        textureFile = "gfx/interface/topbar/eawse_button.dds"
+    }
+
+    spriteType = {
+        name = "GFX_eawse_event_42"
+        textureFile = "gfx/event_pictures/eawse_event_42.tga"
+    }
+}

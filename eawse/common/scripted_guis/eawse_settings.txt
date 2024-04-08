@@ -1,0 +1,101 @@
+scripted_gui = {
+	eawse_settings_open = {
+		window_name = "eawse_setting_open"
+		context_type = player_context
+		parent_window_name = "toggle_music_commands_win"
+		dirty = eawse_we_do_a_little_bit_of_hacking
+
+		effects = {
+			se_button_click = {
+				eawse_setup_arrays = yes
+				if = {
+					limit = { NOT = { has_country_flag = eawse_settings_visible } }
+					set_country_flag = eawse_settings_visible
+				}
+				else = {
+					clr_country_flag = eawse_settings_visible
+				}
+			}
+		}
+	}
+
+	eawse_settings_window = {
+		window_name = "eawse_settings_window"
+		context_type = player_context
+		parent_window_token = top_bar
+
+		visible = {
+			has_country_flag = eawse_settings_visible
+		}
+
+		dynamic_lists = {
+			categories_grid = {
+				array = global.eawse_categories
+				value = v
+				index = eawse_category_id
+				change_scope = no
+				entry_container = "eawse_category_entry"
+			}
+
+			events_grid = {
+				array = eawse_events
+				value = eawse_linear_id
+				index = i
+				change_scope = no
+				entry_container = "eawse_event_entry"
+			}
+		}
+
+		triggers = {
+			disabled_visible = {
+				check_variable = { eawse_events_disabled^eawse_linear_id = 1 }
+			}
+
+			event_play_visible = {
+				is_debug = yes
+			}
+
+			event_disable_visible = {
+				check_variable = { eawse_events_disabled^eawse_linear_id = 0 }
+			}
+
+			event_enable_visible = {
+				check_variable = { eawse_events_disabled^eawse_linear_id = 1 }
+			}
+
+			tag_visible = {
+				set_temp_variable = { eawse_subcategory_id = global.eawse_events_subcategories^eawse_linear_id }
+			}
+		}
+
+		properties = {
+			Image = {
+				image = "[EAWSEGetEventCategoryImage]"
+			}
+		}
+
+		effects = {
+			close_button_click = {
+				clr_country_flag = eawse_settings_visible
+			}
+
+			category_select_click = {
+				set_variable = { eawse_category = eawse_category_id }
+				eawse_update_array = yes
+			}
+
+			event_play_click = {
+				set_temp_variable = { eawse_temp_id = global.eawse_events_all^eawse_linear_id }
+				eawse_show = yes
+			}
+
+			event_disable_click = {
+				set_variable = { eawse_events_disabled^eawse_linear_id = 1 }
+			}
+
+			event_enable_click = {
+				set_variable = { eawse_events_disabled^eawse_linear_id = 0 }
+			}
+		}
+	}
+}

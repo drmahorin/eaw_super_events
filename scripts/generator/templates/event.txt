@@ -1,4 +1,5 @@
 country_event = {{
+	# {id}
 	id = eaw_superevents.{i}
 	hidden = yes
 	is_triggered_only = yes
@@ -7,10 +8,10 @@ country_event = {{
 		every_country = {{
 			limit = {{ 
 				is_ai = no
-				NOT = {{ has_country_flag = {id}_off }}
+				check_variable = {{ eawse_events_disabled^{il} = 0 }}
 			}}
-			set_temp_variable = {{ EAWSE_temp_super_event = {i} }}
-			EAWSE_show_super_event = yes
+			set_temp_variable = {{ eawse_temp_id = {i} }}
+			eawse_show = yes
 		}}
 	}}
 }}

@@ -1,6 +1,0 @@
-defined_text = {{
-	name = EAWSEGet{id}
-	text = {{
-		localization_key = "${id}_TITLE$"
-	}}
-}}

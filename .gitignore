@@ -11,10 +11,9 @@ scripts/migrator
 
 # This stuff is generated anyways
 eawse/common/scripted_effects
-eawse/common/scripted_guis/*
-eawse/common/scripted_localisation
+eawse/common/scripted_localisation/eawse_sloc_*.txt
 eawse/events/eawse_events.txt
-eawse/interface/eawse_gfx
+eawse/interface/eawse_gfx/generated
 eawse/interface/eawse_settings
 eawse/localisation/english/*
 eawse/localisation/russian/*

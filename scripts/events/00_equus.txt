@@ -186,7 +186,7 @@ $EAWSE_BALTIMARE_GOLDEN_T$ - Шугар Спринкл £ideology_harmony_textic
 $EAWSE_BALTIMARE_GOLDEN_T$ - Wheatin/Serov/Lunin £ideology_communism_texticon
   $EAWSE_BALTIMARE_GOLDEN_T$
   Onwards to a brighter future!
-  ...on the basis of the powers granted to us, we, the delegates of soviet republics, decide to sign an agreement. on the formation of the "Equestrian Socialist Republic\n -From Declaration of the Formation of the ESR
+  ...on the basis of the powers granted to us, we, the delegates of soviet republics, decide to sign an agreement. on the formation of the «Equestrian Socialist Republic»\n -From Declaration of the Formation of the ESR
 $EAWSE_BALTIMARE_GOLDEN_T$ - Витин/Серов/Лунин £ideology_communism_texticon
   $EAWSE_BALTIMARE_GOLDEN_T$
   К светлому будущему!
@@ -246,7 +246,7 @@ $EAWSE_BALTIMARE_GOLDEN_T$ - Наш Город
 
 4 EAWSE_SOMBRA_RETURNS
 $EAWSE_SOMBRA_RETURNS_T$
-  Sombra's return to the throne
+  Sombra's Return to the Throne
   The shadow king is back in action
   I am not just any monster, Hope. I am king of the monsters!\n -King Sombra
 $EAWSE_SOMBRA_RETURNS_T$

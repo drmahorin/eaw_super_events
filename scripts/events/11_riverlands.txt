@@ -51,14 +51,14 @@ $EAWSE_RIV_RCT_RS_T$ - Карамель Хэйз £ideology_communism_texticon
   LCT
 
 66 EAWSE_RIV_LCT_DS
-$EAWSE_RIV_RCT_RS_T$ - Dierdre Skye £ideology_harmony_texticon
+$EAWSE_RIV_RCT_RS_T$ - Deirdra Skye £ideology_harmony_texticon
   $EAWSE_RIV_RCT_RS_T$
   More than an army with a country
-  We abandoned our plans for revenge on the griffons and chose the path of peace, but let them know that if the Empire tries to take over our lands, nature itself will turn against them!\n —Dierdre Skye
-$EAWSE_RIV_RCT_RS_T$ - Дэйдра Скай £ideology_harmony_texticon
+  We abandoned our plans for revenge on the griffons and chose the path of peace, but let them know that if the Empire tries to take over our lands, nature itself will turn against them!\n —Deirdra Skye
+$EAWSE_RIV_RCT_RS_T$ - Дейрдра Скай £ideology_harmony_texticon
   $EAWSE_RIV_RCT_RS_T$
   Больше, чем армия со страной
-  Мы отказались от планов мести грифонам и выбрали путь мира, но пусть знают: если имперцы попробуют захватить наши земли — сама природа обратится против них!\n —Дэйдра Скай
+  Мы отказались от планов мести грифонам и выбрали путь мира, но пусть знают: если имперцы попробуют захватить наши земли — сама природа обратится против них!\n —Дейрдра Скай
 
 67 EAWSE_RIV_LCT_WL
 $EAWSE_RIV_RCT_RS_T$ - Westerly Leeward £ideology_supremacy_texticon

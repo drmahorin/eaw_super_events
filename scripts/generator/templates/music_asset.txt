@@ -1,4 +1,4 @@
 music = {{
-	name = "{id}"
+	name = "SFX_{id_upper}"
 	file = "{id}.ogg"
 }}
