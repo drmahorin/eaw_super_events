@@ -486,7 +486,7 @@ $EAWSE_PAN_GRIFFONIA_T$
 $EAWSE_FALCOR_REVENGE_T$
   Falcorian Vendetta
   Karthin delenda est
-  No mercy was shown to us in Falcor.\nNo mercy will be shown here.\nLet Karthin serve as an example.\nLet Karthin burn.\n -Gabriele d'Artigilio
+  No mercy was shown to us in Falcor.\nNo mercy will be shown here.\nLet Karthin serve as an example.\nLet Karthin burn.\n -Gabriele d'Artiglio
 $EAWSE_FALCOR_REVENGE_T$
   Фалькорская Вендетта
   Карфин должен быть разрушен
