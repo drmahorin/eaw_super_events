@@ -1,0 +1,51 @@
+eawse_setup_arrays = {{
+	if = {{
+		limit = {{
+			NOT = {{
+				AND = {{
+					has_variable = global.eawse_events_categories
+					has_variable = global.eawse_events_subcategories
+					has_variable = global.eawse_categories_bounds
+					has_variable = global.eawse_categories
+					has_variable = global.eawse_events_all
+					has_variable = eawse_events_disabled
+					check_variable = {{
+						var = global.eawse_version
+						value = {ver}
+						compare = equals
+					}}
+				}}
+			}}
+		}}
+		clear_array = global.eawse_events_categories
+		clear_array = global.eawse_events_subcategories
+		clear_array = global.eawse_categories_bounds
+		clear_array = global.eawse_categories
+		clear_array = global.eawse_events_all
+		clear_array = eawse_events_disabled
+
+		resize_array = {{
+			array = global.eawse_categories
+			size = {cats_size}
+		}}
+		set_variable = {{ global.eawse_version = {ver} }}
+
+		{data}
+		eawse_update_array = yes
+
+		resize_array = {{ eawse_events_disabled = {events} }}
+	}}
+}}
+
+eawse_update_array = {{
+	set_temp_variable = {{ t_from = eawse_category }}
+	set_temp_variable = {{ t_to = eawse_category }}
+	add_to_temp_variable = {{ t_to = 1 }}
+	clear_array = eawse_events
+	for_loop_effect = {{
+		start = global.eawse_categories_bounds^t_from
+		end = global.eawse_categories_bounds^t_to
+		value = i
+		add_to_array = {{ eawse_events = i }}
+	}}
+}}

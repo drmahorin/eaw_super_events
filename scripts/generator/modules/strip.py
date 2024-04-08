@@ -20,7 +20,7 @@ def id_grabber(fi: list[str]) -> dict[int, str]:
             skip = 8
 
     print_events('IDs', len(events))
-    return dict(sorted(events.items()))
+    return events
 
 
 @print_time('SubIDs')
@@ -70,4 +70,4 @@ def anim_grabber(fi: list[str]) -> dict[str, dict[int, str]]:
             skip = 8
 
     print_events('AnimIDs', len(events))
-    return dict(sorted(events.items()))
+    return events

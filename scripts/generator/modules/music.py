@@ -35,10 +35,10 @@ def music(out: str, ids_all: dict[str, list[dict[int, str]]], c: int):
 
             for id in ids.values():
                 id = id.lower()
-                fa.write(ta(id=id))
-                ft.write(tt(id=id))
-                fe.write(f'  {id}: "{credits[id]}"\n')
-                fr.write(f'  {id}: "{credits[id]}"\n')
+                fa.write(ta(id=id, id_upper=id.upper()))
+                ft.write(tt(id_upper=id.upper()))
+                fe.write(f'  SFX_{id.upper()}: "{credits[id]}"\n')
+                fr.write(f'  SFX_{id.upper()}: "{credits[id]}"\n')
 
                 events += 1
                 if events < c:

@@ -1,5 +1,5 @@
 music = {{
-	song = "{id}"
+	song = "SFX_{id_upper}"
 	chance = {{
 		modifier = {{ factor = 0 }}
 	}}

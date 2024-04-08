@@ -4,6 +4,8 @@
   EAWSE_SETTINGS_TT: "Super Events Settings"
   EAWSE_EVENT_DISABLE: "Disable event"
   EAWSE_EVENT_ENABLE: "Enable event"
+  # Internal shit shenanigans
+  EAWSE_MAGIC_SFX: "SFX_[?eawse_token]"
   # Temporary warning
   eaw_superevents.internal.42.t: "EaW - Super Events"
   eaw_superevents.internal.42.desc: "Warning! In the latest submod update, the super event customization panel has been added. There is no longer a Decision to access the settings, you can access the panel through the music customization panel."
