@@ -30,7 +30,7 @@ guiTypes = {
 
 		iconType = {
 			name ="Underlay"
-			spriteType = "GFX_superevent_text_underlay"
+			spriteType = "GFX_eawse_underlay"
 			# size = { width = 550 height = 137 }
 			position = { x = -562 y = -149 }
 			orientation = lower_right
@@ -70,7 +70,7 @@ guiTypes = {
 				text = "[EAWSEGetEventAnswer]"
 				position = { x = -200 y = -21 }
 				orientation = center
-				quadTextureSprite ="GFX_button_399x34"
+				quadTextureSprite ="GFX_eawse_button_399x34"
 				buttonFont = "hoi_24header"
 				shortcut = "ESCAPE"
 			}
