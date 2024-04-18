@@ -360,7 +360,7 @@ $EAWSE_AQUILEIA_REVOLT_T$
 $EAWSE_AQUILEIA_REVOLT_T$
   Аквелийская революция
   Liberté, Égalité, Fraternité
-  Революция есть идеал, вооруженный мечом.\n -Виктор Гюго" #Такой персонаж в моде есть в каком-нибудь виде?
+  Революция есть идеал, вооруженный мечом.\n -Виктор Гюго
 
 145 EAWSE_AQUILEIA_EMPIRE
 $EAWSE_AQUILEIA_EMPIRE_T$
