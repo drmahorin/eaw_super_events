@@ -7,9 +7,10 @@ __pycache__/
 *$py.class
 
 # My own stuff, not needed globally
-scripts/migrator
+sources/old_pictures*
 
 # This stuff is generated anyways
+scripts/*/out/
 eawse/common/scripted_effects
 eawse/common/scripted_localisation/eawse_sloc_*.txt
 eawse/events/eawse_events.txt
