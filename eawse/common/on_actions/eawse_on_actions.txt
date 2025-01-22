@@ -1110,7 +1110,6 @@ on_actions = {
 						has_completed_focus = EQC_the_homecoming
 						OR = {
 							EQS_princess_celestia = { is_country_leader = yes }
-							EQS_fused_sisters = { is_country_leader = yes }
 							EQS_princess_luna = { is_country_leader = yes }
 							has_idea = celestia_exile
 							has_idea = luna_exile

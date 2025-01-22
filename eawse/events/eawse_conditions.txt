@@ -704,7 +704,7 @@ country_event = {
 					#angriver.70
 					AND = {			
 						has_completed_focus = ANG_adopt_grover_vi
-						ANG_king_grover = { is_country_leader = yes }
+						GRI_emperor_grover_vi = { is_country_leader = yes }
 					}
 					#grover.42
 					AND = {
